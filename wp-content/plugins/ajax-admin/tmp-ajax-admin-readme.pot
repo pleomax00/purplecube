@@ -1,0 +1,134 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Found in description header.
+msgid "Ajax Admin"
+msgstr ""
+
+#. Short description.
+msgid "Save settings and posts using Ajax! Fast and easy, no options.. just activate plugin! translation ready, RTL Support, Arabic language included."
+msgstr ""
+
+#. Found in description header.
+msgid "The Features"
+msgstr ""
+
+#. Found in description header.
+msgid "Live Demo And Screenshots"
+msgstr ""
+
+#. Found in description header.
+msgid "Rate The Plugin"
+msgstr ""
+
+#. Found in description header.
+msgid "See Also"
+msgstr ""
+
+#. Found in description header.
+msgid "More Plugins"
+msgstr ""
+
+#. Found in description list item.
+msgid "Easy to use! Just activate plugin."
+msgstr ""
+
+#. Found in description list item.
+msgid "Save settings or posts using Ajax."
+msgstr ""
+
+#. Found in description list item.
+msgid "RTL Support."
+msgstr ""
+
+#. Found in description list item.
+msgid "Translation Ready."
+msgstr ""
+
+#. Found in description list item.
+msgid "Arabic language included."
+msgstr ""
+
+#. Found in description list item.
+msgid "Responsive style."
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://wp-plugins.in/ajax-admin\">http://wp-plugins.in/ajax-admin</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://wordpress.org/support/view/plugin-reviews/ajax-admin#postform\">Please rate Ajax Admin plugin</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://wp-plugins.in/WPT_Themes\">My Premium WordPress Themes.</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://j.mp/ET_WPTime\">Collection of 87 themes for $69 only.</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"http://j.mp/TF_WPTime\">Premium WordPress themes on Themeforest.</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://profiles.wordpress.org/alobaidi#content-plugins\">My Plugins</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Save settings and posts using Ajax! Fast and easy, no options.. just activate plugin! translation ready with POT file, RTL Support, Arabic language included."
+msgstr ""
+
+#. Found in installation header.
+msgid "Installation"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload 'ajax-admin' folder to the '/wp-content/plugins/' directory."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Now plugin is ready! but if you want to disable some options, go to \"Settings\" menu &gt; \"General\" page &gt; \"Ajax Admin\" section."
+msgstr ""
+
+#. Found in installation list item.
+msgid "If you want to disable save settings using Ajax, check box \"Settings Save\"."
+msgstr ""
+
+#. Found in installation list item.
+msgid "If you want to disable save posts using Ajax, check box \"Posts Save\"."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Enjoy."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "<a href=\"http://wp-plugins.in/ajax-admin\">Read explanation of use + Screenshots</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "First version."
+msgstr ""
+
+#. Found in faq header.
+msgid "FAQ"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<a href=\"http://wp-plugins.in/ajax-admin\">Read explanation of use</a>"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<a href=\"http://wp-plugins.in/1XnA5Qr\">For more questions or help, contact me.</a>"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<a href=\"http://wp-plugins.in/1L6zCZL\">Or on twitter.</a>"
+msgstr ""

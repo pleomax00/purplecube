@@ -1,0 +1,2315 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Testimonial By Weblizar\n"
+"POT-Creation-Date: 2014-05-12 10:50+0530\n"
+"PO-Revision-Date: 2014-05-12 10:51+0530\n"
+"Last-Translator: \n"
+"Language-Team: Weblizar\n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/dashboard.php:10 admin/testimonial-form.php:7
+msgid "Add New Testimonial"
+msgstr ""
+
+#: admin/dashboard.php:14
+msgid "Settings"
+msgstr ""
+
+#: admin/dashboard.php:20 admin/testimonial-form.php:70
+#: admin/testimonial-form.php:258 testimonial-by-weblizar.php:54
+msgid "Testimonial"
+msgstr ""
+
+#: admin/dashboard.php:63
+msgid "Testimonial - Name / Company Name - Email - Website"
+msgstr ""
+
+#: admin/dashboard.php:64 admin/testimonial-form.php:83
+#: admin/testimonial-form.php:271
+msgid "Status"
+msgstr ""
+
+#: admin/dashboard.php:95 admin/testimonial-form.php:155
+#: testimonial-short-code.php:42 testimonial-widget.php:68
+msgid "at"
+msgstr ""
+
+#: admin/dashboard.php:160
+msgid "Sorry!"
+msgstr ""
+
+#: admin/dashboard.php:160
+msgid "No record is found."
+msgstr ""
+
+#: admin/dashboard.php:241 admin/dashboard.php:248 admin/dashboard.php:254
+#: admin/dashboard.php:263 admin/dashboard.php:268 admin/dashboard.php:275
+#: admin/dashboard.php:375 admin/dashboard.php:382 admin/dashboard.php:387
+#: admin/dashboard.php:395 admin/dashboard.php:399 admin/dashboard.php:405
+msgid "Field Required:"
+msgstr ""
+
+#: admin/dashboard.php:241 admin/dashboard.php:375
+msgid "Type your name"
+msgstr ""
+
+#: admin/dashboard.php:248 admin/dashboard.php:382
+msgid "Type your email"
+msgstr ""
+
+#: admin/dashboard.php:254 admin/dashboard.php:387
+msgid "Type valid email"
+msgstr ""
+
+#: admin/dashboard.php:263 admin/dashboard.php:395
+#: admin/testimonial-form.php:50 admin/testimonial-form.php:238
+msgid "Type your website address here"
+msgstr ""
+
+#: admin/dashboard.php:268 admin/dashboard.php:399
+msgid "Type valid website address"
+msgstr ""
+
+#: admin/dashboard.php:275 admin/dashboard.php:405
+msgid "Type your testimonial"
+msgstr ""
+
+#: admin/dashboard.php:443
+msgid "Testimonial successfully deleted"
+msgstr ""
+
+#: admin/dashboard.php:456
+msgid "First select one or more testimonials."
+msgstr ""
+
+#: admin/dashboard.php:457
+msgid "Are you sure to delete selected testimonials?"
+msgstr ""
+
+#: admin/dashboard.php:467
+msgid "Selected Testimonials successfully deleted"
+msgstr ""
+
+#: admin/testimonial-form.php:18 admin/testimonial-form.php:206
+msgid "Name / Company Name"
+msgstr ""
+
+#: admin/testimonial-form.php:24 admin/testimonial-form.php:212
+msgid "Type your name / company name here"
+msgstr ""
+
+#: admin/testimonial-form.php:31 admin/testimonial-form.php:219
+msgid "Email"
+msgstr ""
+
+#: admin/testimonial-form.php:37 admin/testimonial-form.php:225
+msgid "Type your email here"
+msgstr ""
+
+#: admin/testimonial-form.php:44 admin/testimonial-form.php:232
+msgid "Website"
+msgstr ""
+
+#: admin/testimonial-form.php:57 admin/testimonial-form.php:245
+msgid "Designation"
+msgstr ""
+
+#: admin/testimonial-form.php:63 admin/testimonial-form.php:251
+msgid ""
+"Type your designation here. Like CEO, Founder, Doctor, Developer, Programmer "
+"etc."
+msgstr ""
+
+#: admin/testimonial-form.php:76 admin/testimonial-form.php:264
+msgid "Type your testimonial about product/service here"
+msgstr ""
+
+#: admin/testimonial-form.php:88 admin/testimonial-form.php:276
+msgid "Pending"
+msgstr ""
+
+#: admin/testimonial-form.php:89 admin/testimonial-form.php:277
+msgid "Published"
+msgstr ""
+
+#: admin/testimonial-form.php:90 admin/testimonial-form.php:278
+msgid "Denied"
+msgstr ""
+
+#: admin/testimonial-form.php:93 admin/testimonial-form.php:281
+msgid "Select your testimonial status here"
+msgstr ""
+
+#: admin/testimonial-form.php:100 admin/testimonial-form.php:344
+msgid "Save"
+msgstr ""
+
+#: admin/testimonial-form.php:101 admin/testimonial-form.php:103
+#: admin/testimonial-form.php:162 admin/testimonial-form.php:289
+#: admin/testimonial-form.php:291 admin/testimonial-form.php:345
+#: admin/testimonial-form.php:347
+msgid "Go Back"
+msgstr ""
+
+#: admin/testimonial-form.php:104 admin/testimonial-form.php:292
+#: admin/testimonial-form.php:348
+msgid "Well Done!"
+msgstr ""
+
+#: admin/testimonial-form.php:104
+msgid "New testimonial successfully added."
+msgstr ""
+
+#: admin/testimonial-form.php:134
+msgid "Testimonial By"
+msgstr ""
+
+#: admin/testimonial-form.php:195
+msgid "Update Testimonial"
+msgstr ""
+
+#: admin/testimonial-form.php:288
+msgid "Update"
+msgstr ""
+
+#: admin/testimonial-form.php:292
+msgid "Testimonial successfully updated."
+msgstr ""
+
+#: admin/testimonial-form.php:312
+msgid "Testimonial Settings"
+msgstr ""
+
+#: admin/testimonial-form.php:322 admin/testimonial-form.php:335
+#: testimonial-short-code.php:9
+msgid "What Our Customer Says"
+msgstr ""
+
+#: admin/testimonial-form.php:331
+msgid "Testimonial Title For [WLT] Shortcode"
+msgstr ""
+
+#: admin/testimonial-form.php:337
+msgid "Type title for shortcode here"
+msgstr ""
+
+#: admin/testimonial-form.php:348
+msgid "Testimonial settings successfully saved."
+msgstr ""
+
+#: testimonial-short-code.php:51 testimonial-widget.php:78
+msgid "Sorry! No Testimonials is Published."
+msgstr ""
+
+#: testimonial-widget.php:15
+msgid ""
+"Activate this widget in any sidebar or footer widget area to display your "
+"customer testimonials."
+msgstr ""
+
+#: testimonial-widget.php:162
+msgid "What Customers Says"
+msgstr ""
+
+#: testimonial-widget.php:168
+msgid "Widget Title"
+msgstr ""
+
+#~ msgid "Select Any Service."
+#~ msgstr "कोइ सेवा चुनें"
+
+#~ msgid "Select any time."
+#~ msgstr "कोइ समय चुनें"
+
+#~ msgid "Email required."
+#~ msgstr "ईमेल की आवश्यकता है"
+
+#~ msgid "Schedule New Appointment"
+#~ msgstr "नई नियुक्ति बनायें"
+
+#~ msgid "Step-1. Select Date & Service"
+#~ msgstr "चरण-1 दिनांक और सेवा का चयन करें"
+
+#~ msgid "Your Appointment Date:"
+#~ msgstr "आपकी नियुक्ति की दिनांक:"
+
+#~ msgid "Select Service:"
+#~ msgstr "सेवा चयन करें:"
+
+#~ msgid "Select Service"
+#~ msgstr "सेवा का चयन करें:"
+
+#~ msgid "No service in this category"
+#~ msgstr "इस श्रेणी मे कोई सेवा नहीं"
+
+#~ msgid "Loading Staff..."
+#~ msgstr "कर्मचारी लोड हो रहें हैं ..."
+
+#~ msgid "Select Staff:"
+#~ msgstr "कर्मचारी चयन करें:"
+
+#~ msgid "No Staff Assigned"
+#~ msgstr "कोई कर्मचारी नियुक्त नहीं"
+
+#~ msgid "Next"
+#~ msgstr "आगे जायें"
+
+#~ msgid "Loading..."
+#~ msgstr "लोड हो रहा है..."
+
+#~ msgid "Back"
+#~ msgstr "पीछे जायें"
+
+#~ msgid "Password"
+#~ msgstr "पासवर्ड"
+
+#~ msgid "Phone"
+#~ msgstr "फ़ोन"
+
+#~ msgid "Special Instruction"
+#~ msgstr "विशेष निर्देश"
+
+#~ msgid "Book Now"
+#~ msgstr "अब नियुक्ति करें"
+
+#~ msgid "Scheduling appointment, please wait..."
+#~ msgstr "नई नियुक्ति बन रही है, प्रतीक्षा करें..."
+
+#~ msgid "Thank You. Your appointment has been scheduled."
+#~ msgstr "धन्यवाद! आपकी नियुक्ति निर्धारित की जा चुकी है।"
+
+#~ msgid "Your Appointment Details"
+#~ msgstr "आपकी नियुक्ति का विवरण"
+
+#~ msgid "Name"
+#~ msgstr "नाम"
+
+#~ msgid "Service"
+#~ msgstr "सेवाएं"
+
+#~ msgid "Staff"
+#~ msgstr "कर्मचारी"
+
+#~ msgid "Date"
+#~ msgstr "दिनांक"
+
+#~ msgid "Time"
+#~ msgstr "समय"
+
+#~ msgid "Apply"
+#~ msgstr "लागू करें"
+
+#~ msgid "Done"
+#~ msgstr "आप नियुक्त हो गयें"
+
+#~ msgid "Payment Successfully Processed"
+#~ msgstr "भुगतान सफलतापूर्वक पूरा हुआ"
+
+#~ msgid "Payment received and your appointment has been confirmed."
+#~ msgstr "भुगतान प्राप्त हो गया और आपकी नियुक्ति की पुष्टि की जा चुकी है।"
+
+#~ msgid "Thank you for scheduling appointment with us."
+#~ msgstr "हमारे साथ नियुक्ति समयबद्धन के लिए धन्यवाद।"
+
+#~ msgid "Payment Failed"
+#~ msgstr "भुगतान विफल"
+
+#~ msgid "Sorry! Appointment booking was not successful."
+#~ msgstr "क्षमा करें! आपकी नियुक्ति सफल नहीं हुई।"
+
+#~ msgid "Try Again"
+#~ msgstr "फिर कोशिश करें"
+
+#~ msgid "Cancel"
+#~ msgstr "रद्द करें"
+
+#~ msgid "Sorry! Appointment Booking was not successful."
+#~ msgstr "क्षमा करें! आपकी नियुक्ति सफल नहीं हुई।"
+
+#~ msgid "January"
+#~ msgstr "जनवरी"
+
+#~ msgid "February"
+#~ msgstr "फरवरी"
+
+#~ msgid "March"
+#~ msgstr "मार्च"
+
+#~ msgid "April"
+#~ msgstr "अप्रैल"
+
+#~ msgid "May"
+#~ msgstr "मई"
+
+#~ msgid "June"
+#~ msgstr "जून"
+
+#~ msgid "July"
+#~ msgstr "जुलाई"
+
+#~ msgid "August"
+#~ msgstr "अगस्त"
+
+#~ msgid "September"
+#~ msgstr "सितंबर"
+
+#~ msgid "October"
+#~ msgstr "अक्टूबर"
+
+#~ msgid "November"
+#~ msgstr "नवंबर"
+
+#~ msgid "December"
+#~ msgstr "दिसंबर"
+
+#~ msgid "Jan"
+#~ msgstr "जनवरी"
+
+#~ msgid "Feb"
+#~ msgstr "फ़रवरी"
+
+#~ msgid "Mar"
+#~ msgstr "मार्च"
+
+#~ msgid "Apr"
+#~ msgstr "अप्रैल"
+
+#~ msgid "Jun"
+#~ msgstr "जून"
+
+#~ msgid "Jul"
+#~ msgstr "जुलाई"
+
+#~ msgid "Aug"
+#~ msgstr "सितंबर"
+
+#~ msgid "Sept"
+#~ msgstr "सितंबर"
+
+#~ msgid "Oct"
+#~ msgstr "अक्टूबर"
+
+#~ msgid "nov"
+#~ msgstr "नवंबर"
+
+#~ msgid "Dec"
+#~ msgstr "दिसंबर"
+
+#~ msgid "Sunday"
+#~ msgstr "रविवार"
+
+#~ msgid "Monday"
+#~ msgstr "सोमवार"
+
+#~ msgid "Tuesday"
+#~ msgstr "मंगलवार"
+
+#~ msgid "Wednesday"
+#~ msgstr "बुधवार"
+
+#~ msgid "Thursday"
+#~ msgstr "गुरुवार"
+
+#~ msgid "Friday"
+#~ msgstr "शुक्रवार"
+
+#~ msgid "Saturday"
+#~ msgstr "शनिवार"
+
+#~ msgid "Sun"
+#~ msgstr "रवि"
+
+#~ msgid "Mon"
+#~ msgstr "सोम"
+
+#~ msgid "Tue"
+#~ msgstr "मंगल"
+
+#~ msgid "Wed"
+#~ msgstr "बुध"
+
+#~ msgid "Thus"
+#~ msgstr "गुरु"
+
+#~ msgid "Fri"
+#~ msgstr "शुक्र"
+
+#~ msgid "Today"
+#~ msgstr "आज"
+
+#~ msgid "Day"
+#~ msgstr "दिन"
+
+#~ msgid "Week"
+#~ msgstr "साप्ताहिक"
+
+#~ msgid "Month"
+#~ msgstr "मासिक"
+
+#~ msgid "Sorry! Appointment cannot be booked for past dates."
+#~ msgstr "क्षमा करें! नियुक्ति पिछले तारीखों पर बुक नहीं किया जा सकता"
+
+#~ msgid "Booked"
+#~ msgstr "व्यक्ति द्वारा बुकिंग"
+
+#~ msgid "Appointment Calendar"
+#~ msgstr "नियुक्ति कैलेंडर"
+
+#~ msgid "Services"
+#~ msgstr "सेवाएं"
+
+#~ msgid "Manage Appointments"
+#~ msgstr "नियुक्ति प्रबंधन"
+
+#~ msgid "Time Off"
+#~ msgstr "टाईम आफ"
+
+#~ msgid "Appointments"
+#~ msgstr "नियुक्तियाँ"
+
+#~ msgid "Payment Transaction"
+#~ msgstr "भुगतान लेनदेन"
+
+#~ msgid "Remove Plugin"
+#~ msgstr "प्लगइन हटायें"
+
+#~ msgid "Help & Support"
+#~ msgstr "मदद और समर्थन"
+
+#~ msgid "Every Hour"
+#~ msgstr "हर घंटे"
+
+#~ msgid "Select Time For"
+#~ msgstr "समय का चयन सेवा"
+
+#~ msgid "On"
+#~ msgstr "के लिए"
+
+#~ msgid "With"
+#~ msgstr "पर कर्मचारी"
+
+#~ msgid "Sorry! Today selected staff is not available."
+#~ msgstr "क्षमा करें! आज यह स्टाफ़ उपल्बध नहीं या व्यापार बंद है।"
+
+#~ msgid "Sorry! Today this staff is not available for booking."
+#~ msgstr "क्षमा करें! आज यह स्टाफ़ उपल्बध नहीं या व्यापार बंद है।"
+
+#~ msgid ""
+#~ "Appointment Calendar Premium Plugin has been successfully removed. It can "
+#~ "be re-activated from the"
+#~ msgstr ""
+#~ "नियुक्ति कैलेंडर प्रीमियम प्लगइन सफलतापूर्वक हटा दिया गया है। आप इसे फिर से सक्रिय कर "
+#~ "सकते हैं"
+
+#~ msgid "Plugins Page"
+#~ msgstr "प्लगइन पृष्ठ"
+
+#~ msgid "Remove Appointment Calendar Premium Plugin"
+#~ msgstr "नियुक्ति कैलेंडर प्रीमियम प्लगइन हटायें।"
+
+#~ msgid ""
+#~ "This operation wiil delete all Appointment Calendar data & settings. If "
+#~ "you continue, You will not be able to retrieve or restore your "
+#~ "appointments entries."
+#~ msgstr ""
+#~ "यह कार्यवाही नियुक्ति कैलेंडर डेटा की नियुक्ति प्रविष्टियों सहित सेटिंग्स, नष्ट कर देगी. "
+#~ "यह पूर्ववत प्राप्त नहीं किया जा सकता है।"
+
+#~ msgid ""
+#~ "Warning! Appointment Calendar data & settings, including appointment "
+#~ "entries will be deleted. This cannot be undone. OK to delete, CANCEL to "
+#~ "stop"
+#~ msgstr ""
+#~ "चेतावनी! नियुक्ति कैलेंडर डेटा और नियुक्ति प्रविष्टियों सहित सेटिंग्स, नष्ट कर दिया "
+#~ "जाएगा. यह पूर्ववत प्राप्त नहीं किया जा सकता है.  इसको रोकने के लिए रद्द करें।"
+
+#~ msgid "REMOVE PLUGIN"
+#~ msgstr "प्लगइन हटायें"
+
+#~ msgid "Start Time:"
+#~ msgstr "प्रारम्भ होन का समय:"
+
+#~ msgid "Select Start Time"
+#~ msgstr "प्रारम्भ समय चुनें"
+
+#~ msgid "Invalid Start Time. Start Time should be less than End Time."
+#~ msgstr "अमान्य प्रारंभ समय. शुरू करने का समय समाप्ति समय कम से कम होना चाहिए."
+
+#~ msgid "End Time: "
+#~ msgstr "समाप्त होन का समय:"
+
+#~ msgid "Select End Time"
+#~ msgstr "अंत समय चुनें"
+
+#~ msgid "Invalid End Time. End Time should be greater than Start Time."
+#~ msgstr "अमान्य समाप्ति समय. समाप्ति समय प्रारंभ समय से अधिक होना चाहिए."
+
+#~ msgid "Booked By"
+#~ msgstr "व्यक्ति द्वारा बुकिंग"
+
+#~ msgid "Booked By: "
+#~ msgstr "व्यक्ति द्वारा बुकिंग"
+
+#~ msgid "Invalid time range."
+#~ msgstr "अमान्य समय सीमा"
+
+#~ msgid "Repeat Days required"
+#~ msgstr "दिनों की दोहरान संख्या डालें"
+
+#~ msgid "Repeat Weeks required."
+#~ msgstr "हफ्तों की दोहरान संख्या डालें"
+
+#~ msgid "Repeat Months required."
+#~ msgstr "महीनों की दोहरान संख्या डालें"
+
+#~ msgid "Invalid Date! Start-Date should be less than End-Date."
+#~ msgstr "\"अवैध तिथि! प्रारंभ तिथि समाप्ति तिथि से कम होना चाहिए."
+
+#~ msgid "Invalid name."
+#~ msgstr "अमान्य नाम"
+
+#~ msgid "Invalid value."
+#~ msgstr "अमान्य तथ्य."
+
+#~ msgid "Filter Appointments By Staff"
+#~ msgstr "कर्मचारियों द्वारा नियुक्ति फ़िल्टर:"
+
+#~ msgid "Add New Appointment"
+#~ msgstr "नई नियुक्ति जोड़ें"
+
+#~ msgid "Recurring Appointments"
+#~ msgstr "पुनरावर्ती नियुक्तियाँ"
+
+#~ msgid "Select Staff"
+#~ msgstr "कर्मचारी चयन करें"
+
+#~ msgid "Appointments (Default Staff Assigned)"
+#~ msgstr "नियुक्ति (डिफ़ॉल्ट स्टाफ निरुपित)"
+
+#~ msgid "Your Appointment Date"
+#~ msgstr "आपकी नियुक्ति की दिनांक:"
+
+#~ msgid "Step-2. Select Service Time & Repeat"
+#~ msgstr "चरण-2. सेवा समय और दोहरान का चयन करें"
+
+#~ msgid "Sorry! No Time Available Today."
+#~ msgstr "क्षमा करें! आज कोई समय उपलब्ध नहीं है।"
+
+#~ msgid "Sorry! Today's all appointments has been booked."
+#~ msgstr "क्षमा करें! आज सभी नियुक्तियों को बुक किया जा चुका है।"
+
+#~ msgid "Repeat"
+#~ msgstr "दोहरान"
+
+#~ msgid "None"
+#~ msgstr "नहीं"
+
+#~ msgid "Daily"
+#~ msgstr "दैनिक"
+
+#~ msgid "Weekly"
+#~ msgstr "साप्ताहिक"
+
+#~ msgid "Monthly"
+#~ msgstr "मासिक"
+
+#~ msgid "Particular Dates"
+#~ msgstr "विशेष तिथियाँ"
+
+#~ msgid "Repeat Day(s)"
+#~ msgstr "दोहरान दिन"
+
+#~ msgid "(Min = 1, Max = 99 Days)"
+#~ msgstr "( न्यूनतम = 1, अधिकतम = 99 महीनें)"
+
+#~ msgid "Repeat Week(s)"
+#~ msgstr "दोहरान हफ्तें"
+
+#~ msgid "(Min = 1, Max = 99 Weeks)"
+#~ msgstr "( न्यूनतम = 1, अधिकतम = 99 हफ्तें)"
+
+#~ msgid "Repeat Month(s)"
+#~ msgstr "दोहरान महिनें"
+
+#~ msgid "(Min = 1, Max = 99 Months)"
+#~ msgstr "( न्यूनतम = 1, अधिकतम = 99 महीने)"
+
+#~ msgid "Start Date"
+#~ msgstr "प्रारम्भ दिनांक"
+
+#~ msgid "This field is required."
+#~ msgstr "यह डालना आवश्यक है."
+
+#~ msgid "End Date"
+#~ msgstr "अंतिम दिनांक"
+
+#~ msgid "Invalid Date"
+#~ msgstr "अमान्य दिनांक"
+
+#~ msgid "Admin can create appointments at any time."
+#~ msgstr "व्यवस्थापक नियुक्तियाँ किसी भी समय बना सकता है।"
+
+#~ msgid "Step-3. Fill Up Client Details"
+#~ msgstr "चयण-3. ग्राहक विवरण भरें"
+
+#~ msgid "Step-4. Appointment has been scheduled."
+#~ msgstr "चरण-4. आपको नियुक्त किया जा चुका है।"
+
+#~ msgid "Appointment Key"
+#~ msgstr "नियुक्ति कुंजी"
+
+#~ msgid "Appointment By"
+#~ msgstr "नियुक्ति बनाने वाला"
+
+#~ msgid "Add New Client"
+#~ msgstr "ग्राहक जोडे़"
+
+#~ msgid "Client Name :"
+#~ msgstr "ग्राहक नाम"
+
+#~ msgid "Search"
+#~ msgstr "खोज"
+
+#~ msgid "No."
+#~ msgstr "संख्या"
+
+#~ msgid "Special Note"
+#~ msgstr "विशेष निर्देश"
+
+#~ msgid "Appointment History"
+#~ msgstr "नियुक्ति इतिहास"
+
+#~ msgid "Action"
+#~ msgstr "कार्रवाई"
+
+#~ msgid "Select All"
+#~ msgstr "सभी को चुनें"
+
+#~ msgid "View"
+#~ msgstr "देखें"
+
+#~ msgid "Do you want to delete this client"
+#~ msgstr "क्या आप यह ग्राहक हटाना चाहते हैं?"
+
+#~ msgid "Delete"
+#~ msgstr "हटायें"
+
+#~ msgid "Select"
+#~ msgstr "चुनें"
+
+#~ msgid "First"
+#~ msgstr "प्रथम"
+
+#~ msgid "Last"
+#~ msgstr "अंतिम"
+
+#~ msgid "Sorry no client(s)."
+#~ msgstr "माफ करना कोई ग्राहक नहीं है।"
+
+#~ msgid "Client successfully deleted."
+#~ msgstr "ग्राहक हटा दिया गया है।"
+
+#~ msgid "Selected client(s) successfully deleted."
+#~ msgstr "चुने हुए ग्राहक सफलतापूर्वक हटा दिये गये हैं।"
+
+#~ msgid "No client(s) selected to delete."
+#~ msgstr "कोई ग्राहक हटाने के लिये नहीं चुना गया।"
+
+#~ msgid "Manage Client"
+#~ msgstr "ग्राहक प्रबंधन"
+
+#~ msgid "Client Name."
+#~ msgstr "ग्राहक नाम"
+
+#~ msgid "Client Email."
+#~ msgstr "ग्राहक ईमेल"
+
+#~ msgid "Phone Number."
+#~ msgstr "फोन नंबर"
+
+#~ msgid "Client Note."
+#~ msgstr "ग्राहक र्निदेश"
+
+#~ msgid "Create"
+#~ msgstr "बनायें"
+
+#~ msgid "View Client"
+#~ msgstr "ग्राहक देखें"
+
+#~ msgid "Client Details"
+#~ msgstr "ग्राहक का विवरण"
+
+#~ msgid "Client Detailed Appointment History"
+#~ msgstr "ग्राहकों का विस्तृत नियुक्ति इतिहास"
+
+#~ msgid "All Appointment History"
+#~ msgstr "सभी नियुक्ति इतिहास"
+
+#~ msgid "Appointment Creation Date"
+#~ msgstr "नियुक्ति निर्माण तिथि"
+
+#~ msgid "Start Time"
+#~ msgstr "प्रारम्भ होन का समय:"
+
+#~ msgid "End Time"
+#~ msgstr "समाप्त होन का समय:"
+
+#~ msgid "Repeat Type"
+#~ msgstr "दोहरान प्रकार"
+
+#~ msgid "Repeat Start Date"
+#~ msgstr "दोहरान प्रारम्भ होन की दिनांक"
+
+#~ msgid "Repeat End Date"
+#~ msgstr "दोहरान समाप्त होन की दिनांक"
+
+#~ msgid "Payment Status"
+#~ msgstr "भुगतान स्थिति"
+
+#~ msgid "Sorry! No appointment(s) available for this client."
+#~ msgstr "क्षमा करें! इस ग्राहक की कोई नियुक्ति उपलब्ध नहीं।\" "
+
+#~ msgid "is already in the database."
+#~ msgstr " पहले से उपस्थित है।"
+
+#~ msgid "Client details successfully updated."
+#~ msgstr "ग्राहक विवरण सफलतापूर्वक नवीनतम बना दिया गया है।"
+
+#~ msgid "is alredy in the database."
+#~ msgstr " पहले से उपस्थित है।"
+
+#~ msgid "Client name cannot be blank."
+#~ msgstr "क्लाइंट का नाम खाली नहीं हो सकता."
+
+#~ msgid "Email cannot be blank."
+#~ msgstr "ईमेल खाली नहीं हो सकता."
+
+#~ msgid "invalid  value."
+#~ msgstr "अमान्य तथ्य"
+
+#~ msgid "Phone Number cannot be blank."
+#~ msgstr "फोन खाली नहीं हो सकता."
+
+#~ msgid "Note"
+#~ msgstr "व्याख्या"
+
+#~ msgid "Today's Appointment"
+#~ msgstr "आज की नियुक्तियाँ"
+
+#~ msgid "All Appointment"
+#~ msgstr "सभी नियुक्तियाँ"
+
+#~ msgid "Select Start Date"
+#~ msgstr "प्रारम्भ दिनांक चुनें"
+
+#~ msgid "Generating appointments list, please wait..."
+#~ msgstr "नई नियुक्ति बन रही है, प्रतीक्षा करें..."
+
+#~ msgid "All Appointments"
+#~ msgstr "सभी नियुक्तियाँ"
+
+#~ msgid "Pending Appointments"
+#~ msgstr "लंबित नियुक्तियाँ"
+
+#~ msgid "Approved Appointments"
+#~ msgstr "स्वीकृत नियुक्तियाँ"
+
+#~ msgid "Cancelled Appointments"
+#~ msgstr "रद्द नियुक्तियाँ"
+
+#~ msgid "Done Appointments"
+#~ msgstr "पुरी हो चुकी नियुक्तियाँ"
+
+#~ msgid "Today`s  Appointments"
+#~ msgstr "आज की नियुक्तियाँ"
+
+#~ msgid "Paid Appointments"
+#~ msgstr "अदा की नियुक्तियाँ"
+
+#~ msgid "Unpaid Appointments"
+#~ msgstr "अदा नहीं की गई नियुक्तियाँ"
+
+#~ msgid "Filter Appointments"
+#~ msgstr "नियुक्ति फ़िल्टर"
+
+#~ msgid "Payment"
+#~ msgstr "भुगतान"
+
+#~ msgid "Select Status"
+#~ msgstr "स्थिति का चयन करें"
+
+#~ msgid "Approved"
+#~ msgstr "स्वीकृत"
+
+#~ msgid "Cancelled"
+#~ msgstr "रद्द"
+
+#~ msgid "Updating..."
+#~ msgstr "अद्यतन कर रहा है ..."
+
+#~ msgid "Do you want to delete this appointment?"
+#~ msgstr "क्या आप यह नियुक्ति हटाना चाहते हैं?"
+
+#~ msgid "Do you want to delete these appointments?"
+#~ msgstr "क्या आप यह नियुक्तियाँ हटाना चाहते हैं?"
+
+#~ msgid "Sorry No Appointment(s)."
+#~ msgstr "माफ करना कोई नियुक्तियां नहीं हैं।"
+
+#~ msgid "Appointment successfully deleted."
+#~ msgstr "नियुक्ति को सफलतापूर्वक हटा दिया गया है।"
+
+#~ msgid "Selected Appointment(s) successfully deleted."
+#~ msgstr "चुने हुए नियुक्तियों को सफलतापूर्वक हटा दिया गया है।"
+
+#~ msgid "No Appointment(s) selected to delete."
+#~ msgstr "कोई नियुक्ति हटाने के लिये नहीं चुना गया।"
+
+#~ msgid "Manage Service"
+#~ msgstr "सेवा प्रबंधन"
+
+#~ msgid "Service Name"
+#~ msgstr "सेवा का नाम"
+
+#~ msgid "Service Description"
+#~ msgstr "सेवा विवरण"
+
+#~ msgid "Duration"
+#~ msgstr "अवधि"
+
+#~ msgid ""
+#~ "Service Duration<br>Enter Numeric Value In Multiple Of 5<br>Eg: 15, 30, 60"
+#~ msgstr "सेवा अवधि<br>उदाहरण: 15, 30, 60<br> 5 के गुणक में संख्यात्मक मूल्य दर्ज करें"
+
+#~ msgid "Duration Unit"
+#~ msgstr "अवधि इकाई"
+
+#~ msgid "Select Duration's Unit"
+#~ msgstr "अवधि इकाई चुनें"
+
+#~ msgid "Minute(s)"
+#~ msgstr "मिनट"
+
+#~ msgid "Padding Time"
+#~ msgstr "अतिरिक्त समय"
+
+#~ msgid ""
+#~ "Padding / Break / Refresh Time<br>Enter Numeric Value<br>Eg: 5, 10, 15, "
+#~ "20, 25 OR can be 0"
+#~ msgstr ""
+#~ "पैडिंग / तोड़ / ताज़ा होने का समय <br>संख्यात्मक मूल्य सूची दर्ज करें<br>उदाहरण के लिए: "
+#~ "5, 10, 15, 20, 25 या 0 हो सकता है"
+
+#~ msgid "Cost"
+#~ msgstr "मूल्य"
+
+#~ msgid "Service Cost<br>Enter Numeric Value<br>Eg: 50, 100, 150"
+#~ msgstr "सेवा लागत <br>संख्यात्मक मूल्य दर्ज करें<br>उदाहरण के लिए: 50, 100, 150"
+
+#~ msgid "Accept Payment"
+#~ msgstr "भुगतान स्वीकार करें"
+
+#~ msgid "No"
+#~ msgstr "नहीं"
+
+#~ msgid "Yes"
+#~ msgstr "हां"
+
+#~ msgid "Accept Payment On Booking"
+#~ msgstr "आरक्षण पर भुगतान स्वीकार करें"
+
+#~ msgid "Payment Type"
+#~ msgstr "भुगतान प्रकार"
+
+#~ msgid "In Percentage"
+#~ msgstr "प्रतिशत में"
+
+#~ msgid "Full Payment"
+#~ msgstr "पूर्ण भुगतान"
+
+#~ msgid "Percentage Amount"
+#~ msgstr "प्रतिशत राशि"
+
+#~ msgid "Percentage Amount<br> Eg: 5%, 10%, 20%, 50%<br>Enter Numeric Value"
+#~ msgstr ""
+#~ "प्रतिशत राशि <br> उदाहरण के लिए: 5%, 10%, 20%, 50% <br> संख्यात्मक मूल्य दर्ज करें"
+
+#~ msgid "Availability"
+#~ msgstr "उपलब्धता"
+
+#~ msgid "Select Service Availability"
+#~ msgstr "सेवा की उपलब्धता का चयन करें"
+
+#~ msgid "Service Availability"
+#~ msgstr "सेवा की उपलब्धता"
+
+#~ msgid "Category"
+#~ msgstr "श्रेणी"
+
+#~ msgid "Select Category"
+#~ msgstr "श्रेणीचुनें"
+
+#~ msgid "Default"
+#~ msgstr "डिफ़ॉल्ट"
+
+#~ msgid "Assign Staff(s)"
+#~ msgstr "स्टाफ जोडे़"
+
+#~ msgid "Use CTRL to Select Multiple Staff(s)"
+#~ msgstr "CTRL को दबाकर ज्यादा स्टाफ जोंडे़"
+
+#~ msgid ""
+#~ "Assign Staff(s) To This Service<br>Use CTRL To Select Multiple Staffs"
+#~ msgstr "CTRL को दबाकर ज्यादा स्टाफ को इस सेवा से जोंडे़"
+
+#~ msgid "Minute"
+#~ msgstr "मिनट"
+
+#~ msgid "New service added successfully."
+#~ msgstr "टाईम आफ हटा दिया गया है।"
+
+#~ msgid "Service updated successfully."
+#~ msgstr "सेवा सफलतापूर्वक नवीनतम कर दी गई है।"
+
+#~ msgid "Duration will be in multiple of 5, like as: 5, 10, 15, 20, 25."
+#~ msgstr "अवधि 5 के गुणांक में हो, उदहरण: 5, 10, 15, 20, 25"
+
+#~ msgid "Name cannot be blank."
+#~ msgstr "नाम रिक्त नहीं हो सकता"
+
+#~ msgid "Description cannot be blank."
+#~ msgstr "विवरण खाली नहीं हो सकती।"
+
+#~ msgid "Duration cannot be blank."
+#~ msgstr "अवधि खाली नहीं हो सकता"
+
+#~ msgid "Invalid Duration."
+#~ msgstr "अमान्य अवधि"
+
+#~ msgid "Padding time cannot be blank."
+#~ msgstr "समाप्ति समय रिक्त नहीं हो सकता"
+
+#~ msgid "Invalid padding time."
+#~ msgstr "अमान्य समाप्ति समय"
+
+#~ msgid ""
+#~ "Padding time will be in multiple of 5, like as: 5, 10, 15, 20, 25 OR can "
+#~ "be 0."
+#~ msgstr "पैडिंग समय 5 के गुणक में होगा<br>  5, 10, 15, 20, 25 या 0 हो सकता है"
+
+#~ msgid "Cost cannot be blank."
+#~ msgstr "मूल्य खाली नहीं हो सकता"
+
+#~ msgid "Invalid cost."
+#~ msgstr "अमान्य मूल्य"
+
+#~ msgid "Percentage amount cannot be blank."
+#~ msgstr "प्रतिशत राशि खाली नहीं हो सकता"
+
+#~ msgid "Invalid percentage amount. Eg.: 5, 10, 20, 25, 50"
+#~ msgstr "अवैध प्रतिशत राशि उदाहरण के लिए:.. 5, 10, 20, 25, 50"
+
+#~ msgid "Amount greater than 0. Eg.: 5, 10, 20, 25, 50"
+#~ msgstr "राशि 0 से अधिक उदाहरण के लिए:.. 5, 10, 20, 25, 50"
+
+#~ msgid "Amount less then 100. Eg.: 5, 10, 20, 25, 50"
+#~ msgstr "राशि 0 से अधिक उदाहरण के लिए:.. 5, 10, 20, 25, 50"
+
+#~ msgid "Select availability."
+#~ msgstr "उपलब्धता का चयन करें"
+
+#~ msgid "Select category."
+#~ msgstr "श्रेणी चुनें"
+
+#~ msgid "Assign any staff."
+#~ msgstr "कोई भी स्टाफ जोंडे़"
+
+#~ msgid "Manage Appointment(s)"
+#~ msgstr "नियुक्ति प्रबंधन"
+
+#~ msgid "Manage Staff"
+#~ msgstr "कर्मचारी प्रबंधन"
+
+#~ msgid "Staff Name."
+#~ msgstr "कर्मचारी का नाम"
+
+#~ msgid "Staff Email."
+#~ msgstr "कर्मचारी का ईमेल"
+
+#~ msgid "Experience"
+#~ msgstr "अनुभव "
+
+#~ msgid "Staff Experience(In year)."
+#~ msgstr "कर्मचारी अनुभव (वर्ष में)"
+
+#~ msgid "Group Name"
+#~ msgstr "समूह का नाम"
+
+#~ msgid "Select Staff Group"
+#~ msgstr "कर्मचारी की समूह का चयन करें"
+
+#~ msgid "Staff Group Name."
+#~ msgstr "कर्मचारी की समूह का नाम"
+
+#~ msgid "Address"
+#~ msgstr "पता"
+
+#~ msgid "Staff Address."
+#~ msgstr "कर्मचारी का पता"
+
+#~ msgid "City"
+#~ msgstr "शहर"
+
+#~ msgid "Staff City."
+#~ msgstr "कर्मचारी का शहर"
+
+#~ msgid "Assign Service(s)"
+#~ msgstr "सेवांए जोडे़"
+
+#~ msgid "Use CTRL to Select Multiple Service(s)"
+#~ msgstr "CTRL को दबाकर ज्यादा सेवांए जोंडे़"
+
+#~ msgid ""
+#~ "Assign Staff(s) To This Service.&lt;br&gt;Use CTRL To Select Multiple "
+#~ "Staffs"
+#~ msgstr "CTRL को दबाकर ज्यादा स्टाफ को इस सेवा से जोंडे़"
+
+#~ msgid "View Staff"
+#~ msgstr "कर्मचारी देखें"
+
+#~ msgid "Year(s)"
+#~ msgstr "वर्ष"
+
+#~ msgid "Group name"
+#~ msgstr "समूह का नाम"
+
+#~ msgid "New Staff"
+#~ msgstr "नया कर्मचारी"
+
+#~ msgid "is successfully added."
+#~ msgstr "सफलतापूर्वक बना दिया गया है।"
+
+#~ msgid "Staff details successfully updated."
+#~ msgstr "कर्मचारी विवरण सफलतापूर्वक नवीनतम बना दिया गया है।"
+
+#~ msgid "Staff name cannot be blank."
+#~ msgstr "कर्मचारी रिक्त नहीं हो सकता"
+
+#~ msgid "Invalid  value."
+#~ msgstr "अमान्य तथ्य"
+
+#~ msgid "Select any group."
+#~ msgstr "कोई समूह चुनें"
+
+#~ msgid "Assign any service."
+#~ msgstr "कोई भी सेवा जोंडे़"
+
+#~ msgid "Txn Id"
+#~ msgstr "भुगतान क्रमांक"
+
+#~ msgid "Client"
+#~ msgstr "ग्राहक"
+
+#~ msgid "Time & Date"
+#~ msgstr "समय और तिथि"
+
+#~ msgid "Do you want to delete this transaction?"
+#~ msgstr "क्या आप यह भुगतान हटाना चाहते हैं?"
+
+#~ msgid "Do you want to delete these transactions?"
+#~ msgstr "क्या आप यह सभी भुगतान हटाना चाहते हैं?"
+
+#~ msgid "Sorry No Transaction(s)."
+#~ msgstr "क्षमा करें! कोई लेनदेन नहीं।"
+
+#~ msgid "Selected transaction successfully deleted."
+#~ msgstr "चुने हुए सभी भुगतान हटा दिये गये हैं।"
+
+#~ msgid "No transaction(s) selected to delete."
+#~ msgstr "कोई भुगतान हटाने के लिये नहीं चुना गया।"
+
+#~ msgid "Rename Category"
+#~ msgstr "श्रेणी का नाम बदलें"
+
+#~ msgid "Rename"
+#~ msgstr "\tनाम परिवर्तन करें"
+
+#~ msgid "Do you want to delete this category?"
+#~ msgstr "क्या आप यह श्रेणी हटाना चाहते हैं?"
+
+#~ msgid "Delete Category"
+#~ msgstr "श्रेणी हटायें"
+
+#~ msgid "Amount"
+#~ msgstr "पैसा"
+
+#~ msgid "Full"
+#~ msgstr "पूरा"
+
+#~ msgid "Do you want to delete this service?"
+#~ msgstr "क्या आप ये सेवा हटाना चाहते हैं?"
+
+#~ msgid "Add New Service to this Category"
+#~ msgstr "इस श्रेणी में नई सेवा जोंडे़"
+
+#~ msgid "Create New Service Category"
+#~ msgstr "सेवा की नई श्रेणी बनायें"
+
+#~ msgid "Service Category name"
+#~ msgstr "सेवा श्रेणी का नाम"
+
+#~ msgid "Create Category"
+#~ msgstr "श्रेणी बनायें"
+
+#~ msgid "New service category successfully created."
+#~ msgstr "नई सेवा श्रेणी सफलतापूर्वक बना दि गयी है।"
+
+#~ msgid "Service category successfully renamed"
+#~ msgstr "सेवा श्रेणी सफलतापूर्वक हटा दि गयी है।"
+
+#~ msgid "Invalid group name."
+#~ msgstr "अमान्य समूह नाम"
+
+#~ msgid "Group name cannot be blank."
+#~ msgstr "समूह का नाम खाली नहीं हो सकता."
+
+#~ msgid "Service category successfully deleted."
+#~ msgstr "सेवा श्रेणी सफलतापूर्वक हटा दि गयी है।"
+
+#~ msgid "Service successfully deleted."
+#~ msgstr "सेवा हटा दि गयी है।"
+
+#~ msgid "Category name cannot be blank."
+#~ msgstr "श्रेणी का नाम खाली नहीं हो सकता."
+
+#~ msgid "invalid Category name."
+#~ msgstr "अमान्य श्रेणी नाम."
+
+#~ msgid "Settings Panel"
+#~ msgstr "सेटिंग्स पैनल"
+
+#~ msgid "Business Profile"
+#~ msgstr "व्यापार रूपरेखा"
+
+#~ msgid "Business Hours"
+#~ msgstr "व्यापार के घटें"
+
+#~ msgid "Staff Hours"
+#~ msgstr "कर्मचारी घंटे"
+
+#~ msgid "Admin Settings"
+#~ msgstr "व्यवस्थापक सेटिंग्स"
+
+#~ msgid "Notification Settings"
+#~ msgstr "अधिसूचना सेटिंग"
+
+#~ msgid "Notification Message"
+#~ msgstr "अधिसूचना सूचना"
+
+#~ msgid "Google Calendar"
+#~ msgstr "गूगल कैलेंडर"
+
+#~ msgid "Payment Settings"
+#~ msgstr "भुगतान सेटिंग"
+
+#~ msgid "Reminder Settings"
+#~ msgstr "अनुस्मारक सेटिंग्स"
+
+#~ msgid "Settings Panel Allows Admin To Manage Following Settings"
+#~ msgstr "सेटिंग्स पैनल व्यवस्थापक को निम्न सेटिंग का प्रबन्धन प्रदान करता है।"
+
+#~ msgid "Setup Business Profile"
+#~ msgstr "व्यापार रूपरेखा तैयार करे"
+
+#~ msgid "Manage Business Working Hours"
+#~ msgstr "व्यापार के घटों का प्रबन्धन करें"
+
+#~ msgid "Manage Staff Hours"
+#~ msgstr "कर्मचारी घंटे का प्रबंधन"
+
+#~ msgid "Manage Calendar Settings"
+#~ msgstr "कैलेंडर सेटिंग्स का प्रबंधन"
+
+#~ msgid "Manage Aministrator Settings"
+#~ msgstr "व्यवस्थापक सेटिंग प्रबंधित करें"
+
+#~ msgid "Manage Notification Settings"
+#~ msgstr "अधिसूचना सेटिंग प्रबंधित करें"
+
+#~ msgid "Sync Appointments With Google Calendar"
+#~ msgstr "गूगल कैलेंडर के साथ नियुक्ति तुल्यकालित करें"
+
+#~ msgid "Google Email"
+#~ msgstr "गूगल ईमेल"
+
+#~ msgid "Redirect URIs"
+#~ msgstr "यूआरआई पुननिर्देशित"
+
+#~ msgid "Save Settings"
+#~ msgstr "सेटिंग्स सहेजें"
+
+#~ msgid "Rename Group"
+#~ msgstr "समूह का नाम परिवर्तन करें"
+
+#~ msgid "Do you want to delete this Group?"
+#~ msgstr "क्या आप ये समूह हटाना चाहते हैं?"
+
+#~ msgid "Delete Group"
+#~ msgstr "समूह हटायें"
+
+#~ msgid "Staff Name"
+#~ msgstr "स्टाफ़ का नाम"
+
+#~ msgid "Do you want to delete this Staff?"
+#~ msgstr "क्या आप यह कर्मचारी हटाना चाहते हैं?"
+
+#~ msgid "Add New Staff to this Group"
+#~ msgstr "+ इस समूह में नया कर्मचारी जोंडे़"
+
+#~ msgid "Create New Staff Group"
+#~ msgstr "नयी कर्मचारी समूह बनायें"
+
+#~ msgid "Staff Group name"
+#~ msgstr "स्टाफ़ समूह का नाम"
+
+#~ msgid "Create Group"
+#~ msgstr "समूह बनायें"
+
+#~ msgid "New staff group successfully created."
+#~ msgstr "नई कर्मचारी समूह सफलतापूर्वक बना दि गयी है।"
+
+#~ msgid "Staff group successfully renamed."
+#~ msgstr "कर्मचारी समूह का नाम सफलतापूर्वक बदल दिया गया है।"
+
+#~ msgid "Invalid group name"
+#~ msgstr "अमान्य समूह नाम"
+
+#~ msgid "Staff group successfully deleted."
+#~ msgstr "कर्मचारी समूह सफलतापूर्वक हटा दिया गया है।"
+
+#~ msgid "Staff successfully deleted."
+#~ msgstr "कर्मचारी सफलतापूर्वक  हटा दिया गया है।"
+
+#~ msgid "Appointment Calendar Premium"
+#~ msgstr "नियुक्ति कैलेंडर प्रीमियम"
+
+#~ msgid ""
+#~ "That's it, you can now start taking appointments on your wordpress site."
+#~ msgstr "यह ठीक है, अब आप अपने वर्डप्रैस साइट पर नियुक्तियों लेने शुरू कर सकते हैं."
+
+#~ msgid "For Documentation Visit:"
+#~ msgstr "प्रलेखन के लिए यात्रा"
+
+#~ msgid "AppointZilla : Appointment Scheduling Plugin For Wordpress"
+#~ msgstr "आपोंईटजिला: वर्डप्रैस के लिए नियुक्ति निर्धारण प्लगइन"
+
+#~ msgid "AppointZilla Documentation"
+#~ msgstr "AppointZilla प्रलेखन"
+
+#~ msgid "For Help &amp; Support Visit:"
+#~ msgstr "समर्थन और मदद के लिए इस वेबसाइट पर जायें:"
+
+#~ msgid "AppointZilla Forum"
+#~ msgstr "AppointZilla फोरम"
+
+#~ msgid "Do you want to delete this Time Off?"
+#~ msgstr "क्या आप यह टाईम आफ हटाना चाहते हैं?"
+
+#~ msgid "Do you want to delete all Time Offs?"
+#~ msgstr "क्या आप सभी टाईम आफ हटाना चाहते हैं?"
+
+#~ msgid "All Day Time Off"
+#~ msgstr "पूरे दिन का टाईम आफ"
+
+#~ msgid "Particular Date(s)"
+#~ msgstr "विशेष तिथियाँ"
+
+#~ msgid "Bi-Weekly"
+#~ msgstr "द्वि साप्ताहिक"
+
+#~ msgid "Repeat Bi-Week(s)"
+#~ msgstr "द्वि साप्ताहिक हफ्तें"
+
+#~ msgid "Create Time Off"
+#~ msgstr "टाईम आफ बनायें"
+
+#~ msgid "Close"
+#~ msgstr "बंद करें"
+
+#~ msgid "Time-off successfully added."
+#~ msgstr "टाईम आफ बना दिया गया है।"
+
+#~ msgid "Time-off successfully deleted."
+#~ msgstr "टाईम आफ हटा दिया गया है।"
+
+#~ msgid "No time-off selected to delete."
+#~ msgstr "कोई टाईम आफ हटाने के लिये नहीं चुना गया।"
+
+#~ msgid "Start-time and End-time cant be equal."
+#~ msgstr "प्रारंभ समय, अंत समय के बराबर नहीं हो सकता"
+
+#~ msgid "Start-time must be smaller then End-time."
+#~ msgstr "प्रारंभ समय अंत समय से छोटा होना चाहिए"
+
+#~ msgid "End-time must be bigger then Start-time."
+#~ msgstr "अंत समय, प्रारंभ समय से बड़ा होगा"
+
+#~ msgid "Update Appointment"
+#~ msgstr "नियुक्ति नवीनीकरण"
+
+#~ msgid "Service Name."
+#~ msgstr "सेवा का नाम"
+
+#~ msgid "staff Name."
+#~ msgstr "स्टाफ़ का नाम"
+
+#~ msgid "Client Phone Number."
+#~ msgstr "ग्राहक फोन संख्या"
+
+#~ msgid "Appointment Start Time."
+#~ msgstr "नियुक्ति की प्रारंभिक तारीख\" "
+
+#~ msgid "Appointment End Time."
+#~ msgstr "नियुक्ति की अंतिम तारीख\" "
+
+#~ msgid "Appointment Date."
+#~ msgstr "नियुक्ति की तारीख"
+
+#~ msgid "Appointment Description."
+#~ msgstr "नियुक्ति विवरण."
+
+#~ msgid "Appointment Repeat On/OFF."
+#~ msgstr "नियुक्ति दोहरान चालू/बंद\" "
+
+#~ msgid "Particular Day"
+#~ msgstr "विशेष तिथियाँ"
+
+#~ msgid "Appointment Repeat Type."
+#~ msgstr "नियुक्ति दोहरान प्रकार"
+
+#~ msgid "Appointment Repeat Start Date."
+#~ msgstr "नियुक्ति दोहरान प्रारंभिक तिथि"
+
+#~ msgid "Appointment Repeat End Date."
+#~ msgstr "नियुक्ति दोहरान अंतिम तिथि"
+
+#~ msgid "Admin"
+#~ msgstr "व्यवस्थापक"
+
+#~ msgid "User"
+#~ msgstr "उपयोगकर्ता"
+
+#~ msgid "Appointment Booked By User/Admin."
+#~ msgstr "नियुक्ति किस के द्वारा की गई? (व्यवस्थापक या ग्राहक)"
+
+#~ msgid "Appointment Status."
+#~ msgstr "नियुक्ति स्थिति"
+
+#~ msgid "Unpaid"
+#~ msgstr "अवैतनिक"
+
+#~ msgid "Paid"
+#~ msgstr "वैतनिक"
+
+#~ msgid "Email field cannot be blank."
+#~ msgstr "ईमेल खाली नहीं हो सकता"
+
+#~ msgid "Phone field cannot be blank."
+#~ msgstr "फोन खाली नहीं हो सकता"
+
+#~ msgid "Invalid Phone number."
+#~ msgstr "अमान्य फ़ोन नंबर"
+
+#~ msgid "Start Time  cannot be blank."
+#~ msgstr "राज्य रिक्त नहीं हो सकता"
+
+#~ msgid "End Time cannot be blank."
+#~ msgstr "समाप्ति समय रिक्त नहीं हो सकता."
+
+#~ msgid "Start Date cannot be blank."
+#~ msgstr "राज्य रिक्त नहीं हो सकता"
+
+#~ msgid "Select valid repeat type."
+#~ msgstr "वैध दोहराने प्रकार का चयन करें."
+
+#~ msgid "Repeat start date cannot be blank."
+#~ msgstr "दोहरान आरंभ तिथि खाली नहीं हो सकता"
+
+#~ msgid "Repeat end date cannot be blank."
+#~ msgstr "दोहरान समाप्ति तिथि खाली नहीं हो सकता"
+
+#~ msgid "Appointment successfully updated"
+#~ msgstr "नियुक्ति को सफलतापूर्वक नवीनतम बना दिया गया है।"
+
+#~ msgid "Edit"
+#~ msgstr "संपादित करें"
+
+#~ msgid "View Appointment(s): "
+#~ msgstr "नियुक्ति देखें"
+
+#~ msgid "Update Time Off"
+#~ msgstr "टाईम आफ नवीनतम बनायें"
+
+#~ msgid "Repeat Weeks(s)"
+#~ msgstr "दोहरान हफ्तें"
+
+#~ msgid "Repeat Bi-Weeks(s)"
+#~ msgstr "दोहरान द्वि साप्ताहिक"
+
+#~ msgid "Time Off deleted successfully."
+#~ msgstr "टाईम आफ सफलतापूर्वक हटा दिया गया है।"
+
+#~ msgid "Country"
+#~ msgstr "देश"
+
+#~ msgid "Not Available."
+#~ msgstr "उपलब्ध नहीं"
+
+#~ msgid "Language"
+#~ msgstr "भाषा"
+
+#~ msgid "Time Zone"
+#~ msgstr "समय क्षेत्र"
+
+#~ msgid "Currency"
+#~ msgstr "मुद्रा"
+
+#~ msgid "Manage Settings"
+#~ msgstr "सेटिंग्स प्रबंधन"
+
+#~ msgid "Business Hours successfully updated."
+#~ msgstr "व्यापार के घंटो को सफलतापूर्वक नवीनतम बना दिया गया है।"
+
+#~ msgid "Close Day"
+#~ msgstr "छुट्टी का दिन"
+
+#~ msgid "Monday's Start-time and End-time can't be equal"
+#~ msgstr "सोमवार का प्रारंभ समय, अंत समय के बराबर नहीं हो सकता"
+
+#~ msgid "Monday's Start-time must be smaller then End-time"
+#~ msgstr "सोमवार का प्रारंभ समय अंत समय से छोटा होना चाहिए। "
+
+#~ msgid "Monday's End-time must be bigger then Start-time"
+#~ msgstr "सोमवार का अंत समय, प्रारंभ समय से बड़ा होगा"
+
+#~ msgid "Tuesday's Start-time and End-time can't be equal"
+#~ msgstr "मंगलवार का प्रारंभ समय, अंत समय के बराबर नहीं हो सकता"
+
+#~ msgid "Tuesday's Start-time must be smaller then End-time"
+#~ msgstr "मंगलवार का प्रारंभ समय अंत समय से छोटा होना चाहिए।"
+
+#~ msgid "Tuesday's End-time must be bigger then Start-time"
+#~ msgstr "मंगलवार का अंत समय, प्रारंभ समय से बड़ा होगा"
+
+#~ msgid "Wednesday's Start-time and End-time can't be equal"
+#~ msgstr "बुधवार का प्रारंभ समय, अंत समय के बराबर नहीं हो सकता"
+
+#~ msgid "Wednesday's Start-time must be smaller then End-time"
+#~ msgstr "बुधलवार का प्रारंभ समय अंत समय से छोटा होना चाहिए।"
+
+#~ msgid "Wednesday's End-time must be bigger then Start-time"
+#~ msgstr "बुधवार का अंत समय, प्रारंभ समय से बड़ा होगा"
+
+#~ msgid "Thursday's Start-time and End-time can't be equal"
+#~ msgstr "गुरुवार का प्रारंभ समय, अंत समय के बराबर नहीं हो सकता"
+
+#~ msgid "Thursday's Start-time must be smaller then End-time"
+#~ msgstr "गुरुवार का प्रारंभ समय अंत समय से छोटा होना चाहिए।"
+
+#~ msgid "Thursday's End-time must be bigger then Start-time"
+#~ msgstr "गुरुवार का अंत समय, प्रारंभ समय से बड़ा होगा"
+
+#~ msgid "Friday's Start-time and End-time can't be equal"
+#~ msgstr "शुक्रवार का प्रारंभ समय, अंत समय के बराबर नहीं हो सकता"
+
+#~ msgid "Friday's Start-time must be smaller then End-time"
+#~ msgstr "शुक्रवार का प्रारंभ समय अंत समय से छोटा होना चाहिए।"
+
+#~ msgid "Friday's End-time must be bigger then Start-time"
+#~ msgstr "शुक्रवार का अंत समय, प्रारंभ समय से बड़ा होगा"
+
+#~ msgid "Saturday's Start-time and End-time can't be equal"
+#~ msgstr "शनिवार का प्रारंभ समय, अंत समय के बराबर नहीं हो सकता"
+
+#~ msgid "Saturday's Start-time must be smaller then End-time"
+#~ msgstr "शनिवार का प्रारंभ समय, अंत समय के बराबर नहीं हो सकता"
+
+#~ msgid "Saturday's End-time must be bigger then Start-time"
+#~ msgstr "शनिवार का अंत समय, प्रारंभ समय बड़ा होगा"
+
+#~ msgid "Sunday's Start-time and End-time can't be equal"
+#~ msgstr "रविवार का प्रारंभ समय, अंत समय के बराबर नहीं हो सकता"
+
+#~ msgid "Sunday's Start-time must be smaller then End-time"
+#~ msgstr "रविवार का प्रारंभ समय अंत समय से छोटा होना चाहिए।"
+
+#~ msgid "Sunday's End-time must be bigger then Start-time"
+#~ msgstr "रविवार का अंत समय, प्रारंभ समय बड़ा होगा"
+
+#~ msgid "ERROR! Check Monday's Working Hours"
+#~ msgstr "त्रुटि सोमवार के काम के घंटे की जाँच करें"
+
+#~ msgid "ERROR! Check Tuesday's Working Hours"
+#~ msgstr "त्रुटि मंगलवार के काम के घंटे की जाँच करें"
+
+#~ msgid "ERROR! Check Wednesday's Working Hours"
+#~ msgstr "त्रुटि बुधवार के काम के घंटे की जाँच करें"
+
+#~ msgid "ERROR! Check Thursday's Working Hours"
+#~ msgstr "त्रुटि गुरुवार काम के घंटे की जाँच करें"
+
+#~ msgid "ERROR! Check Friday's Working Hours"
+#~ msgstr "त्रुटि शुक्रवार के काम के घंटे की जाँच करें"
+
+#~ msgid "ERROR! Check Saturday's Working Hours"
+#~ msgstr "त्रुटि शनिवार के काम के घंटे की जाँच करें"
+
+#~ msgid "ERROR! Check Sunday's Working Hours"
+#~ msgstr "त्रुटि रविवार के काम के घंटे की जाँच करें"
+
+#~ msgid "Business Name"
+#~ msgstr "व्यापार नाम"
+
+#~ msgid "Owner"
+#~ msgstr "मालिक"
+
+#~ msgid "State"
+#~ msgstr "राज्य"
+
+#~ msgid "Fax"
+#~ msgstr "फैक्स"
+
+#~ msgid "Postal Code"
+#~ msgstr "पोस्टल कोड"
+
+#~ msgid "Blog Url"
+#~ msgstr "ब्लोग यूआरएल"
+
+#~ msgid "Not Available"
+#~ msgstr "अनुपलब्ध"
+
+#~ msgid "Business  Name."
+#~ msgstr "व्यापार नाम"
+
+#~ msgid "Owner Name."
+#~ msgstr "मालिक का नाम"
+
+#~ msgid "Address."
+#~ msgstr "पता"
+
+#~ msgid "City."
+#~ msgstr "शहर"
+
+#~ msgid "State."
+#~ msgstr "राज्य"
+
+#~ msgid "Fax Number."
+#~ msgstr "फैक्स संख्या"
+
+#~ msgid "Postal Code."
+#~ msgstr "पोस्टल कोड"
+
+#~ msgid "Email."
+#~ msgstr "ईमेल"
+
+#~ msgid "Business Website URL."
+#~ msgstr "बिजनैस वेबसाइट यूआरएल"
+
+#~ msgid "Blog URL."
+#~ msgstr "ब्लोग यूआरएल"
+
+#~ msgid "Business profile successfully created."
+#~ msgstr "व्यापार प्रोफ़ाइल सफलतापूर्वक बना दिया गया है।"
+
+#~ msgid "Business profile successfully updated."
+#~ msgstr "व्यापार प्रोफ़ाइल सफलतापूर्वक नवीनतम कर दिया है।"
+
+#~ msgid "No updates made."
+#~ msgstr "कुछ नवीनतम नहीं किया गया।"
+
+#~ msgid "Business name cannot be blank."
+#~ msgstr "व्यापार नाम रिक्त नहीं हो सकता."
+
+#~ msgid "Owner name cannot be blank."
+#~ msgstr "मालिक का नाम खाली नहीं हो सकता."
+
+#~ msgid "Address cannot be blank."
+#~ msgstr "पता खाली नहीं हो सकता."
+
+#~ msgid "City cannot be blank."
+#~ msgstr "शहर खाली नहीं हो सकता."
+
+#~ msgid "State cannot be blank."
+#~ msgstr "राज्य रिक्त नहीं हो सकता."
+
+#~ msgid "Phone cannot be blank."
+#~ msgstr "फोन खाली नहीं हो सकता."
+
+#~ msgid "Postal code cannot be blank."
+#~ msgstr "पोस्टल कोड खाली नहीं हो सकता"
+
+#~ msgid "Invalid url. Eg. http://www.appointzilla.com"
+#~ msgstr "अवैध यूआरएल. उदा. Http://www.appointzilla.com"
+
+#~ msgid "Invalid blog url. Eg. http://www.appointzilla.com/blog"
+#~ msgstr "अवैध ब्लॉग यूआरएल. उदा. Http://www.appointzilla.com/blog"
+
+#~ msgid "Calendar settings sucessfully saved."
+#~ msgstr "कैलेंडर सेटिंग्स सफलतापूर्वक बना दी गई है।"
+
+#~ msgid "Date Format"
+#~ msgstr "तिथि प्रारूप"
+
+#~ msgid "DD-MM-YYYY"
+#~ msgstr "DD-MM-YYYY"
+
+#~ msgid "MM-DD-YYYY"
+#~ msgstr "MM-DD-YYYY"
+
+#~ msgid "YYYY-MM-DD"
+#~ msgstr "YYYY-MM-DD"
+
+#~ msgid "Time Format"
+#~ msgstr "समय स्वरूप"
+
+#~ msgid "12 Hour Time"
+#~ msgstr "12 घंटे का समय"
+
+#~ msgid "24 Hour Time"
+#~ msgstr "24 घंटे का समय"
+
+#~ msgid "Calendar Slot Time"
+#~ msgstr "कैलेंडर स्लॉट समय"
+
+#~ msgid "Day Start Time"
+#~ msgstr "दिन का प्रारम्भिक समय"
+
+#~ msgid "Day End Time"
+#~ msgstr "दिन की समाप्ति समय"
+
+#~ msgid "Calendar View"
+#~ msgstr "कैलेंडर का रुप "
+
+#~ msgid "Calendar Start Day"
+#~ msgstr "कैलेंडर का प्रारंभ दिन"
+
+#~ msgid "Booking Button Text"
+#~ msgstr "आरक्षण का बटन पाठ"
+
+#~ msgid "Booking Time Slot"
+#~ msgstr "बुकिंग स्लॉट का समय"
+
+#~ msgid "Google Calendar Client ID"
+#~ msgstr "गूगल कैलेंडर ग्राहक आईडी"
+
+#~ msgid "Google Calendar Secret Key"
+#~ msgstr "गूगल कैलेंडर गुप्त कुंजी"
+
+#~ msgid "2 Way Sync"
+#~ msgstr "2 रास्ते से सिंक"
+
+#~ msgid "Allow Google Calendar Sync"
+#~ msgstr "गूगल कैलेंडर सिंक की अनुमति दें"
+
+#~ msgid "Connecting..."
+#~ msgstr "जुड़ रहा है..."
+
+#~ msgid "Disconnecting..."
+#~ msgstr "कट रहा है।"
+
+#~ msgid "Manage Admin Settings"
+#~ msgstr "व्यवस्थापक सेटिंग प्रबंधित करें"
+
+#~ msgid "Your Living Country."
+#~ msgstr "आप जिस देश में रहते हो"
+
+#~ msgid "Your Country's Language."
+#~ msgstr "आपके देश की भाषा."
+
+#~ msgid "Your Country's Time Zone."
+#~ msgstr "आपके देश का समय क्षेत्र"
+
+#~ msgid "Your Country's Currency."
+#~ msgstr "आपके देश की मुद्रा"
+
+#~ msgid "Select Slot Time."
+#~ msgstr "कोइ समय चुनें"
+
+#~ msgid "Select Start Time."
+#~ msgstr "प्रारम्भ समय चुनें"
+
+#~ msgid "Select End Time."
+#~ msgstr "अंत समय चुनें"
+
+#~ msgid "Select Calendar View."
+#~ msgstr "कैलेंडर रुप"
+
+#~ msgid ""
+#~ "Date Format. Ex:<br>DD-MM-YYYY = 01-12-2013<br>MM-DD-YYYY = "
+#~ "12-01-2013<br>YYYY-MM-DD = 2013-12-01"
+#~ msgstr ""
+#~ "तिथि प्रारूप पूर्व:. <br> डीडी-एमएम-वायवायवायवाय = 01-12-2013 <br> एमएम-डीडी-"
+#~ "वायवायवायवाय= 12-01-2013 <br> वायवायवायवाय-एमएम-डीडी = 2013-12-01"
+
+#~ msgid "Time Format. Ex<br>12 Hour = 01:30 PM<br>24 Hour = 13:30"
+#~ msgstr "समय प्रारूप. जैसे <br> 12 घंटो = 01:30 PM <br> 24 घंटा = 13:30"
+
+#~ msgid "5 Minute"
+#~ msgstr "5 मिनट"
+
+#~ msgid "10 Minute"
+#~ msgstr "10 मिनट"
+
+#~ msgid "15 Minute"
+#~ msgstr "15 मिनट"
+
+#~ msgid "30 Minute"
+#~ msgstr "30 मिनट"
+
+#~ msgid "60 Minute"
+#~ msgstr "60 मिनट"
+
+#~ msgid "Calendar Time Slot"
+#~ msgstr "कैलेंडर स्लॉट का समय"
+
+#~ msgid "Calendar Day Start Time"
+#~ msgstr "कैलेंडर के दिन प्रारम्भ होने का समय है"
+
+#~ msgid "Calendar Day End Time"
+#~ msgstr "कैलेंडर के दिन की समाप्ति का समय"
+
+#~ msgid "Calendar First Day"
+#~ msgstr "कैलेंडर का प्रथम दिवस"
+
+#~ msgid "5 Minutes"
+#~ msgstr "15 मिनट"
+
+#~ msgid "10 Minutes"
+#~ msgstr "10 मिनट"
+
+#~ msgid "15 Minutes"
+#~ msgstr "15 मिनट"
+
+#~ msgid "20 Minutes"
+#~ msgstr "20 मिनट"
+
+#~ msgid "25 Minutes"
+#~ msgstr "25 मिनट"
+
+#~ msgid "30 Minutes - Half Hour"
+#~ msgstr "30 मिनट - आधा घन्टा"
+
+#~ msgid "35 Minutes"
+#~ msgstr "35 मिनट"
+
+#~ msgid "40 Minutes"
+#~ msgstr "40 मिनट"
+
+#~ msgid "45 Minutes"
+#~ msgstr "45 मिनट"
+
+#~ msgid "60 Minutes - One Hour"
+#~ msgstr "60 मिनट - 1 घन्टा"
+
+#~ msgid "75 Minutes"
+#~ msgstr "75 मिनट"
+
+#~ msgid "90 Minutes"
+#~ msgstr "90 मिनट"
+
+#~ msgid "120 Minutes - Two Hours"
+#~ msgstr "120 मिनट - 2 घन्टे"
+
+#~ msgid "150 Minutes"
+#~ msgstr "150 मिनट"
+
+#~ msgid "180 Minutes - Three Hours"
+#~ msgstr "180 मिनट - 3 घन्टे"
+
+#~ msgid "210 Minutes"
+#~ msgstr "210 मिनट"
+
+#~ msgid "240 Minutes - Four Hours"
+#~ msgstr "240 मिनट - 4 घन्टे"
+
+#~ msgid "270 Minutes"
+#~ msgstr "270 मिनट"
+
+#~ msgid "300 Minutes - Five Hours"
+#~ msgstr "300 मिनट - 5 घन्टे"
+
+#~ msgid "Booking Button Text Required."
+#~ msgstr "आरक्षण का बटन पाठ आवश्यक है"
+
+#~ msgid "Enable"
+#~ msgstr "सक्षम"
+
+#~ msgid "Enable Notification"
+#~ msgstr "अधिसूचना चालू करें"
+
+#~ msgid "Email Type"
+#~ msgstr "ईमेल प्रकार"
+
+#~ msgid "Select Type"
+#~ msgstr "प्रकार चुनें"
+
+#~ msgid "Notification Type"
+#~ msgstr "अधिसूचना प्रकार"
+
+#~ msgid "WP Mail Details"
+#~ msgstr "WP मेल विवरण"
+
+#~ msgid "Admin Email"
+#~ msgstr "व्यवस्थापक ईमेल"
+
+#~ msgid "PHPMail Details"
+#~ msgstr "PHP मेल विवरण"
+
+#~ msgid "SMTP Mail Details"
+#~ msgstr "SMTP मेल विवरण"
+
+#~ msgid "Host Name"
+#~ msgstr "होस्ट नाम"
+
+#~ msgid "Host Name Like eg: smtp.gmail.com, smtp.yahoo.com"
+#~ msgstr "होस्ट नाम, उदाहरण के लिए: smtp.gmail.com, smtp.yahoo.com"
+
+#~ msgid "Port Number"
+#~ msgstr "पोर्ट संख्या"
+
+#~ msgid "Smtp Port Number Like eg: Gmail & Yahoo Port Number = 465"
+#~ msgstr "SMTP पोर्ट संख्या, उदाहरण: जीमेल और याहू की पोर्ट संख्या = 465"
+
+#~ msgid "Admin SMTP Email"
+#~ msgstr "व्यवस्थापक SMTP ईमेल"
+
+#~ msgid "Admin SMTP Email Password"
+#~ msgstr "व्यवस्थापक SMTP ईमेल पासवर्ड"
+
+#~ msgid "Select email type"
+#~ msgstr "ईमेल प्रकार का चयन करें"
+
+#~ msgid "Enter wp email"
+#~ msgstr "Wp ईमेल दर्ज करें"
+
+#~ msgid "Enter php email"
+#~ msgstr "PHP ईमेल दर्ज करें"
+
+#~ msgid "Enter host name"
+#~ msgstr "होस्ट नाम दर्ज करें"
+
+#~ msgid "Enter port number"
+#~ msgstr "पोर्ट संख्या दर्ज करें"
+
+#~ msgid "Invalid port number."
+#~ msgstr "अमान्य पोर्ट संख्या"
+
+#~ msgid "Enter password"
+#~ msgstr "पासवर्ड दर्ज करें"
+
+#~ msgid "Manage Payment Settings"
+#~ msgstr "भुगतान सेटिंग प्रबंधित करें"
+
+#~ msgid "Select Payment Gateway"
+#~ msgstr "भुगतान गेटवे का चयन करें"
+
+#~ msgid "Paypal"
+#~ msgstr "पेपैल"
+
+#~ msgid "Payment Gateway"
+#~ msgstr "पेमेंट गेटवे"
+
+#~ msgid "Payment Email"
+#~ msgstr "भुगतान ईमेल"
+
+#~ msgid "Payment Processing Email"
+#~ msgstr "भुगतान प्रसंस्करण ईमेल"
+
+#~ msgid "Select payment gateway."
+#~ msgstr "भुगतान गेटवे का चयन करें"
+
+#~ msgid "Payment email required."
+#~ msgstr "भुगतान ईमेल की आवश्यकता है"
+
+#~ msgid "Manage Reminder Settings"
+#~ msgstr "अनुस्मारक सेटिंग्स प्रबंधित करें"
+
+#~ msgid "Send Reminder"
+#~ msgstr "अनुस्मारक भेजें"
+
+#~ msgid "Reminder Type"
+#~ msgstr "अनुस्मारक प्रकार"
+
+#~ msgid "Select Reminder Type"
+#~ msgstr "अनुस्मारक प्रकार चुनें"
+
+#~ msgid "Reminder Frequency"
+#~ msgstr "अनुस्मारक आवृत्ति"
+
+#~ msgid "Select Reminder Frequency"
+#~ msgstr "अनुस्मारक आवृत्ति का चयन करें"
+
+#~ msgid "1 Day Before"
+#~ msgstr "1 दिन पहले"
+
+#~ msgid "2 Day Before"
+#~ msgstr "2 दिन पहले"
+
+#~ msgid "3 Day Before"
+#~ msgstr "3 दिन पहले"
+
+#~ msgid "4 Day Before"
+#~ msgstr "4 दिन पहले"
+
+#~ msgid "5 Day Before"
+#~ msgstr "5 दिन पहले"
+
+#~ msgid "6 Day Before"
+#~ msgstr "6 दिन पहले"
+
+#~ msgid "Reminder Message Subject"
+#~ msgstr "अनुस्मारक संदेश का विषय"
+
+#~ msgid "Reminder Message Body"
+#~ msgstr "अनुस्मारक संदेश शारीर"
+
+#~ msgid "Use These Tags in Message"
+#~ msgstr "आप संदेश के मुख्य भाग में इन टैग का उपयोग कर सकते हैं।"
+
+#~ msgid "Client Name"
+#~ msgstr "ग्राहक नाम"
+
+#~ msgid "Client Email"
+#~ msgstr "ग्राहक ईमेल"
+
+#~ msgid "Appointment Date"
+#~ msgstr "नियुक्ति की तारीख"
+
+#~ msgid "Appointment Status"
+#~ msgstr "नियुक्ति स्थिति"
+
+#~ msgid "Appointment Time"
+#~ msgstr "नियुक्ति का समय"
+
+#~ msgid "Appointment Note"
+#~ msgstr "नियुक्ति विशेष निर्देश"
+
+#~ msgid "Blog Name"
+#~ msgstr "ब्लॉग नाम"
+
+#~ msgid "Select reminder type."
+#~ msgstr "अनुस्मारक प्रकार चुनें"
+
+#~ msgid "Select reminder frequency."
+#~ msgstr "अनुस्मारक आवृत्ति का चयन करें"
+
+#~ msgid "New Appointment"
+#~ msgstr "नई नियुक्ति"
+
+#~ msgid "Use Below Tags in Message"
+#~ msgstr "आप संदेश के मुख्य भाग में इन टैग का उपयोग कर सकते हैं।"
+
+#~ msgid "Client Phone"
+#~ msgstr "ग्राहक फोन"
+
+#~ msgid "Client Special Instruction"
+#~ msgstr "ग्राहक विशेष निर्देश"
+
+#~ msgid "Notify Client On New Appointment"
+#~ msgstr "नई नियुक्ति पर ग्राहक को सूचित करें"
+
+#~ msgid "Subject"
+#~ msgstr "विषय"
+
+#~ msgid "Body"
+#~ msgstr "संदेश"
+
+#~ msgid "Notify Client On Approve Appointment"
+#~ msgstr "नियुक्ति स्वीकार करने पर ग्राहक का संदेश"
+
+#~ msgid "Notify Client On Cancel Appointment"
+#~ msgstr "नियुक्ति रद्द करने पर ग्राहक का संदेश"
+
+#~ msgid "Notify Admin On New Appointment"
+#~ msgstr "नई नियुक्ति पर व्यवस्थापक को सूचित करें"
+
+#~ msgid "Notify Staff On New Appointment"
+#~ msgstr "नई नियुक्ति पर ग्राहक को सूचित करें"
+
+#~ msgid "Notification settings successfully updated."
+#~ msgstr "अधिसूचना सेटिंग सफलतापूर्वक नवीनतम हो चुकी है।"
+
+#~ msgid "Notification"
+#~ msgstr "अधिसूचना"
+
+#~ msgid "ON"
+#~ msgstr "चालू"
+
+#~ msgid "OFF"
+#~ msgstr "बंद"
+
+#~ msgid "Details"
+#~ msgstr "विवरण"
+
+#~ msgid "WP Email"
+#~ msgstr "WP ईमेल"
+
+#~ msgid "PHP Email"
+#~ msgstr "पीएपी ईमेल"
+
+#~ msgid "Payment settings successfully saved"
+#~ msgstr "भुगतान सेटिंग सफलतापूर्वक बना दी गई है।"
+
+#~ msgid "Payment settings successfully updated"
+#~ msgstr "भुगतान सेटिंग सफलतापूर्वक नवीनतम बना दी गई है"
+
+#~ msgid "Reminder settings successfully saved"
+#~ msgstr "अनुस्मारक सेटिंग्स सफलतापूर्वक बना दी गई है।"
+
+#~ msgid "Reminder settings successfully updated"
+#~ msgstr "अनुस्मारक सेटिंग सफलतापूर्वक नवीनतम बना दी गई है।"
+
+#~ msgid "Staff hours successfully saved."
+#~ msgstr "कर्मचारी समय सफलतापूर्वक बदल दिया गया है।"
+
+#~ msgid "Select any staff"
+#~ msgstr "किसी भी कर्मचारी का चयन करें"
+
+#~ msgid "Loading staff hours..."
+#~ msgstr "कर्मचारी समय लोड हो रहें हैं..."
+
+#~ msgid ""
+#~ "Current staff not assigned its staff hours. Please assign its staff hours"
+#~ msgstr "इस कर्मचारी को अपने स्टाफ घंटे नहीं सौंपे गये। स्टाफ घंटे सौंपे।\" "
+
+#~ msgid "Staff hours successfully updated."
+#~ msgstr "कर्मचारी समय सफलतापूर्वक नवीनतम बना दिया गया है।"
+
+#~ msgid "Step-3. Fill Out Your Details"
+#~ msgstr "चयण-3. विवरण भरें"
+
+#~ msgid "Invalid field value."
+#~ msgstr "अमान्य तथ्य"
+
+#~ msgid ""
+#~ "Phone cannot be blank. <br>Numbers only: 1234567890. <br>No characters."
+#~ msgstr "फोन खाली नहीं हो सकता <br> नंबर केवल:. 1234567890, वर्ण नहीं"
+
+#~ msgid "Appointment Calendar Premium Powered By:"
+#~ msgstr "नियुक्ति कैलेंडर प्रीमियम द्वारा संचालित:"
+
+#~ msgid "Appointment Scheduling Plugin For Wordpress"
+#~ msgstr "आपोंईटजिला: वर्डप्रैस के लिए नियुक्ति निर्धारण प्लगइन"
+
+#~ msgid "AppointZilla"
+#~ msgstr "आपोंईटजिला"
+
+#~ msgid "Manage Appointment"
+#~ msgstr "नियुक्ति प्रबंधन"
+
+#~ msgid "Payment Transaction Details"
+#~ msgstr "भुगतान लेनदेन के विवरण"
+
+#~ msgid ""
+#~ "Appointment Calendar Premium is a simple but effective plugin which "
+#~ "enables you to take appointments on your wordpress blog."
+#~ msgstr ""
+#~ "नियुक्ति कैलेंडर प्रीमियम एक सरल लेकिन प्रभावी प्लगइन जो आपको अपने वर्डप्रैस ब्लॉग पर "
+#~ "नियुक्तियों को लेने के लिए सक्षम बनाता है। "
+
+#~ msgid ""
+#~ "If you are a consultant/doctor/lawyer etc, you can harness the power of "
+#~ "appointment calendar."
+#~ msgstr ""
+#~ "यदि आप एक परामर्शदाता चिकित्सक, वकील आदि हैं, तो आप नियुक्ति कैलेंडर की शक्ति का "
+#~ "दोहन कर सकते हैं।"
+
+#~ msgid ""
+#~ "Simply unzip and upload appointment-calendar directory to /wp-content/"
+#~ "plugins/ directory and activate the plugin."
+#~ msgstr ""
+#~ "बस खोलें और नियुक्ति कैलेंडर प्रीमियम प्लगइन को /wp-content/plugins/ डयरेक्ट्री में "
+#~ "अपलोड करें और प्लगइन को सक्रिय करें।"
+
+#~ msgid "Repeat Week`s"
+#~ msgstr "साप्ताहिक दोहरान"
+
+#~ msgid "Repeat Month`s"
+#~ msgstr "मासिक दोहरान"
+
+#~ msgid "Repeat Day`s"
+#~ msgstr "दैनिक दोहरान"
+
+#~ msgid "Repeat Bi-week`s"
+#~ msgstr "दोहरान द्वि साप्ताहिक"
+
+#~ msgid "Updating Appointment..."
+#~ msgstr "नियुक्ति नवीनीकरण..."
+
+#~ msgid "Update TimeOff"
+#~ msgstr "टाईम आफ नवीनतम बनायें"
+
+#~ msgid "Updating Time Off..."
+#~ msgstr "टाईम आफ नवीनतम बनायें"
+
+#~ msgid "Start-time must be smaller than End-time."
+#~ msgstr "प्रारंभ समय अंत समय से छोटा होना चाहिए"
+
+#~ msgid "End-time must be bigger than Start-time."
+#~ msgstr "अंत समय, प्रारंभ समय से बड़ा होगा"
+
+#~ msgid "Start-date must be smaller than End-date."
+#~ msgstr "प्रारंभ की तारीख की समाप्ति की तारीख से कम होना चाहिए"
+
+#~ msgid "End-date must be bigger than Start-date."
+#~ msgstr "समाप्ति की तारीख के प्रारंभ की तारीख से भी बड़ा होना चाहिए"
+
+#~ msgid "Setup 'Business Profile'"
+#~ msgstr "व्यापार रूपरेखा का प्रबन्धन करें"
+
+#~ msgid "Manage 'Calendar Settings'"
+#~ msgstr "कैलेंडर सेटिंग्स का प्रबंधन"
+
+#~ msgid "Manage 'Notification Settings'"
+#~ msgstr "अधिसूचना सेटिंग का प्रबन्धन"
+
+#~ msgid "+ Add New Staff to this Group"
+#~ msgstr "+ इस समूह में नया कर्मचारी जोंडे़"
+
+#~ msgid "Notification Type."
+#~ msgstr "अधिसूचना टाइप"
+
+#~ msgid "You can use these Tags in message subject & body"
+#~ msgstr "आप संदेश के मुख्य भाग में इन टैग का उपयोग कर सकते हैं।"
+
+#~ msgid "Notify Client On New Appointment Message sucessfully updated."
+#~ msgstr "नई नियुक्ति पर ग्राहक के संदेश को सफलतापूर्वक नवीनतम बना दिया गया है।"
+
+#~ msgid "Notify Admin On New Appointment Message sucessfully updated."
+#~ msgstr "नई नियुक्ति पर व्यवस्थापक के संदेश को सफलतापूर्वक नवीनतम बना दिया गया है।"
+
+#~ msgid ""
+#~ "Notify Client On Approve/Cancel Appointment Message sucessfully updated."
+#~ msgstr ""
+#~ "नियुक्ति स्वीकार या रद्द करने पर ग्राहक के संदेश को सफलतापूर्वक नवीनतम बना दिया गया "
+#~ "है।"
+
+#~ msgid "is alredy existing Client email."
+#~ msgstr "पहले से उपस्थित है।"
+
+#~ msgid "240 Minutes - Three Hours"
+#~ msgstr "240 मिनट - 3 घन्टे"
+
+#~ msgid "scheduling appointment, please wait..."
+#~ msgstr "नई नियुक्ति बन रही है, प्रतीक्षा करें..."
+
+#, fuzzy
+#~ msgid "Sorry! Your appointment not successfull."
+#~ msgstr "माफ करना कोई नियुक्तियां नहीं हैं।"
+
+#, fuzzy
+#~ msgid "Capacity cannot be blank."
+#~ msgstr "शहर खाली नहीं हो सकता."
+
+#, fuzzy
+#~ msgid "Invalid capacity."
+#~ msgstr "अमान्य मूल्य"
+
+#~ msgid "name"
+#~ msgstr "नाम"
+
+#, fuzzy
+#~ msgid "Capacity Per Time Slot:"
+#~ msgstr "कैलेंडर के स्लॉट का समय."
+
+#~ msgid "Schedule An Appointment"
+#~ msgstr "नई नियुक्ति बनायें"
+
+#~ msgid "Setect Time & Service"
+#~ msgstr "सेवा और समय  का चयन करें"
+
+#~ msgid "with"
+#~ msgstr "के साथ"
+
+#~ msgid "Sorry! Today`s all appointments has been booked."
+#~ msgstr "क्षमा करें! आज सभी नियुक्तियों को बुक किया जा चुका है।"
+
+#~ msgid "Support & Help"
+#~ msgstr "समर्थन और मदद"
+
+#~ msgid "Duration Unit."
+#~ msgstr "अवधि इकाई"
+
+#~ msgid "Experience cannot be blank."
+#~ msgstr "अनुभव खाली नहीं हो सकता"
+
+#~ msgid "Zipcode"
+#~ msgstr "डाक संख्या"
+
+#~ msgid "Zip Number."
+#~ msgstr "डाक संख्या"
+
+#~ msgid "Zipcode cannot be blank."
+#~ msgstr "ज़िपकोड खाली नहीं हो सकता."
+
+#~ msgid "Website cannot be blank."
+#~ msgstr "वेबसाइट खाली नहीं हो सकती।"
+
+#~ msgid "Invalid url."
+#~ msgstr "अमान्य यूआरएल."
+
+#~ msgid "Invalid blog url."
+#~ msgstr "अमान्य ब्लॉग यूआरएल."
+
+#~ msgid "Google Email Password"
+#~ msgstr "गूगल ईमेल पासवर्ड"
+
+#~ msgid "Manage Google Calendar"
+#~ msgstr "गूगल कैलेंडर का प्रबंधन"
+
+#~ msgid "Time Zone "
+#~ msgstr "समय क्षेत्र"
+
+#~ msgid "Google email cannot be blank."
+#~ msgstr "ईमेल खाली नहीं हो सकता."
+
+#~ msgid "invalid google email."
+#~ msgstr "अमान्य गूगल ईमेल."
+
+#~ msgid "Google email password cannot be blank."
+#~ msgstr "ईमेल खाली नहीं हो सकता."
+
+#~ msgid "Calendar View."
+#~ msgstr "कैलेंडर रुप"
+
+#~ msgid "Calendar First Day."
+#~ msgstr "कैलेंडर का प्रथम दिवस."
+
+#~ msgid "Invalid gruop name"
+#~ msgstr "अमान्य समूह नाम"
+
+#~ msgid "Gruop name cannot be blank."
+#~ msgstr "समूह का नाम खाली नहीं हो सकता"
+
+#~ msgid "Staff category successfully deleted."
+#~ msgstr "कर्मचारी श्रेणी सफलतापूर्वक हटा दि गयी है।"
+
+#~ msgid "Invalid Category name."
+#~ msgstr "अमान्य श्रेणी नाम."
+
+#~ msgid "Do you want to delete this Clients"
+#~ msgstr "क्या आप यह ग्राहक हटाना चाहते हैं?"
+
+#~ msgid "Star Time"
+#~ msgstr "प्रारम्भ होन का समय:"
+
+#, fuzzy
+#~ msgid "All Day Event"
+#~ msgstr "पूरे दिन का टाईम आफ"

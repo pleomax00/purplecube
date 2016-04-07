@@ -1,0 +1,39 @@
+﻿div.gallery-embed-rajce-mini-preview {
+  font-size: inherit;
+  display: none;
+}
+
+.gallery-embed-rajce-mini-preview .gallery-item {
+  width: auto;
+}
+
+div.gallery-embed-rajce-mini-preview .gallery-item,
+div.gallery-embed-rajce-mini-preview p {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+div.gallery-embed-rajce-mini-preview a.link-to-rajce {
+  display: none;
+}
+
+div.gallery-embed-rajce-mini-preview span.gallery-name,
+div.gallery-embed-rajce-mini-preview span.gallery-description {
+  display: block;
+}
+
+div.gallery-embed-rajce-mini-preview span.media-count {
+  display: inline-block;
+}
+
+div.gallery-embed-rajce-mini-preview span.gallery-tags::before {
+  content: " | ";
+}
+
+div.gallery-embed-rajce-mini-preview span.gallery-description {
+  color: #666;
+}
+
+div.gallery-embed-rajce-mini-preview .gallery-item {
+  padding-right: 0.5em;
+}

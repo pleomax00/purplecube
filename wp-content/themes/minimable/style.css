@@ -1,0 +1,661 @@
+/*
+ Theme Name: 	Minimable
+ Theme URI: 	http://minimable.fedeweb.net/demo
+ Description: 	A minimal and scrollable wordpress theme
+ Version: 		1.5.5
+ Author: 		Fedeweb
+ Author URI: 	http://www.fedeweb.net
+ Tags: 			minimal,black,light,scrollable
+ */
+
+/*
+ ===========================
+ CONTENTS:
+
+ 01 General
+ 02 Menu
+ 03 Home Template
+ 04 Staff Template
+ 05 Gallery Template
+ 06 Portfolio Template
+ 07 Contact Template
+ 08 Fullwidth Template
+ 09 Media queries
+ ===========================
+ */
+
+/* ----------------------------------------------------------------------------------------------------------
+ 01 General ----------------------------------------------------------------------------------------
+ ---------------------------------------------------------------------------------------------------------- */
+
+body {
+	background: #f9f9f9;
+	font-family: 'Open Sans', 'Verdana', 'Arial', sans-serif;
+	color: #2d2d2d;
+	font-size:13px;
+	line-height:20px;
+}
+
+/* TYPOGRAPY */
+
+@font-face {
+	font-family: 'NovecentowideBookBold';
+	src: url('fonts/Novecentowide-Bold-webfont.eot');
+	src: url('fonts/Novecentowide-Bold-webfont.eot?#iefix') format('embedded-opentype'), url('fonts/Novecentowide-Bold-webfont.woff') format('woff'), url('fonts/Novecentowide-Bold-webfont.ttf') format('truetype'), url('fonts/Novecentowide-Bold-webfont.svg#NovecentowideBookBold') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'NovecentowideLightRegular';
+	src: url('fonts/Novecentowide-Light-webfont.eot');
+	src: url('fonts/Novecentowide-Light-webfont.eot?#iefix') format('embedded-opentype'), url('fonts/Novecentowide-Light-webfont.woff') format('woff'), url('fonts/Novecentowide-Light-webfont.ttf') format('truetype'), url('fonts/Novecentowide-Light-webfont.svg#NovecentowideLightRegular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+h1,h2,h3,h4,h5,h6 {
+	font-weight:normal;
+}
+h3 {
+	font-size:30px;
+	color: #333;
+	font-weight:300;
+}
+p {
+	font-weight: 400;
+} 
+header {
+	display:none;
+	z-index: 99999;
+	position:relative;
+}
+li, a, img {
+	outline: none !important;
+}
+section {
+	padding-top: 110px;
+	margin-bottom: 300px;
+	overflow: hidden;
+}
+#page-1 {
+	padding-top:140px;
+}
+.last-section {
+	margin-bottom:120px;
+}
+.section-title {
+	font-family: 'NovecentowideBookBold';
+	font-size: 50px;
+	line-height: 50px;
+	margin-bottom: 40px;
+	font-weight: normal;
+}
+.border {
+	border-top: 1px solid #f0f0f0;
+	padding-top: 20px;
+}
+a {
+	color:#01A3B2;
+}
+a:hover {
+	text-decoration:underline;
+	color:#01A3B2;
+}
+footer {
+	margin-bottom:0px;
+	background:#000000;
+	padding:15px 0;
+	color:#fff;
+	font-size:12px;
+	font-family: 'NovecentowideLightRegular';
+}
+footer a {
+	color:#fff;
+	text-decoration:underline;
+}
+input, textarea {
+	-webkit-appearance: none;
+	border-radius: 0;
+}
+.activation-message {
+	text-align:center;
+	font-size:20px;
+	line-height:22px;
+	padding:50px;
+}
+#page-2 .activation-message,#page-3 .activation-message,#page-4 .activation-message,#page-5 .activation-message {
+	display:none;
+}
+/* ----------------------------------------------------------------------------------------------------------
+ 02 Menu ----------------------------------------------------------------------------------------
+ ---------------------------------------------------------------------------------------------------------- */
+
+.navbar .nav {
+	float: right;
+}
+.navbar .nav > li > a {
+	padding: 10px 0 10px 15px;
+	
+	font-family: 'Open Sans', 'Verdana', 'Arial', sans-serif;
+	text-transform:uppercase;
+	font-weight:400;
+}
+.navbar .nav > li > a:hover {
+	background:transparent!important;
+}
+.navbar .nav > li.active > a {
+	background:transparent!important;
+}
+#mini-logo {
+	width:auto;
+	padding-top:13px;
+	float:left;
+}
+#mini-logo img {
+	height:14px;
+	width:auto;
+	display:block;
+}
+
+/* ----------------------------------------------------------------------------------------------------------
+ 03 Home Template ----------------------------------------------------------------------------------------
+ ---------------------------------------------------------------------------------------------------------- */
+
+#home-header {
+	margin-top: -100px;
+	margin-bottom: 50px;
+}
+#logo-title {
+	font-size:60px;
+	text-align:left;
+	font-family: 'NovecentowideBookBold';
+	font-weight:normal;	
+}
+#mini-slogan {
+	font-family: 'NovecentowideLightRegular';
+	font-weight:normal;
+	text-align:right;
+	font-size:18px;
+	padding-top:8px;
+}
+#slogan {
+	display: block;
+	overflow: hidden;
+	margin-bottom: 60px;
+}
+.three-big {
+	height: 218px;
+}
+.two-big {
+	height: 130px;
+}
+.one-big {
+	height: 100px;
+}
+.big-title {
+	font-family: 'NovecentowideLightRegular';
+	text-align: center;
+	padding-top: 0px;
+	font-size: 50px;
+	line-height: 50px;
+	margin-bottom: 20px;
+	font-weight: normal;
+	display:none;
+}
+.big-title span {
+	background:#000;
+	padding-left:10px;
+	padding-right:10px;
+}
+#nav-home ul {
+    list-style: none;
+}
+nav#nav-home ul li {
+	display:table;
+	position:relative;
+}
+.circle-menu {
+	width: 170px;
+	height: 170px;
+	display:block;
+	background: #01a3b2;
+	-moz-border-radius: 85px;
+	-webkit-border-radius: 85px;
+	border-radius: 85px;
+	text-align:center;
+	color:#fff;
+	display:table-cell;
+	vertical-align:middle;
+	margin:auto;
+	position:relative;
+	font-size:16px;
+	z-index: 1;
+	font-family: 'NovecentowideLightRegular';
+}
+.circle-black {
+	background: #000!important;
+}
+.label-link {
+	position:relative;
+	display:inline-block;
+	-moz-transition: all 1s ease;
+	-webkit-transition: all 1s ease;
+	-o-transition: all 1s ease;
+	transition: all 1s ease;
+	color:#fff;
+}
+.circle-menu:hover .label-link {
+	-moz-transform:  rotate(360deg);
+	-webkit-transform: rotate(360deg);
+	-o-transform:  rotate(360deg);
+	transform:  rotate(360deg);
+	color:#fff;
+} 
+span.arrow {
+	display:block;
+	background:url(img/arrow.png) no-repeat;
+	width:18px;
+	height:9px;
+	margin-left:-9px;
+	position:absolute;
+	bottom:20px;
+	left:50%;
+	z-index: 3;
+}
+
+/* ----------------------------------------------------------------------------------------------------------
+ 04 Staff Template ----------------------------------------------------------------------------------------
+ ---------------------------------------------------------------------------------------------------------- */
+
+#staff {
+	overflow: hidden;
+}
+.col-title {
+	font-family: 'NovecentowideLightRegular';
+	font-size: 20px;
+	font-weight: normal;
+	line-height: 20px;
+	font-style:normal;
+}
+.tab-content {
+	overflow: hidden;
+}
+.nav-tabs {
+	border: 0;
+}
+.nav-tabs li a {
+	border: 0;
+	font-weight: normal;
+	background: #01A3B2;
+	color: #ffffff;
+	border-radius: 0;
+	font-family: 'NovecentowideLightRegular';
+	margin-bottom:3px;
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	-ms-transition: all 0.2s ease-in-out;
+}
+.nav-tabs > li > a:hover {
+	background: #000000;
+	color: #ffffff;
+	border: 0;
+	border-radius: 0;
+}
+.nav-tabs > .active > a, .nav-tabs > .active > a:hover {
+	background: #000;
+	color: #ffffff;
+	border: 0;
+	border-radius: 0;
+}
+
+/* ----------------------------------------------------------------------------------------------------------
+ 05 Gallery Template ----------------------------------------------------------------------------------------
+ ---------------------------------------------------------------------------------------------------------- */
+
+.magnifier {
+	opacity: 1;
+	position: relative;
+	height: auto;
+	display: block;
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+	text-align:center;
+}
+.magnifier:hover {
+	opacity: 0.7;
+}
+.magnifier:after {
+	content: '';
+	display: block;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	opacity: 0;
+	left: 0;
+	top: 0;
+	background: url('img/magnifier.png') center center no-repeat;
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+}
+.magnifier:hover:after {
+	opacity: 1;
+}
+.gallery-content {
+	margin-bottom:30px;
+}
+
+/* ----------------------------------------------------------------------------------------------------------
+ 06 Portfolio Template ----------------------------------------------------------------------------------------
+ ---------------------------------------------------------------------------------------------------------- */
+
+#portfolio a.link-portfolio {
+	background: #01A3B2;
+	color: #ffffff!important;
+	text-decoration: none;
+	font-weight: normal;
+	padding: 8px 12px;
+	margin-top: 20px;
+	display: block;
+	width: 94px;
+	font-family: 'NovecentowideLightRegular';
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	-ms-transition: all 0.2s ease-in-out;
+}
+#portfolio a.link-portfolio:hover {
+	background: #000000;
+}
+.item {
+	margin-bottom: 30px;
+}
+
+/* ----------------------------------------------------------------------------------------------------------
+ 07 Contact Template ----------------------------------------------------------------------------------------
+ ---------------------------------------------------------------------------------------------------------- */
+
+.email-link {
+	font-family: 'Open Sans', 'Verdana', 'Arial', sans-serif;
+	color:#000000;
+	text-decoration:underline;
+}
+#find-us h3, #contact-info h3 {
+	margin-bottom:30px;
+}
+#find-us ul li {
+	line-height:30px;
+	font-size:15px;
+	font-weight:400;
+}
+#find-us ul.contact-info li span {
+    text-align: center;
+    width: 20px;
+}
+#contact ul li {
+	margin-bottom: 10px;
+}
+ul.social {
+	margin-top:20px;
+} 
+ul.social li {
+	margin-right:10px;
+	float:left;
+}
+ul.social li a span {
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	-ms-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+}
+ul.social li a span:hover {
+	color:#000000!important;
+}
+input[type="text"],input[type="email"], textarea {
+	border: none;
+	background: transparent;
+	border-bottom: 1px solid #999;
+	box-shadow: none;
+	margin-bottom: 20px;
+	border-radius: 0;
+	font-weight:400;
+}
+textarea:focus, input[type="text"]:focus,input[type="email"]:focus {
+	border-bottom: 1px solid #f0f0f0;
+	box-shadow: none;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	border-radius: 0;
+}
+input[type="submit"] {
+	border: 0;
+	background: #01a3b2;
+	padding: 10px 20px;
+	text-transform:uppercase;
+	font-weight:300;
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	-ms-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+	color:#fff;
+}
+input[type="submit"]:hover {
+	background:#000000;
+}
+span.wpcf7-not-valid-tip {
+	background: none !important;
+	border: 0 !important;
+	color: red;
+	font-size: 10pt;
+	padding: 2px;
+	position: absolute;
+	left: 20%;
+	top: -78% !important;
+	width: 280px;
+	z-index: 100;
+}
+#contact-info, #find-us {
+	position:relative;
+}
+#contact-info a {
+	text-decoration:underline;
+}
+
+
+/* ----------------------------------------------------------------------------------------------------------
+ 08 Fullwidth Template ----------------------------------------------------------------------------------------
+ ---------------------------------------------------------------------------------------------------------- */
+
+#full-width h1, 
+#full-width h2,
+#full-width h3,
+#full-width h4,
+#full-width h5,
+#full-width h6 {
+	font-weight:300;
+}
+img.alignleft {
+	float:left;
+	margin: 0 20px 20px 0;
+}
+img.alignright {
+	float:right;
+	margin: 0 0 20px 20px;
+}
+img.aligncenter {
+	display:block;
+	margin:20px auto;
+}
+img.alignnone {
+	display:block;
+	margin-bottom:20px;
+}
+/* ----------------------------------------------------------------------------------------------------------
+ 09 Media Queries ----------------------------------------------------------------------------------------
+ ---------------------------------------------------------------------------------------------------------- */
+
+@media (min-height:780px) {
+	.last-section {
+		min-height:750px;
+	}
+}
+
+@media (max-width: 1199px) {
+	.circle-menu {
+		height:140px;
+	}
+	#mini-slogan {
+		padding-top:4px;
+		font-size:16px;
+	}
+}
+@media (max-width: 979px) and (min-width: 767px) {
+	.feature-title {
+		font-size: 29px;
+	}
+	.navbar .nav {
+		float: left;
+	}
+	.home-col h2 {
+		font-size: 30px;
+		line-height: 30px;
+	}
+	.big-title {
+		font-size:40px;
+		line-height: 40px;
+	}
+	.circle-menu {
+		font-size:12px;
+	}
+}
+
+
+@media (max-width: 979px) {
+	.navbar-fixed-top, .navbar-fixed-bottom {
+		position: fixed;
+	}
+	.navbar-fixed-top .navbar-inner, .navbar-fixed-bottom .navbar-inner {
+		padding: 0;
+	}
+	.nav-collapse ul {
+		margin-top:10px;
+		padding-top:20px;
+	}
+	.nav-collapse ul li {
+		padding-bottom:20px;
+	}
+	.nav-collapse ul > li > a {
+		padding: 0px 10px 0px!important;
+	}
+	.circle-menu {
+		height:104px;
+	}
+	#home-header {
+		margin-top:-26px;
+	}
+	#mini-logo {
+		padding-left:10px;
+	}
+	#mini-slogan {
+		padding-top:8px;
+		font-size:14px;
+		line-height: 14px;
+	}
+	section {
+		padding-top: 90px;
+	}
+	#page-1 {
+		padding-top:60px;
+	}
+	.circle-menu:hover .label-link {
+		/* Firefox */
+		-moz-transform: scale(1) rotate(0deg) translate(0px);
+		/* WebKit */
+		-webkit-transform: scale(1) rotate(0deg) translate(0px);
+		/* Opera */
+		-o-transform: scale(1) rotate(0deg) translate(0px);
+		/* Standard */
+		transform: scale(1) rotate(0deg) translate(0px);
+		color:#fff;
+	} 
+}
+@media (max-width: 767px) {
+	body {
+		padding:0;
+	}
+	section {
+		padding: 110px 20px 0 20px;
+	}
+	footer {
+		padding-left:20px;
+		padding-right:20px;
+	}
+	.big-title {
+		font-size: 30px;
+		line-height: 40px;
+		margin-bottom: 10px;
+	}
+	.three-big,.two-big,.one-big   {
+		height: auto;
+	}
+	.section-title {
+		font-size: 30px;
+		line-height: 30px;
+		margin-bottom: 20px;
+	}
+	.navbar .nav {
+		float: left;
+	}
+	#slogan {
+		margin: 30px 0;
+	}
+	#contact-info {
+		clear: both;
+		margin-top: 80px;
+	}
+	#logo img {
+		display:block;
+		margin:auto;
+	}
+	#mini-slogan {
+		text-align:center;
+		float:none;
+		line-height:20px;
+	}
+	.navbar-fixed-top, .navbar-fixed-bottom, .navbar-static-top {
+		margin: 0;
+	}
+	#home-header {
+		margin-bottom:30px;
+	}
+	#nav-home ul li {
+		width:170px;
+		margin:20px auto 0;
+	}
+	.circle-menu {
+		width:170px;
+		height:170px;
+	}
+}
+@media only screen 
+	and (min-device-width : 768px) 
+	and (max-device-width : 1024px) 
+	and (orientation : landscape) {
+	.circle-menu:hover .label-link {
+		/* Firefox */
+		-moz-transform: scale(1) rotate(0deg) translate(0px);
+		/* WebKit */
+		-webkit-transform: scale(1) rotate(0deg) translate(0px);
+		/* Opera */
+		-o-transform: scale(1) rotate(0deg) translate(0px);
+		/* Standard */
+		transform: scale(1) rotate(0deg) translate(0px);
+		color:#fff;
+	} 
+}

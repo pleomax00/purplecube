@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+/*
+	Alobaidi Ajax Admin RTL Style.
+	By Alobaidi - www.wp-plugins.in
+*/
+
+.alobaidi-ajax-admin-save{
+	border-left:0;
+	border-right:#46b450 6px solid;
+}
+
+.alobaidi-ajax-admin-close{
+	right: auto;
+	left:-6px;
+}

@@ -1,0 +1,13 @@
+.sharing .tops { 
+	display:none;
+}
+.sharingbottom div.facebook {
+	width:45px;
+}
+input[type=submit] { 
+	padding:7px 3px 8px 3px!important; 
+}
+
+div.blogpost div.title .datetime { 
+	margin-top:-25px;
+}

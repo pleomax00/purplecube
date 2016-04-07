@@ -1,0 +1,107 @@
+@charset "utf-8";
+/* CSS Document */
+
+.testimonial_box{
+ margin: 0 auto;
+ border: 8px solid #FFFFFF;
+ border-radius:5px;
+ box-shadow: 2px 2px 4px #333333;
+ height:170px;
+
+}
+.testimonial{width:100% !important;}
+.testimonial_title h2{text-align:center; margin-bottom:15px;}
+.testimonial_box h2{text-align:center;}
+
+.testimonial img{float:left;padding:5px;box-shadow:none !important;}
+.testimonial h4{margin:10px 10px 0px 0px !important; text-align:right; position:absolute; right:0px;font-weight:bold !important; font-size:15px !important;}
+.contentdiv h4{font-weight:bold !important; font-size:15px !important;}
+.testimonial p {width:98% !important; text-align:left; padding:25px 0 0;margin:0 0 0 10px !important;}
+
+/* widget css */
+#widget_main{float:left;}
+.widget_box{
+ margin: 0 auto;
+ border: 8px solid #FFFFFF;
+ border-radius:5px;
+ box-shadow: 2px 2px 4px #333333;
+ height:170px;
+ margin-bottom:15px;
+}
+.widget_title h2{text-align:center; margin-bottom:15px;}
+
+/* pagination  css */
+.sliderwrapper{
+position: relative; /*leave as is*/
+overflow: hidden; /*leave as is*/
+border-bottom-width: 6px;
+/*width: 500px; /*width of featured content slider*/
+height:180px;
+border: 8px solid #FFFFFF;
+ border-radius:5px;
+ box-shadow: 2px 2px 4px #333333;
+ margin:0 auto;
+background:linear-gradient(#CEF3FF, #B7EDFF) repeat scroll 0 0 #B7EDFF; 
+ }
+
+.sliderwrapper .contentdiv{
+visibility: hidden; /*leave as is*/
+position: absolute; /*leave as is*/
+left: 0;  /*leave as is*/
+top: 0;  /*leave as is*/
+padding: 0px;
+background:linear-gradient(#CEF3FF, #B7EDFF) repeat scroll 0 0 #B7EDFF;
+filter:progid:DXImageTransform.Microsoft.alpha(opacity=100);
+-moz-opacity: 1;
+opacity: 1;
+margin-top:25px;
+}
+
+.pagination{
+width:auto; /*Width of pagination DIV. Total width should equal slider's outer width (400+10+10=420)*/
+text-align: right;
+margin:0px !important;
+}
+.pagination a{
+padding: 0 20px;
+text-decoration: none; 
+color: #00007D;
+font-weight:bold;
+}
+.pagination a.next{ background: url(../images/next_s.png) no-repeat scroll right;}
+.pagination a.prev{ background: url(../images/prev_s.png) no-repeat scroll left;}
+
+.pagination a:hover, .pagination a.selected{
+color: #000;
+background-color: #FEE496;
+}
+
+/* extra */
+.sliderwrapper .contentdiv img {float:left;margin-right:10px;}
+.sliderwrapper .contentdiv p{width:100%;}
+
+/* quotes css */
+blockquote.testimonial{position: relative; font-family: Georgia, serif;color: #666;border-radius: 5px;font-style: italic;text-shadow: 0 1px 0 #ECFBFF;float:none !important;}
+blockquote.testimonial p:before, blockquote.testimonial p:after 
+{ position: absolute;font-size: 50px;line-height: 1;color: #999;font-style: normal; font-weight:normal;}
+blockquote.testimonial p:before {content: "\201C"; top: 0;}
+blockquote.testimonial p:after {content: "\201D";right: 10px;} .arrow-down {width: 0; height: 0;border-left: 15px solid transparent;border-right: 15px solid transparent;     border-top: 15px solid #B7EDFF;     margin: 0 0 0 25px; font-weight:}
+
+/* widget  quote css */
+#widget_quote p{ margin:0px !important; width:90% !important;}
+
+/* important css */
+
+blockquote{margin:0px !important; padding:0px !important; font-size:15px !important;}
+
+.testimonial_title h2,.widget_title h2{font-size:18px; font-weight:bold;}
+
+div{box-sizing:content-box;-moz-box-sizing:padding-box;}
+
+/* plugin form css */
+.fields{border: 1px solid #DDDDDD;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.07) inset;
+    width: 300px;margin:0px 0px 0px 10px; float:left;}
+.fields p span.field{ margin:0 15px;}
+.fields h3{text-align:center;}
+.border-none{border:none;}

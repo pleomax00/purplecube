@@ -1,0 +1,9 @@
+.wishpond_iframe_holder {
+  overflow: hidden;
+}
+#wishpond_iframe {
+  width: 100%;
+  height: 1000px;
+  background: url('../../../assets/images/loader.png') 50% 50% no-repeat;
+  overflow-x: hidden;
+}

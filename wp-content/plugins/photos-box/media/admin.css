@@ -1,0 +1,46 @@
+/*
+ * PhotoBox: http://photoboxone.com/
+ */
+
+.clearfix:before,
+.clearfix:after{
+	display: block;
+	content: '';
+	clear: both;
+	height: 0;
+	overflow: hidden
+}
+
+.photo_box_settings{
+	
+}
+	.photo_box_settings img{
+		max-width: 100%;
+	}
+	.photo_box_settings em,
+	.photo_box_settings i{
+		font-style: italic;
+	}
+	.photo_box_settings strong,
+	.photo_box_settings b{
+		font-weight: bold;
+	}
+.photo_box_links{	padding-bottom: 10px;
+	min-height: 10px;
+	height: 10px;
+	height: auto !important;	
+}
+	.photo_box_links li{		display:block;		float:left;		padding-right: 15px;		line-height: 20px
+	}
+		.photo_box_links li img{
+			vertical-align: middle;
+		}
+			.photo_box_links li strong{
+				font-weight: normal;
+			}
+			.photo_box_links li em{
+				font-style: none;
+			}
+.inline-block{
+	display: inline-block;
+}

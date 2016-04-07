@@ -1,0 +1,30 @@
+.fb{
+	top:100px;
+	right:0px;
+	float:right;
+	position:fixed;
+	z-index: 2;
+
+}
+.fba{
+		top:100px;
+	right:0px;
+	position:fixed;
+	width:46px;
+	height:46px;
+	z-index:1;
+	background-color: 	#3b5998;
+	vertical-align: middle;
+	text-decoration: none;
+}
+
+.fb-text{
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+	text-align:center;
+	color:white;
+	font-size:28px;
+	padding-left: 40px;
+	vertical-align: middle;
+	line-height: 46px;
+	display:none;
+}

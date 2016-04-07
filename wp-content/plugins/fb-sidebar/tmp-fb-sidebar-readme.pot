@@ -1,0 +1,30 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "FB sidebar"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Animated facebook button with settings of custom text and URL."
+msgstr ""
+
+#. Screenshot description.
+msgid "nohover"
+msgstr ""
+
+#. Screenshot description.
+msgid "hover"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Install plugin"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Settings -&gt; FB"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "v1.0.0-First real version of this plugin"
+msgstr ""
